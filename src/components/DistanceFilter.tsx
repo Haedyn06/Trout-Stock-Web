@@ -7,6 +7,7 @@ interface DistanceFilterProps {
   onCityChange: (city: ReferenceCity) => void
   maxDistance: number | null
   onMaxDistanceChange: (distance: number | null) => void
+  hideLabel?: boolean
 }
 
 export default function DistanceFilter({
@@ -14,10 +15,11 @@ export default function DistanceFilter({
   onCityChange,
   maxDistance,
   onMaxDistanceChange,
+  hideLabel = false,
 }: DistanceFilterProps) {
   return (
     <div className="filter-group">
-      <label className="filter-label">Distance from</label>
+      {!hideLabel && <label className="filter-label">Distance from</label>}
       <div className="filter-row">
         <select
           value={city}

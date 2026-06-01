@@ -4,11 +4,13 @@ import { TROUT_TYPES } from '../types/fishWater'
 interface TroutTypeFilterProps {
   selected: TroutTypeKey[]
   onChange: (types: TroutTypeKey[]) => void
+  hideLabel?: boolean
 }
 
 export default function TroutTypeFilter({
   selected,
   onChange,
+  hideLabel = false,
 }: TroutTypeFilterProps) {
   function toggle(key: TroutTypeKey) {
     onChange(
@@ -20,7 +22,7 @@ export default function TroutTypeFilter({
 
   return (
     <div className="filter-group">
-      <span className="filter-label">Trout species present</span>
+      {!hideLabel && <span className="filter-label">Trout species present</span>}
       <div className="trout-filter-chips">
         {TROUT_TYPES.map(({ key, label }) => (
           <label key={key} className="chip">

@@ -4,11 +4,13 @@ import { ALBERTA_REGIONS } from '../types/fishWater'
 interface AlbertaRegionFilterProps {
   selected: AlbertaRegion[]
   onChange: (regions: AlbertaRegion[]) => void
+  hideLabel?: boolean
 }
 
 export default function AlbertaRegionFilter({
   selected,
   onChange,
+  hideLabel = false,
 }: AlbertaRegionFilterProps) {
   function toggle(key: AlbertaRegion) {
     onChange(
@@ -20,7 +22,7 @@ export default function AlbertaRegionFilter({
 
   return (
     <div className="filter-group">
-      <span className="filter-label">Alberta region</span>
+      {!hideLabel && <span className="filter-label">Alberta region</span>}
       <div className="trout-filter-chips">
         {ALBERTA_REGIONS.map(({ key, label }) => (
           <label key={key} className="chip">

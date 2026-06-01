@@ -137,7 +137,7 @@ export default function DetailsPage() {
 
       <div className="details-actions">
         <ExternalMapLinks water={water} />
-        <Link to="/map" className="btn btn-secondary">
+        <Link to={`/map?water=${encodeURIComponent(water.id)}`} className="btn btn-secondary">
           View on Site Map
         </Link>
       </div>

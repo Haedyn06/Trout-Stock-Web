@@ -4,11 +4,13 @@ import { WATER_BODY_TYPES, WATER_BODY_TYPE_LABELS } from '../types/fishWater'
 interface WaterBodyTypeFilterProps {
   selected: WaterBodyType[]
   onChange: (types: WaterBodyType[]) => void
+  hideLabel?: boolean
 }
 
 export default function WaterBodyTypeFilter({
   selected,
   onChange,
+  hideLabel = false,
 }: WaterBodyTypeFilterProps) {
   function toggle(type: WaterBodyType) {
     onChange(
@@ -20,7 +22,7 @@ export default function WaterBodyTypeFilter({
 
   return (
     <div className="filter-group">
-      <span className="filter-label">Water body type</span>
+      {!hideLabel && <span className="filter-label">Water body type</span>}
       <div className="trout-filter-chips">
         {WATER_BODY_TYPES.map((type) => (
           <label key={type} className="chip">

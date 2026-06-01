@@ -1,14 +1,15 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import '../utils/leafletIcons'
-import { fishWaters } from '../data/loadFishWaters'
+import { fishWaters, getFishWaterById } from '../data/loadFishWaters'
 import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '../types/fishWater'
-import AlbertaRegionFilter from '../components/AlbertaRegionFilter'
-import DistanceFilter from '../components/DistanceFilter'
+import FocusedWaterMarker from '../components/FocusedWaterMarker'
+import MapFilters from '../components/MapFilters'
+import MapLegendOverlay from '../components/MapLegendOverlay'
 import MapPopupContent from '../components/MapPopupContent'
-import TroutTypeFilter from '../components/TroutTypeFilter'
-import WaterBodyTypeFilter from '../components/WaterBodyTypeFilter'
+import MapResizeHandler from '../components/MapResizeHandler'
 import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
   filterByDistance,
@@ -18,61 +19,118 @@ import {
 
 const MAP_CENTER: [number, number] = [52.5, -114.5]
 
+/** Keeps panning and zoom locked to North America. */
+const NORTH_AMERICA_BOUNDS: [[number, number], [number, number]] = [
+  [15, -168],
+  [72, -52],
+]
+
 export default function MapPage() {
+  const [searchParams, setSearchParams] = useSearchParams()
+  const focusWaterId = searchParams.get('water')
+  const focusWater = focusWaterId ? getFishWaterById(focusWaterId) : undefined
+  const isFocused = Boolean(focusWater)
+
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
   const [maxDistance, setMaxDistance] = useState<number | null>(null)
   const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])
+  const [isFullscreen, setIsFullscreen] = useState(false)
 
   const filteredWaters = useMemo(() => {
+    if (focusWater) {
+      return [focusWater]
+    }
+
     let result = filterByDistance(fishWaters, referenceCity, maxDistance)
     result = filterByWaterBodyTypes(result, selectedTypes)
     result = filterByAlbertaRegions(result, selectedRegions)
     result = filterByTroutTypes(result, selectedTrout)
     return result
-  }, [referenceCity, maxDistance, selectedTypes, selectedRegions, selectedTrout])
+  }, [focusWater, referenceCity, maxDistance, selectedTypes, selectedRegions, selectedTrout])
 
-  return (
-    <div className="page map-page">
-      <section className="page-hero page-hero--compact">
-        <h1>Water Body Map</h1>
-        <p>Click a marker to see population stats and jump to full details.</p>
-      </section>
+  useEffect(() => {
+    if (!isFullscreen) {
+      return
+    }
 
-      <section className="controls-panel map-controls">
-        <DistanceFilter
-          city={referenceCity}
-          onCityChange={setReferenceCity}
-          maxDistance={maxDistance}
-          onMaxDistanceChange={setMaxDistance}
+    document.documentElement.classList.add('map-fullscreen-active')
+    document.body.classList.add('map-fullscreen-active')
+    document.body.style.overflow = 'hidden'
+
+    return () => {
+      document.documentElement.classList.remove('map-fullscreen-active')
+      document.body.classList.remove('map-fullscreen-active')
+      document.body.style.overflow = ''
+    }
+  }, [isFullscreen])
+
+  function clearFocus() {
+    setSearchParams({})
+  }
+
+  const filterProps = {
+    referenceCity,
+    onReferenceCityChange: setReferenceCity,
+    maxDistance,
+    onMaxDistanceChange: setMaxDistance,
+    selectedTypes,
+    onSelectedTypesChange: setSelectedTypes,
+    selectedRegions,
+    onSelectedRegionsChange: setSelectedRegions,
+    selectedTrout,
+    onSelectedTroutChange: setSelectedTrout,
+  }
+
+  const mapShell = (
+    <div className={`map-shell${isFullscreen ? ' map-shell--fullscreen' : ''}`}>
+      {isFocused && focusWater && (
+        <div className="map-focus-banner">
+          <p className="map-focus-banner__text">
+            Showing <strong>{focusWater.waterBodyName}</strong>
+          </p>
+          <button type="button" className="btn btn-secondary btn-sm" onClick={clearFocus}>
+            Show all waters
+          </button>
+        </div>
+      )}
+
+      {focusWaterId && !focusWater && (
+        <div className="map-focus-banner map-focus-banner--warning">
+          <p className="map-focus-banner__text">That water body was not found on the map.</p>
+          <button type="button" className="btn btn-secondary btn-sm" onClick={clearFocus}>
+            Show all waters
+          </button>
+        </div>
+      )}
+
+      {isFullscreen && !isFocused && (
+        <MapLegendOverlay
+          markerCount={filteredWaters.length}
+          onClose={() => setIsFullscreen(false)}
+          {...filterProps}
         />
+      )}
 
-        <WaterBodyTypeFilter
-          selected={selectedTypes}
-          onChange={setSelectedTypes}
-        />
-
-        <AlbertaRegionFilter
-          selected={selectedRegions}
-          onChange={setSelectedRegions}
-        />
-
-        <TroutTypeFilter
-          selected={selectedTrout}
-          onChange={setSelectedTrout}
-        />
-      </section>
-
-      <p className="results-count">
-        Showing {filteredWaters.length} marker
-        {filteredWaters.length !== 1 ? 's' : ''}
-      </p>
+      {!isFullscreen && (
+        <button
+          type="button"
+          className="map-fullscreen-btn"
+          onClick={() => setIsFullscreen(true)}
+          aria-label="Open full screen map"
+        >
+          Full screen
+        </button>
+      )}
 
       <div className="map-container">
         <MapContainer
           center={MAP_CENTER}
           zoom={7}
+          minZoom={3}
+          maxBounds={NORTH_AMERICA_BOUNDS}
+          maxBoundsViscosity={1}
           scrollWheelZoom
           className="leaflet-map"
         >
@@ -80,18 +138,53 @@ export default function MapPage() {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {filteredWaters.map((water) => (
-            <Marker
-              key={water.id}
-              position={[water.location.latitude, water.location.longitude]}
-            >
-              <Popup>
-                <MapPopupContent water={water} referenceCity={referenceCity} />
-              </Popup>
-            </Marker>
-          ))}
+          <MapResizeHandler active={isFullscreen} />
+          {focusWater ? (
+            <FocusedWaterMarker water={focusWater} referenceCity={referenceCity} />
+          ) : (
+            filteredWaters.map((water) => (
+              <Marker
+                key={water.id}
+                position={[water.location.latitude, water.location.longitude]}
+              >
+                <Popup>
+                  <MapPopupContent water={water} referenceCity={referenceCity} />
+                </Popup>
+              </Marker>
+            ))
+          )}
         </MapContainer>
       </div>
+    </div>
+  )
+
+  return (
+    <div className={`page map-page${isFullscreen ? ' map-page--fullscreen' : ''}`}>
+      {!isFullscreen && (
+        <>
+          <section className="page-hero page-hero--compact">
+            <h1>Water Body Map</h1>
+            <p>
+              {isFocused && focusWater
+                ? `Focused on ${focusWater.waterBodyName}. Use "Show all waters" on the map to browse everything again.`
+                : 'Click a marker to see population stats and jump to full details.'}
+            </p>
+          </section>
+
+          {!isFocused && (
+            <section className="controls-panel map-controls">
+              <MapFilters {...filterProps} />
+            </section>
+          )}
+
+          <p className="results-count">
+            Showing {filteredWaters.length} marker
+            {filteredWaters.length !== 1 ? 's' : ''}
+          </p>
+        </>
+      )}
+
+      {mapShell}
     </div>
   )
 }
