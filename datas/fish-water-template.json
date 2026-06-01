@@ -1,0 +1,57 @@
+{
+  "id": "",
+  "waterBodyName": "",
+  "waterBodyType": "lake",
+  "avgLength": 0,
+  "latestStockDate": "YYYY-MM-DD",
+  "population": 0,
+  "difficulty": 1,
+  "location": {
+    "name": "",
+    "latitude": 0,
+    "longitude": 0,
+    "cityRange": {
+      "calgaryKMRange": 0,
+      "edmontonKMRange": 0
+    }
+  },
+  "fishTypes": {
+    "brookTrout": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    },
+    "brownTrout": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    },
+    "tigerTrout": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    },
+    "rainbowTrout": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    },
+    "cutthroatTrout": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    },
+    "walleye": {
+      "population": 0,
+      "avgLength": 0,
+      "lastPopulatedDate": "YYYY-MM-DD"
+    }
+  },
+  "logs": [
+    {
+      "stockDate": "YYYY-MM-DD",
+      "typeOfFish": "",
+      "amountPopulated": 0
+    }
+  ]
+}

@@ -7,14 +7,22 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "enrich-locations": "node scripts/enrich-locations.mjs",
+    "enrich-locations:write": "node scripts/enrich-locations.mjs --write",
+    "classify-water-types": "node scripts/classify-water-body-types.mjs",
+    "classify-water-types:write": "node scripts/classify-water-body-types.mjs --write"
   },
   "dependencies": {
+    "leaflet": "^1.9.4",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.16.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@types/leaflet": "^1.9.21",
     "@types/node": "^24.12.3",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
