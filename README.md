@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/assets/logo.png" alt="AB-STrout logo" width="180" />
+</p>
+
 # StockFishStat
 
 An unofficial web app for quickly browsing Alberta stocked trout waters. Search and filter lakes, ponds, rivers, and reservoirs, view stocking stats on a map, and open full details for each water body.

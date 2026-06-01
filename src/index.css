@@ -64,17 +64,23 @@ a {
   background: linear-gradient(135deg, #1a365d 0%, #2b6cb0 100%);
   color: #fff;
   box-shadow: var(--shadow);
+  position: relative;
+  z-index: 10;
+  overflow: visible;
 }
 
 .header-inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem 1.5rem;
+  height: 5.25rem;
+  padding: 0.125rem 1.25rem;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow: visible;
 }
 
 .brand {
@@ -83,21 +89,15 @@ a {
   gap: 0.75rem;
   text-decoration: none;
   color: inherit;
+  line-height: 0;
 }
 
-.brand-icon {
-  font-size: 1.75rem;
-}
-
-.brand strong {
+.brand-logo {
   display: block;
-  font-size: 1.15rem;
-}
-
-.brand small {
-  display: block;
-  font-size: 0.75rem;
-  opacity: 0.85;
+  height: 8.5rem;
+  width: 8.5rem;
+  flex-shrink: 0;
+  object-fit: contain;
 }
 
 .site-nav {
@@ -108,8 +108,9 @@ a {
 .site-nav a {
   color: rgba(255, 255, 255, 0.85);
   text-decoration: none;
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 0.85rem;
   border-radius: 8px;
+  font-size: 0.9375rem;
   font-weight: 500;
   transition: background 0.15s;
 }
@@ -1129,6 +1130,16 @@ html.map-fullscreen-active .site-main {
 @media (max-width: 640px) {
   .site-main {
     padding: 1.25rem 1rem;
+  }
+
+  .header-inner {
+    height: 4.45rem;
+    padding: 0.1rem 1rem;
+  }
+
+  .brand-logo {
+    height: 7rem;
+    width: 7rem;
   }
 
   .controls-panel {

@@ -1,4 +1,5 @@
 import { Link, NavLink, Outlet } from 'react-router-dom'
+import brandLogo from '../assets/logo2.png'
 
 export default function Layout() {
   return (
@@ -6,11 +7,11 @@ export default function Layout() {
       <header className="site-header">
         <div className="header-inner">
           <Link to="/" className="brand">
-            <span className="brand-icon">🎣</span>
-            <span>
-              <strong>AB-STrout</strong>
-              <small>Alberta Trout Waters</small>
-            </span>
+            <img
+              src={brandLogo}
+              alt="AB-STrout — Alberta Trout Waters"
+              className="brand-logo"
+            />
           </Link>
           <nav className="site-nav">
             <NavLink to="/" end>
