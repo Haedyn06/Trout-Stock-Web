@@ -26,7 +26,7 @@ export default function Layout() {
       </main>
       <footer className="site-footer">
         <p>
-          Created by <strong>Hayden Davac</strong>
+          Created by <strong>Haedyn06</strong>
           <span className="site-footer-sep"> · </span>
           <Link to="/disclaimer">Disclaimer &amp; Terms of Use</Link>
         </p>

@@ -91,7 +91,7 @@ src/
 
 ## Developer
 
-Created by **Hayden Davac**.
+Created by **Haedyn06**.
 
 ## License
 

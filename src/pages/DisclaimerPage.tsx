@@ -119,11 +119,11 @@ export default function DisclaimerPage() {
         <section className="legal-section legal-section--credit">
           <h2>Developer</h2>
           <p>
-            AB-STrout was created by <strong>Hayden Davac</strong> as an
+            AB-STrout was created by <strong>Haedyn06</strong> as an
             independent personal project for the Alberta fishing community.
           </p>
           <p className="legal-meta">
-            &copy; {new Date().getFullYear()} Hayden Davac. All rights reserved.
+            &copy; {new Date().getFullYear()} Haedyn06. All rights reserved.
           </p>
         </section>
       </div>
