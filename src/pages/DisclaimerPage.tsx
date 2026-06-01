@@ -4,16 +4,16 @@ export default function DisclaimerPage() {
       <section className="page-hero">
         <h1>Disclaimer &amp; Terms of Use</h1>
         <p>
-          Please read this page before using StockFishStat. By using this site,
+          Please read this page before using AB-STrout. By using this site,
           you agree to the terms below.
         </p>
       </section>
 
       <div className="legal-content">
         <section className="legal-section">
-          <h2>About StockFishStat</h2>
+          <h2>About AB-STrout</h2>
           <p>
-            StockFishStat is an unofficial reference tool for quickly looking up
+            AB-STrout is an unofficial reference tool for quickly looking up
             stocked trout waters across Alberta. It is intended to help anglers
             explore population estimates, stocking history, difficulty ratings,
             and locations in one place — not to replace official government
@@ -58,7 +58,7 @@ export default function DisclaimerPage() {
         <section className="legal-section">
           <h2>No Affiliation</h2>
           <p>
-            StockFishStat is not affiliated with, endorsed by, or operated on
+            AB-STrout is not affiliated with, endorsed by, or operated on
             behalf of the Government of Alberta, Alberta Environment and
             Protected Areas, or any other government agency. All trademarks and
             official program names belong to their respective owners.
@@ -88,7 +88,7 @@ export default function DisclaimerPage() {
         <section className="legal-section">
           <h2>Limitation of Liability</h2>
           <p>
-            To the fullest extent permitted by law, the developer of StockFishStat
+            To the fullest extent permitted by law, the developer of AB-STrout
             shall not be liable for any direct, indirect, incidental, special,
             consequential, or punitive damages arising from your use of — or
             inability to use — this site, including but not limited to lost
@@ -119,7 +119,7 @@ export default function DisclaimerPage() {
         <section className="legal-section legal-section--credit">
           <h2>Developer</h2>
           <p>
-            StockFishStat was created by <strong>Hayden Davac</strong> as an
+            AB-STrout was created by <strong>Hayden Davac</strong> as an
             independent personal project for the Alberta fishing community.
           </p>
           <p className="legal-meta">

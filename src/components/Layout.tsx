@@ -8,7 +8,7 @@ export default function Layout() {
           <Link to="/" className="brand">
             <span className="brand-icon">🎣</span>
             <span>
-              <strong>StockFishStat</strong>
+              <strong>AB-STrout</strong>
               <small>Alberta Trout Waters</small>
             </span>
           </Link>
