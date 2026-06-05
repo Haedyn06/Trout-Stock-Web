@@ -8,14 +8,11 @@ import type {
   WaterBodyType,
 } from '../types/fishWater'
 import { DEFAULT_DISTANCE_KM, DEFAULT_SORT_DIRECTION } from '../types/fishWater'
-import DistanceFilter from '../components/DistanceFilter'
+import HomeFiltersPanel from '../components/HomeFiltersPanel'
 import Pagination from '../components/Pagination'
-import SortControls from '../components/SortControls'
-import TroutTypeFilter from '../components/TroutTypeFilter'
-import WaterBodyTypeFilter from '../components/WaterBodyTypeFilter'
 import WaterCard from '../components/WaterCard'
-import WaterSearchBar from '../components/WaterSearchBar'
 import {
+  filterByDifficulty,
   filterByDistance,
   filterBySearchQuery,
   filterByTroutTypes,
@@ -34,6 +31,7 @@ export default function HomePage() {
   )
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
+  const [selectedDifficulties, setSelectedDifficulties] = useState<number[]>([])
   const [searchQuery, setSearchQuery] = useState('')
   const [page, setPage] = useState(1)
   const listRef = useRef<HTMLDivElement>(null)
@@ -43,6 +41,7 @@ export default function HomePage() {
     filtered = filterByDistance(filtered, referenceCity, maxDistance)
     filtered = filterByWaterBodyTypes(filtered, selectedTypes)
     filtered = filterByTroutTypes(filtered, selectedTrout)
+    filtered = filterByDifficulty(filtered, selectedDifficulties)
     return sortWaters(filtered, sortField, sortDirection, referenceCity)
   }, [
     searchQuery,
@@ -50,6 +49,7 @@ export default function HomePage() {
     maxDistance,
     selectedTypes,
     selectedTrout,
+    selectedDifficulties,
     sortField,
     sortDirection,
   ])
@@ -93,34 +93,26 @@ export default function HomePage() {
         </p>
       </section>
 
-      <section className="controls-panel">
-        <WaterSearchBar
-          value={searchQuery}
-          onChange={resetPageAnd(setSearchQuery)}
-          resultCount={filteredWaters.length}
-          totalCount={fishWaters.length}
-        />
-        <DistanceFilter
-          city={referenceCity}
-          onCityChange={resetPageAnd(setReferenceCity)}
-          maxDistance={maxDistance}
-          onMaxDistanceChange={resetPageAnd(setMaxDistance)}
-        />
-        <SortControls
-          field={sortField}
-          direction={sortDirection}
-          onFieldChange={resetPageAnd(setSortField)}
-          onDirectionChange={resetPageAnd(setSortDirection)}
-        />
-        <WaterBodyTypeFilter
-          selected={selectedTypes}
-          onChange={resetPageAnd(setSelectedTypes)}
-        />
-        <TroutTypeFilter
-          selected={selectedTrout}
-          onChange={resetPageAnd(setSelectedTrout)}
-        />
-      </section>
+      <HomeFiltersPanel
+        searchQuery={searchQuery}
+        onSearchQueryChange={resetPageAnd(setSearchQuery)}
+        searchResultCount={filteredWaters.length}
+        searchTotalCount={fishWaters.length}
+        referenceCity={referenceCity}
+        onReferenceCityChange={resetPageAnd(setReferenceCity)}
+        maxDistance={maxDistance}
+        onMaxDistanceChange={resetPageAnd(setMaxDistance)}
+        sortField={sortField}
+        sortDirection={sortDirection}
+        onSortFieldChange={resetPageAnd(setSortField)}
+        onSortDirectionChange={resetPageAnd(setSortDirection)}
+        selectedTypes={selectedTypes}
+        onSelectedTypesChange={resetPageAnd(setSelectedTypes)}
+        selectedTrout={selectedTrout}
+        onSelectedTroutChange={resetPageAnd(setSelectedTrout)}
+        selectedDifficulties={selectedDifficulties}
+        onSelectedDifficultiesChange={resetPageAnd(setSelectedDifficulties)}
+      />
 
       <p className="results-count">
         {filteredWaters.length} of {fishWaters.length} water bodies match your filters

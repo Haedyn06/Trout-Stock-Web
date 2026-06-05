@@ -53,6 +53,14 @@ export function filterByWaterBodyTypes(
   return waters.filter((w) => selectedTypes.includes(w.waterBodyType))
 }
 
+export function filterByDifficulty(
+  waters: FishWater[],
+  selectedLevels: number[],
+): FishWater[] {
+  if (selectedLevels.length === 0) return waters
+  return waters.filter((w) => selectedLevels.includes(w.difficulty))
+}
+
 function normalizeSearchText(value: string): string {
   return value
     .toLowerCase()
@@ -62,19 +70,7 @@ function normalizeSearchText(value: string): string {
 }
 
 function getSearchHaystack(water: FishWater): string {
-  const troutLabels = getActiveTroutTypes(water)
-    .map(({ label }) => label)
-    .join(' ')
-
-  return normalizeSearchText(
-    [
-      water.waterBodyName,
-      water.id.replace(/_/g, ' '),
-      water.location.name,
-      water.waterBodyType,
-      troutLabels,
-    ].join(' '),
-  )
+  return normalizeSearchText(`${water.waterBodyName} ${water.location.name}`)
 }
 
 export function filterBySearchQuery(

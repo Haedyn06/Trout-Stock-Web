@@ -18,29 +18,17 @@ export default function WaterSearchBar({
       <label className="filter-label" htmlFor="water-search-input">
         Search waters
       </label>
-      <div className="water-search__field">
-        <input
-          id="water-search-input"
-          type="search"
-          className="water-search__input"
-          value={value}
-          onChange={(e) => onChange(e.target.value)}
-          placeholder="Search by lake name, location, or fish type…"
-          aria-label="Search water bodies"
-          autoComplete="off"
-          spellCheck={false}
-        />
-        {isActive && (
-          <button
-            type="button"
-            className="water-search__clear"
-            onClick={() => onChange('')}
-            aria-label="Clear search"
-          >
-            Clear
-          </button>
-        )}
-      </div>
+      <input
+        id="water-search-input"
+        type="search"
+        className="water-search__input"
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        placeholder="Search by water body name or location code…"
+        aria-label="Search by water body name or location code"
+        autoComplete="off"
+        spellCheck={false}
+      />
       {isActive && (
         <p className="water-search__hint" role="status" aria-live="polite">
           {resultCount} of {totalCount} water bodies match &ldquo;{value.trim()}&rdquo;

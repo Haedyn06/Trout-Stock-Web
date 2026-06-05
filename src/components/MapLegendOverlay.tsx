@@ -1,9 +1,6 @@
 import { useEffect, useState, type MouseEvent, type TouchEvent } from 'react'
 import type { MapFiltersProps } from './MapFilters'
-import AlbertaRegionFilter from './AlbertaRegionFilter'
-import DistanceFilter from './DistanceFilter'
-import TroutTypeFilter from './TroutTypeFilter'
-import WaterBodyTypeFilter from './WaterBodyTypeFilter'
+import MapFilters from './MapFilters'
 import useMediaQuery from '../hooks/useMediaQuery'
 
 interface MapLegendOverlayProps extends MapFiltersProps {
@@ -29,6 +26,8 @@ export default function MapLegendOverlay({
   onSelectedRegionsChange,
   selectedTrout,
   onSelectedTroutChange,
+  selectedDifficulties,
+  onSelectedDifficultiesChange,
 }: MapLegendOverlayProps) {
   const isMobile = useMediaQuery('(max-width: 640px)')
   const [isPanelOpen, setIsPanelOpen] = useState(() => !isMobile)
@@ -84,18 +83,20 @@ export default function MapLegendOverlay({
 
         <div className="map-legend__inner">
           <div className="map-legend__body">
-            <DistanceFilter
-              city={referenceCity}
-              onCityChange={onReferenceCityChange}
+            <MapFilters
+              referenceCity={referenceCity}
+              onReferenceCityChange={onReferenceCityChange}
               maxDistance={maxDistance}
               onMaxDistanceChange={onMaxDistanceChange}
+              selectedTypes={selectedTypes}
+              onSelectedTypesChange={onSelectedTypesChange}
+              selectedRegions={selectedRegions}
+              onSelectedRegionsChange={onSelectedRegionsChange}
+              selectedTrout={selectedTrout}
+              onSelectedTroutChange={onSelectedTroutChange}
+              selectedDifficulties={selectedDifficulties}
+              onSelectedDifficultiesChange={onSelectedDifficultiesChange}
             />
-
-            <WaterBodyTypeFilter selected={selectedTypes} onChange={onSelectedTypesChange} />
-
-            <AlbertaRegionFilter selected={selectedRegions} onChange={onSelectedRegionsChange} />
-
-            <TroutTypeFilter selected={selectedTrout} onChange={onSelectedTroutChange} />
           </div>
 
           <div className="map-legend__footer">

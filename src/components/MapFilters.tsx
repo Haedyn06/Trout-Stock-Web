@@ -1,6 +1,8 @@
 import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '../types/fishWater'
 import AlbertaRegionFilter from './AlbertaRegionFilter'
+import DifficultyFilter from './DifficultyFilter'
 import DistanceFilter from './DistanceFilter'
+import FilterSection from './FilterSection'
 import TroutTypeFilter from './TroutTypeFilter'
 import WaterBodyTypeFilter from './WaterBodyTypeFilter'
 
@@ -15,6 +17,8 @@ export interface MapFiltersProps {
   onSelectedRegionsChange: (regions: AlbertaRegion[]) => void
   selectedTrout: TroutTypeKey[]
   onSelectedTroutChange: (types: TroutTypeKey[]) => void
+  selectedDifficulties: number[]
+  onSelectedDifficultiesChange: (levels: number[]) => void
 }
 
 export default function MapFilters({
@@ -28,21 +32,52 @@ export default function MapFilters({
   onSelectedRegionsChange,
   selectedTrout,
   onSelectedTroutChange,
+  selectedDifficulties,
+  onSelectedDifficultiesChange,
 }: MapFiltersProps) {
   return (
-    <>
-      <DistanceFilter
-        city={referenceCity}
-        onCityChange={onReferenceCityChange}
-        maxDistance={maxDistance}
-        onMaxDistanceChange={onMaxDistanceChange}
-      />
+    <div className="filters-panel__grid filters-panel__grid--map">
+      <FilterSection title="Trout species">
+        <TroutTypeFilter
+          selected={selectedTrout}
+          onChange={onSelectedTroutChange}
+          hideLabel
+        />
+      </FilterSection>
 
-      <WaterBodyTypeFilter selected={selectedTypes} onChange={onSelectedTypesChange} />
+      <FilterSection title="Water body type">
+        <WaterBodyTypeFilter
+          selected={selectedTypes}
+          onChange={onSelectedTypesChange}
+          hideLabel
+        />
+      </FilterSection>
 
-      <AlbertaRegionFilter selected={selectedRegions} onChange={onSelectedRegionsChange} />
+      <FilterSection title="Alberta region">
+        <AlbertaRegionFilter
+          selected={selectedRegions}
+          onChange={onSelectedRegionsChange}
+          hideLabel
+        />
+      </FilterSection>
 
-      <TroutTypeFilter selected={selectedTrout} onChange={onSelectedTroutChange} />
-    </>
+      <FilterSection title="Difficulty">
+        <DifficultyFilter
+          selected={selectedDifficulties}
+          onChange={onSelectedDifficultiesChange}
+          hideLabel
+        />
+      </FilterSection>
+
+      <FilterSection title="By distance" alwaysOpen>
+        <DistanceFilter
+          city={referenceCity}
+          onCityChange={onReferenceCityChange}
+          maxDistance={maxDistance}
+          onMaxDistanceChange={onMaxDistanceChange}
+          hideLabel
+        />
+      </FilterSection>
+    </div>
   )
 }

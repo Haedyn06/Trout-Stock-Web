@@ -156,3 +156,10 @@ export const DIFFICULTY_LABELS: Record<number, string> = {
 }
 
 export const MAX_DIFFICULTY = 5
+
+export const DIFFICULTY_OPTIONS = (
+  Object.entries(DIFFICULTY_LABELS) as [string, string][]
+).map(([level, label]) => ({
+  value: Number(level),
+  label,
+}))

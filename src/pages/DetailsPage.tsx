@@ -1,12 +1,13 @@
 import { Link, useParams } from 'react-router-dom'
 import { getFishWaterById } from '../data/loadFishWaters'
-import { ALL_FISH_TYPES } from '../types/fishWater'
+import { ALL_FISH_TYPES, type FishTypeKey } from '../types/fishWater'
 import DifficultyBadge from '../components/DifficultyBadge'
 import ExternalMapLinks from '../components/ExternalMapLinks'
 import WaterBodyTypeBadge from '../components/WaterBodyTypeBadge'
 import {
   formatDate,
   formatNumber,
+  getFishTypeLabel,
 } from '../utils/fishWater'
 
 export default function DetailsPage() {
@@ -108,7 +109,7 @@ export default function DetailsPage() {
       </section>
 
       <section className="details-logs">
-        <h2>Stocking Logs</h2>
+        <h2>Stocking Logs 2026</h2>
         {sortedLogs.length === 0 ? (
           <p className="muted">No stocking records available.</p>
         ) : (
@@ -125,7 +126,7 @@ export default function DetailsPage() {
                 {sortedLogs.map((log, index) => (
                   <tr key={`${log.stockDate}-${log.typeOfFish}-${index}`}>
                     <td>{formatDate(log.stockDate)}</td>
-                    <td>{log.typeOfFish}</td>
+                    <td>{getFishTypeLabel(log.typeOfFish as FishTypeKey)}</td>
                     <td>{formatNumber(log.amountPopulated)}</td>
                   </tr>
                 ))}

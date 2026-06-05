@@ -10,6 +10,7 @@ interface SortControlsProps {
   direction: SortDirection
   onFieldChange: (field: SortField) => void
   onDirectionChange: (direction: SortDirection) => void
+  hideLabel?: boolean
 }
 
 export default function SortControls({
@@ -17,6 +18,7 @@ export default function SortControls({
   direction,
   onFieldChange,
   onDirectionChange,
+  hideLabel = false,
 }: SortControlsProps) {
   function handleFieldChange(nextField: SortField) {
     onFieldChange(nextField)
@@ -25,7 +27,7 @@ export default function SortControls({
 
   return (
     <div className="filter-group">
-      <span className="filter-label">Sort by</span>
+      {!hideLabel && <span className="filter-label">Sort by</span>}
       <div className="filter-row">
         <select
           id="sort-field-select"
