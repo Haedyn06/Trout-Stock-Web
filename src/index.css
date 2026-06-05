@@ -242,6 +242,63 @@ a {
   margin-bottom: 1rem;
 }
 
+.water-search {
+  flex: 1 1 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.water-search__field {
+  display: flex;
+  gap: 0.5rem;
+  align-items: stretch;
+}
+
+.water-search__input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text-h);
+  font: inherit;
+}
+
+.water-search__input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+  border-color: var(--accent);
+}
+
+.water-search__input::-webkit-search-cancel-button {
+  cursor: pointer;
+}
+
+.water-search__clear {
+  flex-shrink: 0;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.water-search__clear:hover {
+  color: var(--text-h);
+  border-color: var(--accent);
+}
+
+.water-search__hint {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+}
+
 .filter-group {
   display: flex;
   flex-direction: column;

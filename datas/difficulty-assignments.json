@@ -1,0 +1,2595 @@
+{
+  "generatedAt": "2026-06-05T03:49:12.449Z",
+  "assignments": [
+    {
+      "id": "black_nugget_mine_pit",
+      "waterBodyName": "Black Nugget Mine Pit",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6923",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6923",
+      "excerpt": " this well-appointed campground offers 21 sites suitable for both rvs and tents, with the option to gather with friends at one of the designated group sites. most campsites are well-treed, providing privacy and shade, while several are loca"
+    },
+    {
+      "id": "blood_indian_creek",
+      "waterBodyName": "Blood Indian Creek",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3494",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3494",
+      "excerpt": " blood indian park campground operates on a first-come, first-served basis and is open seasonally from april 1 to november 1, with winter camping available outside of these dates. the campground features 300 campsites, including 29 serviced"
+    },
+    {
+      "id": "bonnyville_town_pond",
+      "waterBodyName": "Bonnyville Town Pond",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6890",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6890",
+      "excerpt": " located within the town of bonnyville, this community pond provides convenient access for recreational fishing. the alberta conservation association (aca) stocks the pond annually with trout, typically prior to the may long weekend, ensuri"
+    },
+    {
+      "id": "boulder_lake",
+      "waterBodyName": "Boulder Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "417506",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=417506",
+      "excerpt": " this newly stocked pond near red deer is managed by the alberta conservation association (aca) and offers convenient access for recreational users. while amenities are currently limited, site development is ongoing and improvements will be"
+    },
+    {
+      "id": "bow_city_east_ponds",
+      "waterBodyName": "Bow City East Ponds",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6882",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6882",
+      "excerpt": " bow city east pond is annually stocked with trout by the alberta conservation association (aca), typically prior to the may long weekend."
+    },
+    {
+      "id": "boyle_pond",
+      "waterBodyName": "Boyle Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6884",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6884",
+      "excerpt": " this 10-acre pond with a camp kitchen, picnic area and ample parking. it is stocked annually by aca with trout, typically before the may long weekend."
+    },
+    {
+      "id": "brooks_aquaduct_pond",
+      "waterBodyName": "Brooks Aquaduct Pond",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6873",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6873",
+      "excerpt": " brooks aqueduct, also known as aqueduct marshes, offers trout fishing in its pond and includes a boat launch for easy water access. while the site lacks additional amenities, it features a mowed walking path that leads east of the pond, pr"
+    },
+    {
+      "id": "bud_miller_park_pond",
+      "waterBodyName": "Bud Miller Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6876",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6876",
+      "excerpt": " the fishing pond is located within bud miller all seasons park and is accessible via 59 avenue. both locals and visitors enjoy trout fishing at this popular spot. the alberta conservation association (aca) typically stocks the pond before "
+    },
+    {
+      "id": "bullshead_reservoir",
+      "waterBodyName": "Bullshead Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "manual",
+      "reasons": [
+        "manual override (not on MWA or known local access)"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "burmis_lake",
+      "waterBodyName": "Burmis Lake",
+      "previousDifficulty": 4,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6879",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6879",
+      "excerpt": " there is no boat launch but canoes can be carried easily from the parking area. this little lake might be just right for young families."
+    },
+    {
+      "id": "burns_reservoir",
+      "waterBodyName": "Burn's Reservoir",
+      "previousDifficulty": 4,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6880",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6880",
+      "excerpt": " this lake is operated and maintained by the royal canadian legion branch #43. fishing is restricted to senior citizens 65+ and the handicapped."
+    },
+    {
+      "id": "butchers_lake",
+      "waterBodyName": "Butcher's Lake",
+      "previousDifficulty": 4,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4171",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4171",
+      "excerpt": " butcher’s lake is nestled in the castle region, approximately 21 kilometers south of pincher creek. known for its crystal-clear waters and stunning natural backdrop, this lake is a popular fishing destination throughout the year. butcher’s"
+    },
+    {
+      "id": "by_the_lake_park",
+      "waterBodyName": "By The Lake Park",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6614",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6614",
+      "excerpt": " by-the-lake park is a 17-acre constructed lake surrounded by a 25 kilometre paved trail. a large picnic area, playground, and public washrooms make this an ideal spot to spend some time and fish."
+    },
+    {
+      "id": "captain_eyre_lake_capt",
+      "waterBodyName": "Captain Eyre Lake (Capt)",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4208",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4208",
+      "excerpt": " visitors to the park can enjoy a variety of activities, including swimming, canoeing, and trout fishing. the park offers full-service campsites along with convenient amenities such as a laundromat, concession, showers, and washrooms. for r"
+    },
+    {
+      "id": "cardiff_park_pond",
+      "waterBodyName": "Cardiff Park Pond",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6868",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6868",
+      "excerpt": " cardiff park is a day-use park with single-family and group picnic sites, picnic shelters, stand-up bbqs and fire pits. cardiff lake is situated within the park, and is a local fishing hole for trout."
+    },
+    {
+      "id": "castaway_trout_pond",
+      "waterBodyName": "Castaway Trout Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "20258",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=20258",
+      "excerpt": " castaway trout pond, located near viking southeast of edmonton, is an excellent destination for both beginners and experienced anglers to enjoy fishing. the alberta conservation association (aca) typically stocks this water body before the"
+    },
+    {
+      "id": "castor_eastside_trout_pond",
+      "waterBodyName": "Castor Eastside Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "18022",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=18022",
+      "excerpt": " the fish pond is located on the south side of highway 12, just before entering the town of castor. it is stocked annually with trout, providing anglers with a reliable fishing opportunity throughout the season."
+    },
+    {
+      "id": "cecil_thompson_pond",
+      "waterBodyName": "Cecil Thompson Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6778",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6778",
+      "excerpt": " cecil thompson park that features outdoor exercise equipment, an excellent fishing pond, a beautiful gazebo and a walking bridge. it is a perfect location to spend the day or spend the night at one of the 5 un-serviced lots, available firs"
+    },
+    {
+      "id": "chain_lakes_lower_chain",
+      "waterBodyName": "Chain Lakes (Lower Chain)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6528",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6528",
+      "excerpt": " chain lakes campground is located in chain lakes provincial recreation area. this small lake is stocked annually, providing a great opportunity to fish from shore, canoe, or electric powered boat. check your local regulations before you go"
+    },
+    {
+      "id": "chain_lakes_reservoir",
+      "waterBodyName": "Chain Lakes Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3499",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3499",
+      "excerpt": " chain lakes reservoir campground offers more than 90 serviced and unserviced campsites, providing a comfortable and scenic setting for outdoor enthusiasts. visitors can enjoy a variety of recreational activities, including swimming, beach "
+    },
+    {
+      "id": "chatwin_lake",
+      "waterBodyName": "Chatwin Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4252",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4252",
+      "excerpt": " chatwin lake was stocked with trout in the spring of 2020 after many years without fish. the lake boarders the bonnyville golf course and private residences. the staging area is gravel, with a crude boat launch and smaller boats are recomm"
+    },
+    {
+      "id": "claude_n_brennan",
+      "waterBodyName": "Claude N. Brennan",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6082",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6082",
+      "excerpt": " this pond is in vermilion provincial park. users are subject to vermilion provincial park restrictions."
+    },
+    {
+      "id": "corner_lake",
+      "waterBodyName": "Corner Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6859",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6859",
+      "excerpt": " corner lake, located on the southeast corner of raymond beside perrett park campground, is a newly stocked fishing site featuring rainbow trout. anglers are encouraged to report any catches of large pike (greater than 20 cm) to the town fo"
+    },
+    {
+      "id": "coronation_reservoir",
+      "waterBodyName": "Coronation Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6845",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6845",
+      "excerpt": " the campground is located along the coronation dam with 50 fully and partially serviced sites, five with power and water. the coronation dam is home year-round fishing there is a boat launch for small fishing boats."
+    },
+    {
+      "id": "county_sportplex_pond",
+      "waterBodyName": "County Sportplex Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "417477",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=417477",
+      "excerpt": " there is currently paved vehicle access to within 100 m of the pond and a paved walking path around the pond's perimeter aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "cow_lake",
+      "waterBodyName": "Cow Lake",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4340",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4340",
+      "excerpt": " this a popular winter fishing destination. there is a public boat launch available, with a day use area."
+    },
+    {
+      "id": "crossfield_trout_pond",
+      "waterBodyName": "Crossfield Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "23293",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=23293",
+      "excerpt": " this pond is located in the town. both ponds are stocked with fish."
+    },
+    {
+      "id": "crowsnest_lake",
+      "waterBodyName": "Crowsnest Lake",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4374",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4374",
+      "excerpt": " this large, deep, natural lake lies just east of the continental divide along alberta highway 3 there is a vast parking area at the west end of the lake, a necessary amenity when winter blizzards close the mountain pass. the parking area i"
+    },
+    {
+      "id": "cummings_lake",
+      "waterBodyName": "Cummings Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6850",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6850",
+      "excerpt": " there is 1 km of paved walk trails that connect to the gold course, there are lots of amenities at this pond. enjoy the day of fishing for trout and hanging out at the day use group area."
+    },
+    {
+      "id": "dandurand_lake",
+      "waterBodyName": "Dandurand Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6659",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6659",
+      "excerpt": " dandurand lake is located north of hwy #16 and just southeast of the boundary of sundance provincial park. it is stocked annually and is a popular fishing hole."
+    },
+    {
+      "id": "daysland_pond",
+      "waterBodyName": "Daysland Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6852",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6852",
+      "excerpt": " this pond is in daysland and borders the golf course. the pond aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "dewitts_pond",
+      "waterBodyName": "Dewitt's Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6853",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6853",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend. there are invasive prussian carp at this waterbody, if you catch one please do not return it to the waterbody."
+    },
+    {
+      "id": "dickson_trout_pond",
+      "waterBodyName": "Dickson Trout Pond",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6844",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6844",
+      "excerpt": " there are 18 campsites at dickson camping area, adjacent to the trout pond. please note that amenities in the campsites are very limited. these are un-serviced sites with no potable water."
+    },
+    {
+      "id": "dillberry_lake",
+      "waterBodyName": "Dillberry Lake",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4446",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4446",
+      "excerpt": " sites in this prairie campground are suitable for rvs and tents and most have power. there are many amenities here including a playground, small campground store, toilets, and showers. this park is a great getaway for families who want to "
+    },
+    {
+      "id": "diplomat_mine_pond",
+      "waterBodyName": "Diplomat Mine Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6833",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6833",
+      "excerpt": " the trout pond is home to many wildlife and plant species and can be seen from the nature trail or lakeside gazebo."
+    },
+    {
+      "id": "dolberg_lake",
+      "waterBodyName": "Dolberg Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "manual",
+      "reasons": [
+        "manual override (not on MWA or known local access)"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "dunn_lake",
+      "waterBodyName": "Dunn Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4488",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4488",
+      "excerpt": " dunn lake is situated east of petite lake, and northeast of jarvis creek."
+    },
+    {
+      "id": "east_dollar_lake",
+      "waterBodyName": "East Dollar Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4460",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4460",
+      "excerpt": " this waterbody is stocked by epa with trout and is aerated during the winter months."
+    },
+    {
+      "id": "east_pit_lake",
+      "waterBodyName": "East Pit Lake",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6840",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6840",
+      "excerpt": " designated a day-use area. there is a small 20 car parking lot is the entrance to a footpath that leads to the lake. no power boats are allowed; canoes and inflatables must be carried and hand-launched."
+    },
+    {
+      "id": "east_stormwater_pond",
+      "waterBodyName": "East Stormwater Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "22993",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=22993",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "elk_creek_pond",
+      "waterBodyName": "Elk Creek Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6820",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6820",
+      "excerpt": " elk creek pond is a day use and picnic area. it is well manicured and is an ideal place for an adventure."
+    },
+    {
+      "id": "elk_point_pond",
+      "waterBodyName": "Elk Point Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "417505",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=417505",
+      "excerpt": " day use area. come and try your luck catching one of the stocked trout."
+    },
+    {
+      "id": "emerson_lake",
+      "waterBodyName": "Emerson Lake",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "4535",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4535",
+      "excerpt": " the park is off the beaten path, but once you find it, you'll be rewarded with a chain of 5 small lakes and about 7 km of trails to explore. you can fish for stocked trout, canoe, or take an electric powered boat on the lakes and view the "
+    },
+    {
+      "id": "emerson_lakes",
+      "waterBodyName": "Emerson Lakes",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "4535",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4535",
+      "excerpt": " the park is off the beaten path, but once you find it, you'll be rewarded with a chain of 5 small lakes and about 7 km of trails to explore. you can fish for stocked trout, canoe, or take an electric powered boat on the lakes and view the "
+    },
+    {
+      "id": "enchant_pond",
+      "waterBodyName": "Enchant Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6823",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6823",
+      "excerpt": " this site is directly south of enchant in enchant park. aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "engstrom_lake",
+      "waterBodyName": "Engstrom Lake",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4539",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4539",
+      "excerpt": " a boat launch and day use area are available for day users. overnight camping and campfires are prohibited."
+    },
+    {
+      "id": "fairview_college_pond",
+      "waterBodyName": "Fairview College Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6825",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6825",
+      "excerpt": " the college has a small pond that is stocked with rainbows every spring."
+    },
+    {
+      "id": "fiesta_lake",
+      "waterBodyName": "Fiesta Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "24364",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=24364",
+      "excerpt": " the lake is stocked annually by aep with trout and is aerated (october - april) through aca's lake aeration program."
+    },
+    {
+      "id": "figure_eight_lake",
+      "waterBodyName": "Figure Eight Lake",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6827",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6827",
+      "excerpt": " this lakeside campground is at figure eight lake provincial recreation area and can accommodate both rvs and tents. there are lots of activities, including hiking, canoeing, wind surfing, boating, fishing, and bird watching ohv trails can "
+    },
+    {
+      "id": "footner_pond",
+      "waterBodyName": "Footner Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6830",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6830",
+      "excerpt": " this pond is also known as pierre's pond."
+    },
+    {
+      "id": "foremost_reservoir",
+      "waterBodyName": "Foremost Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6831",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6831",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "fox_creek_trout_pond",
+      "waterBodyName": "Fox Creek Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6815",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6815",
+      "excerpt": " the local pond offers everyone the opportunity to enjoy the scenery, swim and fish. the fishing dock was recently upgraded and the site restored to its natural beauty."
+    },
+    {
+      "id": "gibbons_pond",
+      "waterBodyName": "Gibbons Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6816",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6816",
+      "excerpt": " this pond is in gibbons, just off landing trail landing trail. aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "goldeye_lake",
+      "waterBodyName": "Goldeye Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "4697",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4697",
+      "excerpt": " goldeye lake campground is located in goldeye lake provincial recreation area. there are over 40 un-serviced sites, most surrounded by aspen and spruce trees. canoe, swim or fish in the stocked lake, or walk the loop trail around it."
+    },
+    {
+      "id": "goldspring_park_pond",
+      "waterBodyName": "Goldspring Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6818",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6818",
+      "excerpt": " located 10 km north of the canada/us border this beautiful, well cared for campground has 70 sites, most with power, and other amazing amenities to make your fishing experience memorable."
+    },
+    {
+      "id": "gooseberry_park_pond",
+      "waterBodyName": "Gooseberry Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6809",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6809",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "grande_cache_lake",
+      "waterBodyName": "Grande Cache Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4725",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4725",
+      "excerpt": " grande cache lake has 8 day use sites that include picnic tables and fire pits. fire wood is available and has one handicap accessible outhouse facility. grande cache lake has a developed beach area with a playground. for the fishing enthu"
+    },
+    {
+      "id": "granum_pond",
+      "waterBodyName": "Granum Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6810",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6810",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "grotto_mountain_pond",
+      "waterBodyName": "Grotto Mountain Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3476",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3476",
+      "excerpt": " pond is usually stocked at least three-four times a year due to its popularity."
+    },
+    {
+      "id": "hansens_reservoir",
+      "waterBodyName": "Hansen's Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6806",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6806",
+      "excerpt": " the reservoir is aerated during winter and provides good sport fishing opportunities. it is stocked annually by aca with trout, typically before the may long weekend. site facilities include a parking area, outhouse, garbage bins and float"
+    },
+    {
+      "id": "harleck_pond",
+      "waterBodyName": "Harleck Pond",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6808",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6808",
+      "excerpt": " day use area with fishing, hiking and a picnic area."
+    },
+    {
+      "id": "hasse_lake",
+      "waterBodyName": "Hasse Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access",
+        "developed/day-use access"
+      ],
+      "mwaId": "4794",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4794",
+      "excerpt": " hasse lake recreation area provides a day-use area with walking trails, beach, playground and a picnic shelter. there is a primitive boat launch area with a floating dock east of the main parking area. the shoreline is soft and weedy, but "
+    },
+    {
+      "id": "helmer_reservoir",
+      "waterBodyName": "Helmer Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6803",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6803",
+      "excerpt": " helmer reservoir campground located beside the reservoir. the campground has serviced sites, a beach and a day-use area this reservoir has a high risk of winter kill. motorized boats are not permitted on helmer dam."
+    },
+    {
+      "id": "heritage_lake",
+      "waterBodyName": "Heritage Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6790",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6790",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "hermitage_park_pond",
+      "waterBodyName": "Hermitage Park Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6791",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6791",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "high_level_community",
+      "waterBodyName": "High Level Community",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "26431",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26431",
+      "excerpt": " the pond is located in the town of high level in the community park. there are baseball diamonds, a disc golf course and an off-leash dog park. enjoy the day fishing at the day-use area."
+    },
+    {
+      "id": "highway_40_pond",
+      "waterBodyName": "Highway 40 Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6794",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6794",
+      "excerpt": " grovedale fish pond includes 10-day use sites that have picnic tables and fire pits. there is garbage/recycle containment’s place throughout. firewood is provided which is located inside the gate one handicap accessible outhouse facility, "
+    },
+    {
+      "id": "highway_63_pond",
+      "waterBodyName": "Highway 63 Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6668",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6668",
+      "excerpt": " perch may be present at this pond."
+    },
+    {
+      "id": "highway_686_pond",
+      "waterBodyName": "Highway 686 Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6795",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6795",
+      "excerpt": " quiet pond, snowshoes may be required to access pond in the winter season"
+    },
+    {
+      "id": "hillers_reservoir",
+      "waterBodyName": "Hiller's Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6796",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6796",
+      "excerpt": " lots of action at this lake, it is a very fun place to spend a day and fish. no overnight camping, this is a free day use area."
+    },
+    {
+      "id": "hinton_f_and_g_pond_hinton",
+      "waterBodyName": "Hinton F & G Pond (Hinton)",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "no amenities"
+      ],
+      "mwaId": "6917",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6917",
+      "excerpt": " hinton fish and game pond is located off highway 40. there is a small parking area and no amenities. it is a nice pond to bring the grandkids out for the day."
+    },
+    {
+      "id": "horseshoe_lake",
+      "waterBodyName": "Horseshoe Lake",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6669",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6669",
+      "excerpt": " horseshoe lake is a 16 kilometer near jasper, that features beautiful wild flowers and is good for all skill levels. the trail is primarily used for hiking, walking, nature trips, and bird watching and is best used from may until october. "
+    },
+    {
+      "id": "huber_reservoir",
+      "waterBodyName": "Huber Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6780",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6780",
+      "excerpt": " huber dam has 25 powered campsites as well as overflow and non-power campsites. there is a large group area for group camping with campfire pits and free firewood. fishing and canoeing are also a fun choice and boats are easily launched at"
+    },
+    {
+      "id": "innisfree_trout_pond",
+      "waterBodyName": "Innisfree Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6784",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6784",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "irma_fish_and_game_pond",
+      "waterBodyName": "Irma Fish and Game Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6785",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6785",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "ironside_pond",
+      "waterBodyName": "Ironside Pond",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6786",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6786",
+      "excerpt": " foot access only with a primitive boat launch available. this pond is aerated october - april through the aca lake aeration program."
+    },
+    {
+      "id": "island_lake",
+      "waterBodyName": "Island Lake",
+      "previousDifficulty": 4,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4909",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4909",
+      "excerpt": " this campground is in island lake provincial recreation area. it has 40 sites which are suited to rvs. this campground offers close access to lakes for canoeing, sailing, boating, fishing for stocked trout or windsurfing."
+    },
+    {
+      "id": "jack_fish_lake",
+      "waterBodyName": "Jack Fish Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "4920",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4920",
+      "excerpt": " the road leading to the campground is paved except for 2km of gravel road at the entrance. two of the five of the campsites are located on the lake."
+    },
+    {
+      "id": "jarvis_creek_pond",
+      "waterBodyName": "Jarvis Creek Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6788",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6788",
+      "excerpt": " the pond is accessed by a short trail off cache lake campground access road. cross country skiing, tobogganing and snowmobiling off site. a total of 12 sites that are first come first serve, open year round. the site locations are poorly s"
+    },
+    {
+      "id": "kakut_lake",
+      "waterBodyName": "Kakut Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "26729",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26729",
+      "excerpt": " kakut lake is located in northern alberta and offers a great camping experience. fish the stocked pond for trout with the possibility of perch being caught."
+    },
+    {
+      "id": "kerbes_pond",
+      "waterBodyName": "Kerbe's Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6770",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6770",
+      "excerpt": " it offers good sport fishing opportunities. this waterbody is part of the aca's lake aeration program."
+    },
+    {
+      "id": "kids_can_catch_pond",
+      "waterBodyName": "Kids Can Catch Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "26447",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26447",
+      "excerpt": " this is an urban community pond that can be fished by all ages. a fishing license is not required for anglers under the age of 16."
+    },
+    {
+      "id": "kinky_lake",
+      "waterBodyName": "Kinky Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5002",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5002",
+      "excerpt": " kinky lake campground is found in wildhorse lake provincial recreation area, with close lake access. enjoy the scenic mountain views while fishing for trout. non-motorized or electric-powered boats only."
+    },
+    {
+      "id": "kraft_wimborne_pond",
+      "waterBodyName": "Kraft Wimborne Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6773",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6773",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "kramer_pond",
+      "waterBodyName": "Kramer Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6774",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6774",
+      "excerpt": " this small pond gets quite snowy in the winter. ice fish in the early winter, as this pond has a tendency to winterkill."
+    },
+    {
+      "id": "lac_la_biche_trout_pond",
+      "waterBodyName": "Lac La Biche Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "19760",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=19760",
+      "excerpt": " the park contains a picnic shelter and a pond stocked with trout for fishing . the park has also been designated as an off-leash area for dogs, so park users and their four-legged companions can have fun for the day."
+    },
+    {
+      "id": "lacombe_park_pond",
+      "waterBodyName": "Lacombe Park Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6776",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6776",
+      "excerpt": " a fenced dog park and trails wrap the lake, this park is a gathering place for those needing fresh air and outdoor fun that includes fishing for stocked trout."
+    },
+    {
+      "id": "lambert_pond",
+      "waterBodyName": "Lambert Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3479",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3479",
+      "excerpt": " this lake is south of highway 16, and has an elevation of 912m."
+    },
+    {
+      "id": "lamont_pond",
+      "waterBodyName": "Lamont Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "manual",
+      "reasons": [
+        "manual override (not on MWA or known local access)"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "lara_fish_pond",
+      "waterBodyName": "Lara Fish Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "24053",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=24053",
+      "excerpt": " this pond may winterkill."
+    },
+    {
+      "id": "leduc_reservoir",
+      "waterBodyName": "Leduc Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6764",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6764",
+      "excerpt": " leduc reservoir borders fred johns park. the park is connected to the multiway trail and offers a playground, ball diamonds, picnic area, and summer fishing for stocked trout."
+    },
+    {
+      "id": "lees_lake",
+      "waterBodyName": "Lees Lake",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "5050",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5050",
+      "excerpt": " aca maintains a fishing access and boat launch is off highway 507."
+    },
+    {
+      "id": "legal_reservoir",
+      "waterBodyName": "Legal Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6765",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6765",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "len_thompson_pond",
+      "waterBodyName": "Len Thompson Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "26322",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26322",
+      "excerpt": " the len thompson fishing pond in lacombe, is a stocked retention pond that provides catch and release recreational fishing opportunities for local residents. home of the worlds largest lure."
+    },
+    {
+      "id": "little_bear_lake_hasse",
+      "waterBodyName": "Little Bear Lake (Hasse)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5093",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5093",
+      "excerpt": " access is very poor for launching larger watercrafts. parking is close to lake so you may carry your hand launch type watercraft to the waters edge."
+    },
+    {
+      "id": "little_beaverdam_lake",
+      "waterBodyName": "Little Beaverdam Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "manual",
+      "reasons": [
+        "manual override (not on MWA or known local access)"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "lloydminster_pond",
+      "waterBodyName": "Lloydminster Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6760",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6760",
+      "excerpt": " the pond is located approximately 3 miles west of lloydminster on highway 16, on the north side of the highway. check your local regulations before you go!"
+    },
+    {
+      "id": "lodgepole_pond",
+      "waterBodyName": "Lodgepole Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "395186",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=395186",
+      "excerpt": " this pond is north of the town of lodgepole. this pond has lots of shore fishing opportunities and surrounded by trees."
+    },
+    {
+      "id": "lougheed_trout_pond",
+      "waterBodyName": "Lougheed Trout Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6761",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6761",
+      "excerpt": " the lougheed trout pond, located within the village limits."
+    },
+    {
+      "id": "lovett_lake",
+      "waterBodyName": "Lovett Lake",
+      "previousDifficulty": 4,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6658",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6658",
+      "excerpt": " lake is only accessible by hiking or biking only."
+    },
+    {
+      "id": "mcclennan_reservoir",
+      "waterBodyName": "McClennan Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6753",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6753",
+      "excerpt": " the campground is open may 1st to september 30th, but fishing is accessible all year around. check you local regulations before you go!"
+    },
+    {
+      "id": "mclarens_reservoir",
+      "waterBodyName": "Mclaren's Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6755",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6755",
+      "excerpt": " the mclaren dam recreation area features 27 sites (15 with power), outhouse toilets, fire pits, free firewood, drinking water, a camp kitchen, and access to fishing for stocked trout."
+    },
+    {
+      "id": "mclean_pond",
+      "waterBodyName": "Mclean Pond",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "3522",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3522",
+      "excerpt": " day use area with fishing, hiking and picnic area."
+    },
+    {
+      "id": "mcleod_lake_carson",
+      "waterBodyName": "McLeod Lake (Carson)",
+      "previousDifficulty": 1,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "5286",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5286",
+      "excerpt": " carson-pegasus provincial park at mcleod lake includes a campground featuring 182 campsites, day use sites, and a group use site, and offers winter camping. other recreational activities at the provincial park and lake include bird-watchin"
+    },
+    {
+      "id": "mcquillan_reservoir",
+      "waterBodyName": "McQuillan Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6757",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6757",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "mcvinnie_reservoir",
+      "waterBodyName": "McVinnie Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6785",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6785",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "md_peace_pond_#1",
+      "waterBodyName": "Md Peace Pond #1",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6721",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6721",
+      "excerpt": " the peace ponds are a great for fly fishing."
+    },
+    {
+      "id": "md_peace_pond_#2",
+      "waterBodyName": "Md Peace Pond #2",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "22995",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=22995",
+      "excerpt": " the peace ponds are a great for fly fishing."
+    },
+    {
+      "id": "michel_reservoir_michel",
+      "waterBodyName": "Michel Reservoir (Michel)",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3523",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3523",
+      "excerpt": " ice fishing access can be difficult at times due to snow accumulation and drifting."
+    },
+    {
+      "id": "michichi_reservoir",
+      "waterBodyName": "Michichi Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "3524",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3524",
+      "excerpt": " michichi dam recreation area has 18 formal power campsites complete with fire pits and picnic tables. there are also 20 overflow campsites, group camping areas, and camp kitchen facilities. there are coin-operated shower facilities with ha"
+    },
+    {
+      "id": "mile_07_lake",
+      "waterBodyName": "Mile 07 Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6642",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6642",
+      "excerpt": " this lake is 44 minutes north of lac la biche."
+    },
+    {
+      "id": "millers_lake",
+      "waterBodyName": "Millers Lake",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "5324",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5324",
+      "excerpt": " there is a boat launch, and the lake is stocked annually by aep with trout and is aerated in winter through aca’s lake aeration program."
+    },
+    {
+      "id": "mitchell_lake",
+      "waterBodyName": "Mitchell Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5348",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5348",
+      "excerpt": " there is a small campground at the waterbody with walk-in tent sites. there is a pier where you can hand launch a canoe or electric powered boat."
+    },
+    {
+      "id": "mitchell_pond_waskasoo",
+      "waterBodyName": "Mitchell Pond (Waskasoo)",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6623",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6623",
+      "excerpt": " this stocked trout pond has everything to make a family outing enjoyable."
+    },
+    {
+      "id": "mitford_ponds",
+      "waterBodyName": "Mitford Ponds",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "395196",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=395196",
+      "excerpt": " aca annually stocks these ponds with trout, typically before the may long weekend."
+    },
+    {
+      "id": "montaganeusse_lake",
+      "waterBodyName": "Montaganeusse Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6684",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6684",
+      "excerpt": " this campground is user maintained campground bordering the shores of montagneuse lake."
+    },
+    {
+      "id": "moonshine_lake_mirage",
+      "waterBodyName": "Moonshine Lake (Mirage)",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "5360",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5360",
+      "excerpt": " the campground is located on the north and northeast side of the lake, while the day-use area and group camping is located on the south side of the lake."
+    },
+    {
+      "id": "morinville_fish_and_game",
+      "waterBodyName": "Morinville Fish And Game",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6736",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6736",
+      "excerpt": " there is a fishing platform, and a walking path around the pond."
+    },
+    {
+      "id": "mound_red_reservoir",
+      "waterBodyName": "Mound Red Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6737",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6737",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "mount_lorette_ponds",
+      "waterBodyName": "Mount Lorette Ponds",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "3482",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3482",
+      "excerpt": " there is a paved trail around the pond for easy wheelchair accessibility. day use areas are well treed. the ponds are stocked 3-4 times in spring and early summer with trout."
+    },
+    {
+      "id": "muir_lake",
+      "waterBodyName": "Muir Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5387",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5387",
+      "excerpt": " muir lake is an easily accessible quality stocked fishery. muir lake features seasonal closures, bait ban and reduced harvest regulations. seasonal restrictions apply. check the local regulations before heading out to the lake."
+    },
+    {
+      "id": "muskiki_lake",
+      "waterBodyName": "Muskiki Lake",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5407",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5407",
+      "excerpt": " enjoy the day fishing the lake, fish from shore or from a boat. the max boat speed on the lake is 12km/hr."
+    },
+    {
+      "id": "muskoseepi_pond",
+      "waterBodyName": "Muskoseepi Pond",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6730",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6730",
+      "excerpt": " muskoseepi park pond is located right beside the muskoseepi park pavilion. this pond is used for skating during the winter season."
+    },
+    {
+      "id": "nardam_lake",
+      "waterBodyName": "Nardam Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6732",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6732",
+      "excerpt": " there are 16 full-service rv parking spots, 4 with 30 amp, and 12 with 15 amp power, and 3 tenting spots, wi-fi, bathroom facilities, rv dumping station for site renters, gazebo shelter for gatherings, and firewood available for visitors."
+    },
+    {
+      "id": "nicholas_sheran_park_pond",
+      "waterBodyName": "Nicholas Sheran Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6734",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6734",
+      "excerpt": " nicholas sheran park is the premier west side park featuring a man-made lake, pathway system, large open spaces, disk golf, a large playground, fitness equipment, and a large picnic shelter. ice fishing is accessible in the winter."
+    },
+    {
+      "id": "niemela_reservoir_rays",
+      "waterBodyName": "Niemela Reservoir (Ray's)",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6735",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6735",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "niton_lake",
+      "waterBodyName": "Niton Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6647",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6647",
+      "excerpt": " this pond is located off the yellowhead highway."
+    },
+    {
+      "id": "nordegg_borrow_pit_east",
+      "waterBodyName": "Nordegg Borrow Pit (East)",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6914",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6914",
+      "excerpt": " this is an old strip-mine that was flooded, where fishing and swimming are popular."
+    },
+    {
+      "id": "nordegg_borrow_pit_west",
+      "waterBodyName": "Nordegg Borrow Pit (West)",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6915",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6915",
+      "excerpt": " this is an old strip-mine that was flooded, where fishing and swimming are popular."
+    },
+    {
+      "id": "nose_creek_pond",
+      "waterBodyName": "Nose Creek Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6671",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6671",
+      "excerpt": " this pond is located in airdrie. aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "nuggent_pond",
+      "waterBodyName": "Nuggent Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6724",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6724",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend. mobility-impaired access improvements were made that include a wheelchair-friendly asphalt path, casting platform and outhouse."
+    },
+    {
+      "id": "obed_lake",
+      "waterBodyName": "Obed Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5466",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5466",
+      "excerpt": " a small campground found in obed lake provincial park. a great spot to launch a boat and fish for trout."
+    },
+    {
+      "id": "ole_lake",
+      "waterBodyName": "Ole Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5476",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5476",
+      "excerpt": " wildlife viewing and canoeing are popular activities at this provincial recreation area."
+    },
+    {
+      "id": "open_creek_reservoir",
+      "waterBodyName": "Open Creek Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6726",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6726",
+      "excerpt": " electric motors only. no horses or off-road vehicles allowed in open creek dam campground."
+    },
+    {
+      "id": "outpost_lake_police_lake",
+      "waterBodyName": "Outpost Lake (Police Lake)",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5504",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5504",
+      "excerpt": " the well-spaced sites are suitable for tents and rvs and natural poplar forest provides privacy. relax and spend lazy days fishing from your boat, canoe or shore."
+    },
+    {
+      "id": "oyen_concrete_plant",
+      "waterBodyName": "Oyen (Concrete Plant)",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "18020",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=18020",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "parlby_reservoir_tees",
+      "waterBodyName": "Parlby Reservoir (Tees)",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6718",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6718",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "payne_lake_mami_lake",
+      "waterBodyName": "Payne Lake (Mami Lake)",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5513",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5513",
+      "excerpt": " the mountains of waterton national park that lie 4 km to the southwest provide a dramatic background for the lake."
+    },
+    {
+      "id": "peanut_lake",
+      "waterBodyName": "Peanut Lake",
+      "previousDifficulty": 3,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5538",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5538",
+      "excerpt": " this lake often winter kills. maximum boat speed 12km/h."
+    },
+    {
+      "id": "peppers_lake",
+      "waterBodyName": "Peppers Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5555",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5555",
+      "excerpt": " peppers lake campground is located in peppers lake provincial recreation area. go fishing or tour the shoreline by canoe or electric powered boat."
+    },
+    {
+      "id": "petite_lake",
+      "waterBodyName": "Petite Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "5565",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5565",
+      "excerpt": " the petite lake campground is a small campground located adjacent to petite lake there are atv trails in the area, and it is popular for base camping during the hunting season. electric motors only."
+    },
+    {
+      "id": "phyllis_lake",
+      "waterBodyName": "Phyllis Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5569",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5569",
+      "excerpt": " this scenic little foothills lake is suited to canoeing, fishing and boating with electric powered motors. there are about 20 sites, most of which are open to each other and face the lake. they are suited for both rvs and tents."
+    },
+    {
+      "id": "pine_coulee_reservoir",
+      "waterBodyName": "Pine Coulee Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "18007",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=18007",
+      "excerpt": " this waterbody has been recently designated as a quality fishery and stocked with rainbow trout."
+    },
+    {
+      "id": "pit_24",
+      "waterBodyName": "Pit 24",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "23789",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=23789",
+      "excerpt": " this is a small re-claimed mine pond on cole valley mine site."
+    },
+    {
+      "id": "pit_35",
+      "waterBodyName": "Pit 35",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "23790",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=23790",
+      "excerpt": " this is a small re-claimed mine pond on cole valley mine site."
+    },
+    {
+      "id": "pit_44",
+      "waterBodyName": "Pit 44",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "24312",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=24312",
+      "excerpt": " this is a small re-claimed mine pond on cole valley mine site."
+    },
+    {
+      "id": "pit_45",
+      "waterBodyName": "Pit 45",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "23791",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=23791",
+      "excerpt": " this is a small re-claimed mine pond on cole valley mine site."
+    },
+    {
+      "id": "pleasure_island_reservoir",
+      "waterBodyName": "Pleasure Island Reservoir",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6706",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6706",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "ponoka_centennial_park",
+      "waterBodyName": "Ponoka Centennial Park",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6871",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6871",
+      "excerpt": " lions centennial park lies along the northwest side of highway 2a, the major local thoroughfare, as it passes through town a long narrow park of several acres in size."
+    },
+    {
+      "id": "radway_fish_pond",
+      "waterBodyName": "Radway Fish Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "26047",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26047",
+      "excerpt": " this is an accessible fish pond, with a cook shack, benches, fire pits for the perfect day out fishing."
+    },
+    {
+      "id": "rainbow_lake_pond",
+      "waterBodyName": "Rainbow Lake Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6705",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6705",
+      "excerpt": " this lake is a great place to spend the day and fish."
+    },
+    {
+      "id": "rainbow_park_pond",
+      "waterBodyName": "Rainbow Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6613",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6613",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "rat_lake",
+      "waterBodyName": "Rat Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6702",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6702",
+      "excerpt": " this lake is stocked with brook and tiger trout. it is a very shallow lake and some years can be affected by winter kill."
+    },
+    {
+      "id": "reesor_lake",
+      "waterBodyName": "Reesor Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5661",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5661",
+      "excerpt": " this is a large spring-fed lake in cypress hills provincial park."
+    },
+    {
+      "id": "riverstone_pond",
+      "waterBodyName": "Riverstone Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "22504",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=22504",
+      "excerpt": " riverstone pond located in william pearce park."
+    },
+    {
+      "id": "running_lake",
+      "waterBodyName": "Running Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5714",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5714",
+      "excerpt": " there is a quiet little campground near the lake with treed sites."
+    },
+    {
+      "id": "salters_lake",
+      "waterBodyName": "Salter's Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "5729",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5729",
+      "excerpt": " open to the public all year round, the lake is aerated in order to support the fish population. there is a boat launch and pier available for public use, electric motors only."
+    },
+    {
+      "id": "sardine_lake",
+      "waterBodyName": "Sardine Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6695",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6695",
+      "excerpt": " sardine lake is stocked with rainbow trout but perch can also be caught here."
+    },
+    {
+      "id": "sauer_lake",
+      "waterBodyName": "Sauer Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5753",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5753",
+      "excerpt": " sauer is a charming, tiny lake set among the rolling hills west of the city of edmonton. it is a quiet spot for canoeing or fishing for rainbow trout."
+    },
+    {
+      "id": "schuman_lake",
+      "waterBodyName": "Schuman Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5766",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5766",
+      "excerpt": " only electric or non-motorized water crafts are permitted on lake."
+    },
+    {
+      "id": "severn_creek_reservoir",
+      "waterBodyName": "Severn Creek Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6697",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6697",
+      "excerpt": " this is a county owned camp site camping is allowed for 14 days at a time. there are no hook ups and firewood for sale."
+    },
+    {
+      "id": "shell_true_north_pond",
+      "waterBodyName": "Shell True North Pond",
+      "previousDifficulty": 4,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "328085",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=328085",
+      "excerpt": " aca annually stocks this 8-ha pond with trout. permission is not required to access the pond for fishing."
+    },
+    {
+      "id": "shemeluk_lake",
+      "waterBodyName": "Shemeluk Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6699",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6699",
+      "excerpt": " this calm clearwater lake offers some of the best rainbow trout fishing in the area."
+    },
+    {
+      "id": "shunda_lake_fish_lake",
+      "waterBodyName": "Shunda Lake (Fish Lake)",
+      "previousDifficulty": 1,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "5804",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5804",
+      "excerpt": " fish lake is also referred to as shunda lake. there are over 100 sites, including power, un-serviced, waterfront and pull-through sites. sites are spacious and most are surrounded by trees. you may canoe or boat using an electric motor on "
+    },
+    {
+      "id": "shuster_lake",
+      "waterBodyName": "Shuster Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6688",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6688",
+      "excerpt": " this lake is stocked annually by epa with trout."
+    },
+    {
+      "id": "sibbald_lake",
+      "waterBodyName": "Sibbald Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5805",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5805",
+      "excerpt": " the lake is a day use area."
+    },
+    {
+      "id": "sibbald_meadows_pond",
+      "waterBodyName": "Sibbald Meadows Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "3486",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3486",
+      "excerpt": " this small pond surrounded by aspen groves is named after frank sibbald, a long time rancher who settled in the area in 1875. it is a perfect place to stop, relax and enjoy the foothills environment. you can walk the easy trail along the s"
+    },
+    {
+      "id": "silkstone_lake",
+      "waterBodyName": "Silkstone Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6651",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6651",
+      "excerpt": " this lake is a reclaimed mine site."
+    },
+    {
+      "id": "spring_coulee_park_pond",
+      "waterBodyName": "Spring Coulee Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6692",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6692",
+      "excerpt": " this park has camping on site with the basic camping amenities. the site is well taken care of."
+    },
+    {
+      "id": "spring_lake_cottage",
+      "waterBodyName": "Spring Lake (Cottage)",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5874",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5874",
+      "excerpt": " public access is available for fishing."
+    },
+    {
+      "id": "spruce_coulee_reservoir",
+      "waterBodyName": "Spruce Coulee Reservoir",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "3534",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3534",
+      "excerpt": " foot access only all year around (weather permitting). after the september long weekend, the services offered at the campsite are reduced."
+    },
+    {
+      "id": "st_paul_fish_pond",
+      "waterBodyName": "St. Paul Fish Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "24702",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=24702",
+      "excerpt": " the pond is flooded in the winter, where people can enjoy some outdoor skating."
+    },
+    {
+      "id": "star_lake",
+      "waterBodyName": "Star Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5895",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5895",
+      "excerpt": " this lake has a few private cabins surrounding it. yellow perch are present in the lake."
+    },
+    {
+      "id": "strathmore_childrens_pond",
+      "waterBodyName": "Strathmore Children's Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6686",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6686",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "strubel_lake",
+      "waterBodyName": "Strubel Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5919",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5919",
+      "excerpt": " this is a great lake for families or for beginner ice fishing."
+    },
+    {
+      "id": "sulphur_lake",
+      "waterBodyName": "Sulphur Lake",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "5929",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5929",
+      "excerpt": " sulphur lake provincial recreation area is located about an hour drive north of peace river. there's a hand launch and a boat launch, as well as a fishing pier and fish cleaning station."
+    },
+    {
+      "id": "swan_lake",
+      "waterBodyName": "Swan Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5944",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5944",
+      "excerpt": " most of the campsites are surrounded by pine and spruce trees that provide good privacy with a few choice sites located next to the lake for fishing."
+    },
+    {
+      "id": "telegraph_park_pond",
+      "waterBodyName": "Telegraph Park Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6674",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6674",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "texaco_east_pond",
+      "waterBodyName": "Texaco East Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6636",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6636",
+      "excerpt": " the pond is a short walk from the parking area."
+    },
+    {
+      "id": "texaco_pond",
+      "waterBodyName": "Texaco Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6637",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6637",
+      "excerpt": " the pond is a short walk from the parking area."
+    },
+    {
+      "id": "tim_horton_childrens_pond",
+      "waterBodyName": "Tim Horton Children's Pond",
+      "previousDifficulty": 4,
+      "difficulty": 1,
+      "source": "fallback",
+      "reasons": [
+        "fallback:pond",
+        "urban/community pond name"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "twin_lakes",
+      "waterBodyName": "Twin Lakes",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6039",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6039",
+      "excerpt": " twin lakes campground is a popular campground for fishing enthusiasts. the boat launch makes it easy to get into the lake for fishing trout and perch, and the wheelchair-accessible pier is great for those looking to cast from shore."
+    },
+    {
+      "id": "two_hills_pond",
+      "waterBodyName": "Two Hills Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6670",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6670",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "valleyview_childrens_pond",
+      "waterBodyName": "Valleyview Children's Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "fallback",
+      "reasons": [
+        "fallback:pond",
+        "urban/community pond name"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "vegreville_childrens_pond",
+      "waterBodyName": "Vegreville Children's Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6619",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6619",
+      "excerpt": " this pond is in vegreville right beside the iconic \"world's largest easter egg\". aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "vegreville_trout_pond",
+      "waterBodyName": "Vegreville Trout Pond",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6620",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6620",
+      "excerpt": " this pond is located right outside of vegreville. on the east side of the pond fishing is more accessible, due to a cleaner shoreline that is free from debris."
+    },
+    {
+      "id": "wallace_park_pond",
+      "waterBodyName": "Wallace Park Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6622",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6622",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "weberville_pond",
+      "waterBodyName": "Weberville Pond",
+      "previousDifficulty": 2,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6609",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6609",
+      "excerpt": " this 150-acre site is approximately 21 km n of peace river. the pond is stocked annually by epa with trout."
+    },
+    {
+      "id": "west_dollar_lake",
+      "waterBodyName": "West Dollar Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6524",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6524",
+      "excerpt": " this 50-acre site is approximately 30 km n of valleyview. these lakes are stocked annually by epa with trout and aerated (october - april) through aca’s lake aeration program. the gravel boat launch is in fair condition and day-use facilit"
+    },
+    {
+      "id": "west_rivers_edge_pond",
+      "waterBodyName": "West Rivers Edge Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "26854",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26854",
+      "excerpt": " this pond is in the south west corner of fort saskatchewan's west river's edge recreational area and is maintained and managed by the city of fort saskatchewan. this pond is stocked with trout by aca."
+    },
+    {
+      "id": "wetaskiwin_pond",
+      "waterBodyName": "Wetaskiwin Pond",
+      "previousDifficulty": 3,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "18019",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=18019",
+      "excerpt": " this pond is on the north east side of wetaskiwin. aca stocks this pond annually with trout, typically before the may long weekend."
+    },
+    {
+      "id": "whitecourt_town_pond",
+      "waterBodyName": "Whitecourt Town Pond",
+      "previousDifficulty": 2,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "21137",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=21137",
+      "excerpt": " grab your fishing rod and tackle, and take your family fishing at rotary park. fishing is limited to people under the age of 16 years, or those accompanied by one or more people under the age of 16 years."
+    },
+    {
+      "id": "whiteridge_recreation_area",
+      "waterBodyName": "Whiteridge Recreation Area",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "26033",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=26033",
+      "excerpt": " fishing enthusiasts will be intrigued to know that the south lake was stocked with trout and is now managed as a quality stocked trout fishery."
+    },
+    {
+      "id": "wildhorse_lakes_lower",
+      "waterBodyName": "Wildhorse Lakes (Lower)",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6537",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6537",
+      "excerpt": " wildhorse lake provides a hand launch."
+    },
+    {
+      "id": "wildhorse_lakes_upper",
+      "waterBodyName": "Wildhorse Lakes (Upper)",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6160",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6160",
+      "excerpt": " hand launching is provided at the lake, larger vessels may be more challenging."
+    },
+    {
+      "id": "wildwood_pond",
+      "waterBodyName": "Wildwood Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6625",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6625",
+      "excerpt": " the pond is open to public fishing year round. a great place to bring the family."
+    },
+    {
+      "id": "winchell_lake",
+      "waterBodyName": "Winchell Lake",
+      "previousDifficulty": 2,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6617",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6617",
+      "excerpt": " this 12-acre lake is approximately 30 km north west of cochrane. consists of a small day-use area that provides access to good sport fishing opportunities. a boat launch is available for public use. the lake is stocked annually by epa with"
+    },
+    {
+      "id": "windsor_lake",
+      "waterBodyName": "Windsor Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6173",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6173",
+      "excerpt": " aca stocks this pond annually with trout, typically before the may long weekend. a boat launch, dock, outhouse and garbage bins are available for public use."
+    },
+    {
+      "id": "wolf_creek_pond",
+      "waterBodyName": "Wolf Creek Pond",
+      "previousDifficulty": 3,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6626",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6626",
+      "excerpt": " this pond is off nestled in the trees just of the highway."
+    }
+  ]
+}

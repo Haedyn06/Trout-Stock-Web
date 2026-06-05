@@ -34,7 +34,7 @@ export default function MapPopupContent({
 
       <div className="map-popup-stats">
         <div>
-          <span className="label">Total Population</span>
+          <span className="label">Total Populated</span>
           <strong>{formatNumber(water.population)}</strong>
         </div>
         <div>

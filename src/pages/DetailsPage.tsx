@@ -56,7 +56,7 @@ export default function DetailsPage() {
         <h2>Overview</h2>
         <div className="overview-grid">
           <div className="overview-card">
-            <span className="overview-label">Total Population</span>
+            <span className="overview-label">Total Populated</span>
             <span className="overview-value">
               {formatNumber(water.population)}
             </span>

@@ -33,7 +33,7 @@ export default function WaterCard({ water, referenceCity }: WaterCardProps) {
 
       <div className="water-card-stats">
         <div className="stat">
-          <span className="stat-label">Total Population</span>
+          <span className="stat-label">Total Populated</span>
           <span className="stat-value">
             {formatNumber(water.population)}
           </span>

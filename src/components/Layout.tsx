@@ -2,18 +2,27 @@ import { Link, NavLink, Outlet } from 'react-router-dom'
 import brandLogo from '../assets/logo2.png'
 import DataUpdateLabel from './DataUpdateLabel'
 
+function goHomeWithRefresh(event: React.MouseEvent<HTMLAnchorElement>) {
+  event.preventDefault()
+  if (window.location.pathname === '/') {
+    window.location.reload()
+  } else {
+    window.location.href = '/'
+  }
+}
+
 export default function Layout() {
   return (
     <div className="app">
       <header className="site-header">
         <div className="header-inner">
-          <Link to="/" className="brand">
+          <a href="/" className="brand" onClick={goHomeWithRefresh}>
             <img
               src={brandLogo}
               alt="AB-STrout — Alberta Trout Waters"
               className="brand-logo"
             />
-          </Link>
+          </a>
           <nav className="site-nav">
             <NavLink to="/" end>
               Home

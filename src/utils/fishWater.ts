@@ -53,6 +53,44 @@ export function filterByWaterBodyTypes(
   return waters.filter((w) => selectedTypes.includes(w.waterBodyType))
 }
 
+function normalizeSearchText(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(/[''`]/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function getSearchHaystack(water: FishWater): string {
+  const troutLabels = getActiveTroutTypes(water)
+    .map(({ label }) => label)
+    .join(' ')
+
+  return normalizeSearchText(
+    [
+      water.waterBodyName,
+      water.id.replace(/_/g, ' '),
+      water.location.name,
+      water.waterBodyType,
+      troutLabels,
+    ].join(' '),
+  )
+}
+
+export function filterBySearchQuery(
+  waters: FishWater[],
+  query: string,
+): FishWater[] {
+  const normalizedQuery = normalizeSearchText(query)
+  if (!normalizedQuery) return waters
+
+  const tokens = normalizedQuery.split(' ').filter(Boolean)
+  return waters.filter((water) => {
+    const haystack = getSearchHaystack(water)
+    return tokens.every((token) => haystack.includes(token))
+  })
+}
+
 export function sortWaters(
   waters: FishWater[],
   field: SortField,

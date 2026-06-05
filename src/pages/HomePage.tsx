@@ -14,8 +14,10 @@ import SortControls from '../components/SortControls'
 import TroutTypeFilter from '../components/TroutTypeFilter'
 import WaterBodyTypeFilter from '../components/WaterBodyTypeFilter'
 import WaterCard from '../components/WaterCard'
+import WaterSearchBar from '../components/WaterSearchBar'
 import {
   filterByDistance,
+  filterBySearchQuery,
   filterByTroutTypes,
   filterByWaterBodyTypes,
   sortWaters,
@@ -32,15 +34,25 @@ export default function HomePage() {
   )
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
+  const [searchQuery, setSearchQuery] = useState('')
   const [page, setPage] = useState(1)
   const listRef = useRef<HTMLDivElement>(null)
 
   const filteredWaters = useMemo(() => {
-    let filtered = filterByDistance(fishWaters, referenceCity, maxDistance)
+    let filtered = filterBySearchQuery(fishWaters, searchQuery)
+    filtered = filterByDistance(filtered, referenceCity, maxDistance)
     filtered = filterByWaterBodyTypes(filtered, selectedTypes)
     filtered = filterByTroutTypes(filtered, selectedTrout)
     return sortWaters(filtered, sortField, sortDirection, referenceCity)
-  }, [referenceCity, maxDistance, selectedTypes, selectedTrout, sortField, sortDirection])
+  }, [
+    searchQuery,
+    referenceCity,
+    maxDistance,
+    selectedTypes,
+    selectedTrout,
+    sortField,
+    sortDirection,
+  ])
 
   const totalPages = Math.max(1, Math.ceil(filteredWaters.length / PAGE_SIZE))
   const currentPage = Math.min(page, totalPages)
@@ -74,7 +86,7 @@ export default function HomePage() {
   return (
     <div className="page home-page">
       <section className="page-hero">
-        <h1>Alberta Fishing Waters</h1>
+        <h1>Alberta Fishing Waters 2026 Report</h1>
         <p>
           Browse stocked lakes and rivers with population estimates, difficulty
           ratings, and stocking history.
@@ -82,6 +94,12 @@ export default function HomePage() {
       </section>
 
       <section className="controls-panel">
+        <WaterSearchBar
+          value={searchQuery}
+          onChange={resetPageAnd(setSearchQuery)}
+          resultCount={filteredWaters.length}
+          totalCount={fishWaters.length}
+        />
         <DistanceFilter
           city={referenceCity}
           onCityChange={resetPageAnd(setReferenceCity)}
@@ -110,7 +128,11 @@ export default function HomePage() {
 
       {filteredWaters.length === 0 ? (
         <div className="empty-state">
-          <p>No water bodies match your filters.</p>
+          <p>
+            {searchQuery.trim()
+              ? `No water bodies match "${searchQuery.trim()}".`
+              : 'No water bodies match your filters.'}
+          </p>
         </div>
       ) : (
         <>
