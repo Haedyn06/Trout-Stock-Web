@@ -49,7 +49,22 @@ export type TroutTypeKey =
 
 export type FishTypeKey = TroutTypeKey | 'walleye'
 
-export type ReferenceCity = 'calgary' | 'edmonton'
+export type ReferenceCity =
+  | 'calgary'
+  | 'edmonton'
+  | 'grandPrairie'
+  | 'fortMcmurray'
+  | 'lethbridge'
+  | 'redDeer'
+
+export const REFERENCE_CITIES: { value: ReferenceCity; label: string }[] = [
+  { value: 'calgary', label: 'Calgary' },
+  { value: 'edmonton', label: 'Edmonton' },
+  { value: 'grandPrairie', label: 'Grand Prairie' },
+  { value: 'fortMcmurray', label: 'Fort McMurray' },
+  { value: 'lethbridge', label: 'Lethbridge' },
+  { value: 'redDeer', label: 'Red Deer' },
+]
 
 export type WaterBodyType = 'lake' | 'river' | 'pond' | 'reservoir'
 

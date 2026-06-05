@@ -1,3 +1,4 @@
+import argparse
 import re
 import json
 import time
@@ -7,8 +8,8 @@ from datetime import datetime
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 
-PDF_PATH = "StockReport.pdf"
-OUTPUT_PATH = "TroutData.json"
+DEFAULT_PDF_PATH = "StockReport.pdf"
+DEFAULT_OUTPUT_PATH = "TroutData.json"
 
 CALGARY = (51.0447, -114.0719)
 EDMONTON = (53.5461, -113.4938)
@@ -45,7 +46,18 @@ DATE_REGEX = re.compile(
 )
 
 
+def fix_name(name):
+    name = re.sub(r"\s+", " ", name.strip())
+
+    if "(" in name and not name.endswith(")"):
+        name = f"{name})"
+
+    return name
+
+
 def make_id(name):
+    name = fix_name(name)
+
     return re.sub(
         r"_+",
         "_",
@@ -149,10 +161,32 @@ def clean_row(row):
     ]
 
 
-print("Reading PDF...")
+parser = argparse.ArgumentParser(
+    description="Extract Alberta fish stocking data from PDF tables."
+)
+parser.add_argument(
+    "pdf",
+    nargs="?",
+    default=DEFAULT_PDF_PATH,
+    help="Path to the stocking report PDF",
+)
+parser.add_argument(
+    "-o",
+    "--output",
+    default=DEFAULT_OUTPUT_PATH,
+    help="Output JSON path",
+)
+parser.add_argument(
+    "--skip-geocode",
+    action="store_true",
+    help="Skip Nominatim geocoding (use enrich-locations.mjs instead)",
+)
+args = parser.parse_args()
+
+print(f"Reading PDF: {args.pdf}")
 
 tables = camelot.read_pdf(
-    PDF_PATH,
+    args.pdf,
     pages="all",
     flavor="stream"
 )
@@ -173,7 +207,7 @@ for table in tables:
             continue
 
         try:
-            name = row[0]
+            name = fix_name(row[0])
             ats = row[1]
             species_code = row[2]
 
@@ -283,55 +317,58 @@ print(
     f"Parsed {len(waterbodies)} waterbodies."
 )
 
-print("Geocoding...")
+if args.skip_geocode:
+    print("Skipping geocoding.")
+else:
+    print("Geocoding...")
 
-for i, wb in enumerate(
-    waterbodies.values(),
-    start=1
-):
+    for i, wb in enumerate(
+        waterbodies.values(),
+        start=1
+    ):
 
-    print(
-        f"[{i}/{len(waterbodies)}] "
-        f"{wb['waterBodyName']}"
-    )
+        print(
+            f"[{i}/{len(waterbodies)}] "
+            f"{wb['waterBodyName']}"
+        )
 
-    lat, lon = geocode_waterbody(
-        wb["waterBodyName"]
-    )
-
-    wb["location"][
-        "latitude"
-    ] = lat
-
-    wb["location"][
-        "longitude"
-    ] = lon
-
-    if lat != 0 and lon != 0:
-
-        wb["location"][
-            "cityRange"
-        ][
-            "calgaryKMRange"
-        ] = round(
-            geodesic(
-                CALGARY,
-                (lat, lon)
-            ).km
+        lat, lon = geocode_waterbody(
+            wb["waterBodyName"]
         )
 
         wb["location"][
-            "cityRange"
-        ][
-            "edmontonKMRange"
-        ] = round(
-            geodesic(
-                EDMONTON,
-                (lat, lon)
-            ).km
-        )
+            "latitude"
+        ] = lat
 
-    time.sleep(1)
+        wb["location"][
+            "longitude"
+        ] = lon
+
+        if lat != 0 and lon != 0:
+
+            wb["location"][
+                "cityRange"
+            ][
+                "calgaryKMRange"
+            ] = round(
+                geodesic(
+                    CALGARY,
+                    (lat, lon)
+                ).km
+            )
+
+            wb["location"][
+                "cityRange"
+            ][
+                "edmontonKMRange"
+            ] = round(
+                geodesic(
+                    EDMONTON,
+                    (lat, lon)
+                ).km
+            )
+
+        time.sleep(1)
 
 result = []
 
@@ -351,7 +388,7 @@ result.sort(
 )
 
 with open(
-    OUTPUT_PATH,
+    args.output,
     "w",
     encoding="utf-8"
 ) as file:
@@ -366,4 +403,4 @@ print()
 print(
     f"Saved {len(result)} lakes to:"
 )
-print(OUTPUT_PATH)
+print(args.output)

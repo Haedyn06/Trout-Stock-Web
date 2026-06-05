@@ -953,6 +953,84 @@ html.map-fullscreen-active .site-main {
   width: 100%;
 }
 
+.map-marker-cluster {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(43, 108, 176, 0.22);
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.map-marker-cluster__count {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #3182ce 0%, #2b6cb0 100%);
+  color: #fff;
+  font-weight: 700;
+  line-height: 1;
+  box-shadow: 0 2px 10px rgba(26, 54, 93, 0.35);
+  border: 2px solid rgba(255, 255, 255, 0.9);
+}
+
+.map-marker-cluster--sm {
+  width: 40px !important;
+  height: 40px !important;
+}
+
+.map-marker-cluster--sm .map-marker-cluster__count {
+  width: 30px;
+  height: 30px;
+  font-size: 0.8rem;
+}
+
+.map-marker-cluster--md {
+  width: 46px !important;
+  height: 46px !important;
+}
+
+.map-marker-cluster--md .map-marker-cluster__count {
+  width: 34px;
+  height: 34px;
+  font-size: 0.85rem;
+}
+
+.map-marker-cluster--lg {
+  width: 52px !important;
+  height: 52px !important;
+}
+
+.map-marker-cluster--lg .map-marker-cluster__count {
+  width: 38px;
+  height: 38px;
+  font-size: 0.9rem;
+}
+
+.map-marker-cluster--xl {
+  width: 58px !important;
+  height: 58px !important;
+}
+
+.map-marker-cluster--xl .map-marker-cluster__count {
+  width: 42px;
+  height: 42px;
+  font-size: 0.95rem;
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background: transparent;
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background: transparent;
+}
+
 .map-popup h3 {
   font-size: 1rem;
   margin-bottom: 0.25rem;

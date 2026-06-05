@@ -1,6 +1,5 @@
 import type { ReferenceCity } from '../types/fishWater'
-import { DISTANCE_OPTIONS } from '../types/fishWater'
-import { getCityLabel } from '../utils/distance'
+import { DISTANCE_OPTIONS, REFERENCE_CITIES } from '../types/fishWater'
 
 interface DistanceFilterProps {
   city: ReferenceCity
@@ -26,8 +25,11 @@ export default function DistanceFilter({
           onChange={(e) => onCityChange(e.target.value as ReferenceCity)}
           aria-label="Reference city"
         >
-          <option value="calgary">{getCityLabel('calgary')}</option>
-          <option value="edmonton">{getCityLabel('edmonton')}</option>
+          {REFERENCE_CITIES.map(({ value, label }) => (
+            <option key={value} value={value}>
+              {label}
+            </option>
+          ))}
         </select>
         <select
           value={maxDistance ?? ''}

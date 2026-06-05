@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
+import { MapContainer, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import '../utils/leafletIcons'
 import { fishWaters, getFishWaterById } from '../data/loadFishWaters'
@@ -8,8 +8,8 @@ import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '
 import FocusedWaterMarker from '../components/FocusedWaterMarker'
 import MapFilters from '../components/MapFilters'
 import MapLegendOverlay from '../components/MapLegendOverlay'
-import MapPopupContent from '../components/MapPopupContent'
 import MapResizeHandler from '../components/MapResizeHandler'
+import WaterMapMarkers from '../components/WaterMapMarkers'
 import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
   filterByDistance,
@@ -142,16 +142,7 @@ export default function MapPage() {
           {focusWater ? (
             <FocusedWaterMarker water={focusWater} referenceCity={referenceCity} />
           ) : (
-            filteredWaters.map((water) => (
-              <Marker
-                key={water.id}
-                position={[water.location.latitude, water.location.longitude]}
-              >
-                <Popup>
-                  <MapPopupContent water={water} referenceCity={referenceCity} />
-                </Popup>
-              </Marker>
-            ))
+            <WaterMapMarkers waters={filteredWaters} referenceCity={referenceCity} />
           )}
         </MapContainer>
       </div>

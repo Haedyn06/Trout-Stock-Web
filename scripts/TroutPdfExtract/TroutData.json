@@ -5,14 +5,14 @@
     "avgLength": 20.45,
     "latestStockDate": "2026-05-04",
     "population": 17500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW11-49-18-W4",
-      "latitude": 53.1888336,
-      "longitude": -112.5620373,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 260,
-        "edmontonKMRange": 73
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -63,8 +63,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 9000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "blood_indian_creek",
@@ -75,11 +74,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW28-26-9-W4",
-      "latitude": 50.9771125,
-      "longitude": -111.1590566,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 204,
-        "edmontonKMRange": 327
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -135,8 +134,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 10000
       }
-    ],
-    "waterBodyType": "river"
+    ]
   },
   {
     "id": "bonnyville_town_pond",
@@ -144,14 +142,14 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-14",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW7-61-5-W4",
-      "latitude": 54.2297172,
-      "longitude": -110.5993816,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 425,
-        "edmontonKMRange": 204
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -192,8 +190,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "boulder_lake",
@@ -201,14 +198,14 @@
     "avgLength": 21.57,
     "latestStockDate": "2026-05-04",
     "population": 1400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE18-39-27-W4",
-      "latitude": 52.3358874,
-      "longitude": -113.705302,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 146,
-        "edmontonKMRange": 135
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -254,8 +251,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 200
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "bow_city_east_ponds",
@@ -263,14 +259,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-01",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE15-17-17-W4",
-      "latitude": 50.4276008,
-      "longitude": -112.2617407,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 145,
-        "edmontonKMRange": 357
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -311,8 +307,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "boyle_pond",
@@ -320,14 +315,14 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-12",
     "population": 2200,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE16-64-19-W4",
-      "latitude": 54.5043948,
-      "longitude": -112.7547605,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 395,
-        "edmontonKMRange": 117
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -368,8 +363,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2200
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "brooks_aquaduct_pond",
@@ -380,11 +374,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE15-18-14-W4",
-      "latitude": 50.5143411,
-      "longitude": -111.857006,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 167,
-        "edmontonKMRange": 355
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -425,8 +419,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 10000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "bud_miller_park_pond",
@@ -434,14 +427,14 @@
     "avgLength": 24.5,
     "latestStockDate": "2026-05-06",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE26-49-1-W4",
-      "latitude": 53.2322038,
-      "longitude": -110.1145381,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 363,
-        "edmontonKMRange": 227
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -482,8 +475,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "bullshead_reservoir",
@@ -491,14 +483,14 @@
     "avgLength": 24.2,
     "latestStockDate": "2026-05-09",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE29-8-4-W4",
-      "latitude": 49.6779638,
-      "longitude": -110.5168564,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 294,
-        "edmontonKMRange": 477
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -539,8 +531,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "burmis_lake",
@@ -548,14 +539,14 @@
     "avgLength": 13.2,
     "latestStockDate": "2026-04-29",
     "population": 1000,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "SE14-7-3-W5",
-      "latitude": 49.5538731,
-      "longitude": -114.2996495,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 167,
-        "edmontonKMRange": 447
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -596,8 +587,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "burns_reservoir",
@@ -605,14 +595,14 @@
     "avgLength": 13.2,
     "latestStockDate": "2026-04-29",
     "population": 1000,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "NE23-6-30-W4",
-      "latitude": 49.4879142,
-      "longitude": -113.973595,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 173,
-        "edmontonKMRange": 452
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -653,8 +643,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "butchers_lake",
@@ -662,14 +651,14 @@
     "avgLength": 18.6,
     "latestStockDate": "2026-04-29",
     "population": 3000,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "NW15-4-1-W5",
-      "latitude": 53.0061585,
-      "longitude": -113.0518646,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 229,
-        "edmontonKMRange": 67
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -710,8 +699,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "by_the_lake_park",
@@ -719,14 +707,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-07",
     "population": 5000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW22-46-24-W4",
-      "latitude": 52.977666,
-      "longitude": -113.4081392,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 220,
-        "edmontonKMRange": 63
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -767,8 +755,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "captain_eyre_lake_capt",
@@ -776,14 +763,14 @@
     "avgLength": 19.5,
     "latestStockDate": "2026-04-28",
     "population": 7000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW30-38-5-W4",
-      "latitude": 52.2780605,
-      "longitude": -110.5721087,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 278,
-        "edmontonKMRange": 241
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -799,7 +786,7 @@
       },
       "tigerTrout": {
         "population": 2000,
-        "avgLength": 17,
+        "avgLength": 17.0,
         "lastPopulatedDate": "2026-04-28"
       },
       "rainbowTrout": {
@@ -829,8 +816,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "cardiff_park_pond",
@@ -841,11 +827,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW24-55-25-W4",
-      "latitude": 53.7309605,
-      "longitude": -113.6432363,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 300,
-        "edmontonKMRange": 23
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -896,8 +882,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 11500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "castaway_trout_pond",
@@ -905,14 +890,14 @@
     "avgLength": 22.33,
     "latestStockDate": "2026-05-11",
     "population": 1100,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE35-47-13-W4",
-      "latitude": 53.0731799,
-      "longitude": -111.8432532,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 272,
-        "edmontonKMRange": 122
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -958,8 +943,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "castor_eastside_trout_pond",
@@ -967,14 +951,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE34-37-14-W4",
-      "latitude": 52.1985485,
-      "longitude": -111.9248993,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 196,
-        "edmontonKMRange": 183
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1015,8 +999,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "cecil_thompson_pond",
@@ -1024,14 +1007,14 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW23-83-21-W5",
-      "latitude": 56.2092138,
-      "longitude": -117.2032034,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 610,
-        "edmontonKMRange": 379
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1072,8 +1055,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "chain_lakes_lower_chain",
@@ -1084,11 +1066,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW7-69-23-W4",
-      "latitude": 54.9236396,
-      "longitude": -113.3248774,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 434,
-        "edmontonKMRange": 154
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1134,8 +1116,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "chain_lakes_reservoir",
@@ -1143,14 +1124,14 @@
     "avgLength": 15.95,
     "latestStockDate": "2026-05-21",
     "population": 53400,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE4-15-2-W5",
-      "latitude": 50.2419568,
-      "longitude": -114.2098915,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 90,
-        "edmontonKMRange": 371
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1216,8 +1197,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 3400
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "chatwin_lake",
@@ -1225,14 +1205,14 @@
     "avgLength": 20.6,
     "latestStockDate": "2026-05-28",
     "population": 10000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE4-61-6-W4",
-      "latitude": 54.2152605,
-      "longitude": -110.8094741,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 416,
-        "edmontonKMRange": 191
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1273,23 +1253,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 10000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "claude_n_brennan",
     "waterBodyName": "Claude N. Brennan",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-08",
     "population": 1250,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE36-50-7-W4",
-      "latitude": 53.3334008,
-      "longitude": -111.0087698,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 329,
-        "edmontonKMRange": 166
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1310,7 +1289,7 @@
       },
       "rainbowTrout": {
         "population": 1250,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-08"
       },
       "cutthroatTrout": {
@@ -1330,8 +1309,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1250
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "corner_lake",
@@ -1339,14 +1317,14 @@
     "avgLength": 20.22,
     "latestStockDate": "2026-04-24",
     "population": 5050,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW4-6-20-W4",
-      "latitude": 49.4506542,
-      "longitude": -112.6493407,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 204,
-        "edmontonKMRange": 459
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1367,7 +1345,7 @@
       },
       "rainbowTrout": {
         "population": 5000,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-04-15"
       },
       "cutthroatTrout": {
@@ -1392,8 +1370,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 50
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "coronation_reservoir",
@@ -1401,14 +1378,14 @@
     "avgLength": 19.65,
     "latestStockDate": "2026-04-27",
     "population": 7300,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW24-36-11-W4",
-      "latitude": 52.0828948,
-      "longitude": -111.5334048,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 210,
-        "edmontonKMRange": 209
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1459,8 +1436,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "county_sportplex_pond",
@@ -1468,14 +1444,14 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-08",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW14-72-6-W6",
-      "latitude": 55.1983172,
-      "longitude": -118.8666834,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 562,
-        "edmontonKMRange": 393
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1516,8 +1492,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "cow_lake",
@@ -1528,11 +1503,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE12-38-8-W5",
-      "latitude": 52.271625,
-      "longitude": -115.0142757,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 151,
-        "edmontonKMRange": 175
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1583,8 +1558,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 8000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "crossfield_trout_pond",
@@ -1592,14 +1566,14 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-04-29",
     "population": 1400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE27-28-1-W5",
-      "latitude": 51.4034291,
-      "longitude": -114.086786,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 40,
-        "edmontonKMRange": 242
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1640,8 +1614,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1400
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "crowsnest_lake",
@@ -1649,14 +1622,14 @@
     "avgLength": 13.58,
     "latestStockDate": "2026-04-22",
     "population": 10000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE8-8-5-W5",
-      "latitude": 49.6319957,
-      "longitude": -114.642595,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 162,
-        "edmontonKMRange": 442
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1702,8 +1675,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 7000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "cummings_lake",
@@ -1711,14 +1683,14 @@
     "avgLength": 19.35,
     "latestStockDate": "2026-05-28",
     "population": 1600,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE10-82-3-W6",
-      "latitude": 56.0440352,
-      "longitude": -118.4074558,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 625,
-        "edmontonKMRange": 420
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1764,8 +1736,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 800
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "dandurand_lake",
@@ -1773,14 +1744,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE9-53-19-W5",
-      "latitude": 53.5357948,
-      "longitude": -116.6923613,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 329,
-        "edmontonKMRange": 211
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1821,8 +1792,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "daysland_pond",
@@ -1830,14 +1800,14 @@
     "avgLength": 22.7,
     "latestStockDate": "2026-05-11",
     "population": 400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE9-45-16-W4",
-      "latitude": 52.8418724,
-      "longitude": -112.2186134,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 237,
-        "edmontonKMRange": 116
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1878,8 +1848,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 400
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "dewitts_pond",
@@ -1887,14 +1856,14 @@
     "avgLength": 19.48,
     "latestStockDate": "2026-04-30",
     "population": 3595,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE31-26-1-W5",
-      "latitude": 51.2444053,
-      "longitude": -114.0172918,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 23,
-        "edmontonKMRange": 258
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -1945,8 +1914,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 1250
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "dickson_trout_pond",
@@ -1957,11 +1925,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW13-35-3-W5",
-      "latitude": 51.9889262,
-      "longitude": -114.4045983,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 107,
-        "edmontonKMRange": 184
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2017,8 +1985,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1700
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "dillberry_lake",
@@ -2029,11 +1996,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE36-41-1-W4",
-      "latitude": 52.5765196,
-      "longitude": -110.0053602,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 327,
-        "edmontonKMRange": 257
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2094,8 +2061,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 9454
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "diplomat_mine_pond",
@@ -2103,14 +2069,14 @@
     "avgLength": 19.37,
     "latestStockDate": "2026-04-29",
     "population": 6500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW1-41-16-W4",
-      "latitude": 52.4804545,
-      "longitude": -112.2604115,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 203,
-        "edmontonKMRange": 144
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2156,8 +2122,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "dolberg_lake",
@@ -2168,11 +2133,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE1-60-8-W5",
-      "latitude": 54.1579078,
-      "longitude": -115.0542532,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 352,
-        "edmontonKMRange": 123
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2223,8 +2188,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "dunn_lake",
@@ -2232,14 +2196,14 @@
     "avgLength": 19.6,
     "latestStockDate": "2026-05-27",
     "population": 3000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW7-54-25-W5",
-      "latitude": 53.6225351,
-      "longitude": -117.5139511,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 370,
-        "edmontonKMRange": 265
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2280,8 +2244,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "east_dollar_lake",
@@ -2289,14 +2252,14 @@
     "avgLength": 20.63,
     "latestStockDate": "2026-05-19",
     "population": 3800,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW8-73-21-W5",
-      "latitude": 55.2706008,
-      "longitude": -117.0748766,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 511,
-        "edmontonKMRange": 301
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2347,23 +2310,22 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "east_pit_lake",
     "waterBodyName": "East Pit Lake",
-    "avgLength": 20,
+    "avgLength": 20.0,
     "latestStockDate": "2026-05-11",
     "population": 11600,
     "difficulty": 1,
     "location": {
       "name": "SE23-53-4-W5",
-      "latitude": 53.5851107,
-      "longitude": -114.475248,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 284,
-        "edmontonKMRange": 65
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2384,7 +2346,7 @@
       },
       "rainbowTrout": {
         "population": 11600,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-05-11"
       },
       "cutthroatTrout": {
@@ -2404,8 +2366,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 11600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "east_stormwater_pond",
@@ -2413,14 +2374,14 @@
     "avgLength": 21.83,
     "latestStockDate": "2026-05-22",
     "population": 1150,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE29-40-26-W4",
-      "latitude": 52.4443127,
-      "longitude": -113.5941538,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 159,
-        "edmontonKMRange": 123
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2471,8 +2432,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 50
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "elk_creek_pond",
@@ -2480,14 +2440,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-21",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW33-35-12-W5",
-      "latitude": 52.0570106,
-      "longitude": -115.6563641,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 157,
-        "edmontonKMRange": 220
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2528,8 +2488,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "elk_point_pond",
@@ -2537,20 +2496,20 @@
     "avgLength": 22.1,
     "latestStockDate": "2026-05-12",
     "population": 1550,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW36-56-7-W4",
-      "latitude": 53.8538426,
-      "longitude": -111.009004,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 375,
-        "edmontonKMRange": 167
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
       "brookTrout": {
         "population": 500,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-05-12"
       },
       "brownTrout": {
@@ -2595,8 +2554,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 150
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "emerson_lake",
@@ -2604,14 +2562,14 @@
     "avgLength": 22.89,
     "latestStockDate": "2026-04-22",
     "population": 1600,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW5-19-28-W4",
-      "latitude": 50.5770668,
-      "longitude": -113.8513209,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 54,
-        "edmontonKMRange": 331
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2657,23 +2615,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1400
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "emerson_lakes",
     "waterBodyName": "Emerson Lakes",
-    "avgLength": 16,
+    "avgLength": 16.0,
     "latestStockDate": "2026-05-20",
     "population": 2250,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW6-55-21-W5",
-      "latitude": 53.7237568,
-      "longitude": -117.1230566,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 363,
-        "edmontonKMRange": 240
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2694,7 +2651,7 @@
       },
       "rainbowTrout": {
         "population": 2250,
-        "avgLength": 16,
+        "avgLength": 16.0,
         "lastPopulatedDate": "2026-05-20"
       },
       "cutthroatTrout": {
@@ -2714,8 +2671,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2250
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "enchant_pond",
@@ -2723,14 +2679,14 @@
     "avgLength": 19.82,
     "latestStockDate": "2026-05-01",
     "population": 2200,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW8-14-18-W4",
-      "latitude": 50.1529231,
-      "longitude": -112.328347,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 158,
-        "edmontonKMRange": 386
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2746,7 +2702,7 @@
       },
       "tigerTrout": {
         "population": 200,
-        "avgLength": 17,
+        "avgLength": 17.0,
         "lastPopulatedDate": "2026-04-20"
       },
       "rainbowTrout": {
@@ -2776,8 +2732,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "engstrom_lake",
@@ -2785,14 +2740,14 @@
     "avgLength": 21.44,
     "latestStockDate": "2026-05-29",
     "population": 23000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW17-83-6-W4",
-      "latitude": 56.1524605,
-      "longitude": -110.8102653,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 607,
-        "edmontonKMRange": 337
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2838,8 +2793,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 8425
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "fairview_college_pond",
@@ -2847,14 +2801,14 @@
     "avgLength": 22.1,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW34-81-3-W6",
-      "latitude": 56.0151217,
-      "longitude": -118.3936368,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 622,
-        "edmontonKMRange": 417
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2895,8 +2849,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "fiesta_lake",
@@ -2904,14 +2857,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-21",
     "population": 550,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE12-35-6-W5",
-      "latitude": 51.9744694,
-      "longitude": -114.8385154,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 116,
-        "edmontonKMRange": 197
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -2952,8 +2905,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 550
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "figure_eight_lake",
@@ -2961,14 +2913,14 @@
     "avgLength": 20.8,
     "latestStockDate": "2026-05-25",
     "population": 9000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE20-84-25-W5",
-      "latitude": 56.2536575,
-      "longitude": -117.7876192,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 629,
-        "edmontonKMRange": 407
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3009,8 +2961,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 9000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "footner_pond",
@@ -3018,14 +2969,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE5-111-19-W5",
-      "latitude": 58.5450471,
-      "longitude": -117.0401989,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 855,
-        "edmontonKMRange": 598
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3066,8 +3017,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "foremost_reservoir",
@@ -3075,14 +3025,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 1500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW17-6-11-W4",
-      "latitude": 49.4734575,
-      "longitude": -111.3615815,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 260,
-        "edmontonKMRange": 476
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3123,8 +3073,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "fox_creek_trout_pond",
@@ -3132,14 +3081,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW13-63-20-W5",
-      "latitude": 54.4176545,
-      "longitude": -116.9599162,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 422,
-        "edmontonKMRange": 246
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3180,8 +3129,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "gibbons_pond",
@@ -3189,14 +3137,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-14",
     "population": 300,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE10-56-23-W4",
-      "latitude": 53.7960157,
-      "longitude": -113.3205405,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 310,
-        "edmontonKMRange": 30
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3237,8 +3185,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 300
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "goldeye_lake",
@@ -3249,11 +3196,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE14-40-16-W5",
-      "latitude": 52.448736,
-      "longitude": -116.1914175,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 214,
-        "edmontonKMRange": 218
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3299,8 +3246,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 6667
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "goldspring_park_pond",
@@ -3308,14 +3254,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 2363,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE6-2-15-W4",
-      "latitude": 49.0975828,
-      "longitude": -111.8707853,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 267,
-        "edmontonKMRange": 507
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3356,8 +3302,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2363
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "gooseberry_park_pond",
@@ -3365,14 +3310,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 2800,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE22-36-6-W4",
-      "latitude": 52.0901232,
-      "longitude": -110.7931404,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 255,
-        "edmontonKMRange": 243
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3413,8 +3358,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2800
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "grande_cache_lake",
@@ -3422,14 +3366,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-28",
     "population": 10045,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE1-57-8-W6",
-      "latitude": 53.8682993,
-      "longitude": -119.1704183,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 467,
-        "edmontonKMRange": 375
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3470,8 +3414,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 10045
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "granum_pond",
@@ -3479,14 +3422,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 600,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW31-10-26-W4",
-      "latitude": 49.8637888,
-      "longitude": -113.3638993,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 141,
-        "edmontonKMRange": 410
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3527,8 +3470,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "grotto_mountain_pond",
@@ -3536,14 +3478,14 @@
     "avgLength": 14.2,
     "latestStockDate": "2026-05-14",
     "population": 800,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW21-24-9-W5",
-      "latitude": 51.0658982,
-      "longitude": -115.2024236,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 79,
-        "edmontonKMRange": 299
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3584,23 +3526,22 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 800
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "hansens_reservoir",
     "waterBodyName": "Hansen's Reservoir",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-06",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE29-38-3-W5",
-      "latitude": 52.2780605,
-      "longitude": -114.3243915,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 138,
-        "edmontonKMRange": 152
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3621,7 +3562,7 @@
       },
       "rainbowTrout": {
         "population": 1000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-06"
       },
       "cutthroatTrout": {
@@ -3641,8 +3582,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "harleck_pond",
@@ -3650,14 +3590,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE5-41-14-W5",
-      "latitude": 52.4732262,
-      "longitude": -115.8925755,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 202,
-        "edmontonKMRange": 200
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3698,8 +3638,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "hasse_lake",
@@ -3707,14 +3646,14 @@
     "avgLength": 20.63,
     "latestStockDate": "2026-05-07",
     "population": 11500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW13-52-2-W5",
-      "latitude": 53.4866008,
-      "longitude": -114.1734375,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 272,
-        "edmontonKMRange": 45
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3760,23 +3699,22 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "helmer_reservoir",
     "waterBodyName": "Helmer Reservoir",
-    "avgLength": 20,
+    "avgLength": 20.0,
     "latestStockDate": "2026-04-23",
     "population": 5000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW18-31-14-W4",
-      "latitude": 51.6490029,
-      "longitude": -111.9851779,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 160,
-        "edmontonKMRange": 234
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3797,7 +3735,7 @@
       },
       "rainbowTrout": {
         "population": 5000,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-04-23"
       },
       "cutthroatTrout": {
@@ -3817,8 +3755,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "heritage_lake",
@@ -3826,14 +3763,14 @@
     "avgLength": 20.15,
     "latestStockDate": "2026-05-05",
     "population": 4760,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW33-55-25-W4",
-      "latitude": 50.8405294,
-      "longitude": -114.0063841,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 23,
-        "edmontonKMRange": 303
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3884,8 +3821,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 1600
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "hermitage_park_pond",
@@ -3893,14 +3829,14 @@
     "avgLength": 22.91,
     "latestStockDate": "2026-05-08",
     "population": 1400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE18-53-23-W4",
-      "latitude": 53.5818848,
-      "longitude": -113.3715182,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 286,
-        "edmontonKMRange": 9
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -3946,8 +3882,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "high_level_community",
@@ -3955,14 +3890,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE6-110-19-W5",
-      "latitude": 58.5169324,
-      "longitude": -117.133785,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 854,
-        "edmontonKMRange": 597
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4003,23 +3938,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "highway_40_pond",
     "waterBodyName": "Highway 40 Pond",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW12-69-6-W6",
-      "latitude": 54.9164113,
-      "longitude": -118.886215,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 538,
-        "edmontonKMRange": 382
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4040,7 +3974,7 @@
       },
       "rainbowTrout": {
         "population": 1000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-26"
       },
       "cutthroatTrout": {
@@ -4060,8 +3994,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "highway_63_pond",
@@ -4069,14 +4002,14 @@
     "avgLength": 21.4,
     "latestStockDate": "2026-05-22",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE35-87-9-W4",
-      "latitude": 56.5427919,
-      "longitude": -111.380197,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 636,
-        "edmontonKMRange": 359
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4117,8 +4050,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "highway_686_pond",
@@ -4126,14 +4058,14 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE17-85-19-W5",
-      "latitude": 56.3259411,
-      "longitude": -116.8585513,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 615,
-        "edmontonKMRange": 376
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4174,8 +4106,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "hillers_reservoir",
@@ -4183,14 +4114,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-30",
     "population": 7500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE13-32-29-W4",
-      "latitude": 51.7214769,
-      "longitude": -114.0518332,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 75,
-        "edmontonKMRange": 206
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4231,8 +4162,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 7500
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "hinton_f_and_g_pond_hinton",
@@ -4243,11 +4173,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW28-50-25-W5",
-      "latitude": 53.3117157,
-      "longitude": -117.5337146,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 345,
-        "edmontonKMRange": 269
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4288,8 +4218,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 300
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "horseshoe_lake",
@@ -4297,14 +4226,14 @@
     "avgLength": 4.9,
     "latestStockDate": "2026-05-20",
     "population": 1500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW31-63-25-W4",
-      "latitude": 53.5849808,
-      "longitude": -113.6665392,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 284,
-        "edmontonKMRange": 12
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4345,8 +4274,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "huber_reservoir",
@@ -4354,14 +4282,14 @@
     "avgLength": 19.93,
     "latestStockDate": "2026-04-27",
     "population": 7250,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW36-37-13-W4",
-      "latitude": 52.1985485,
-      "longitude": -111.8189415,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 202,
-        "edmontonKMRange": 187
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4407,8 +4335,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1250
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "innisfree_trout_pond",
@@ -4416,14 +4343,14 @@
     "avgLength": 21.36,
     "latestStockDate": "2026-05-09",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE13-51-12-W4",
-      "latitude": 53.3695426,
-      "longitude": -111.7371582,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 304,
-        "edmontonKMRange": 118
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4469,8 +4396,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "irma_fish_and_game_pond",
@@ -4478,14 +4404,14 @@
     "avgLength": 22.16,
     "latestStockDate": "2026-05-01",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW34-45-9-W4",
-      "latitude": 52.8924709,
-      "longitude": -111.2259184,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 283,
-        "edmontonKMRange": 168
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4531,8 +4457,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 200
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "ironside_pond",
@@ -4540,14 +4465,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-15",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW7-38-7-W5",
-      "latitude": 52.227462,
-      "longitude": -114.8552141,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 142,
-        "edmontonKMRange": 173
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4588,8 +4513,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "island_lake",
@@ -4597,14 +4521,14 @@
     "avgLength": 12.5,
     "latestStockDate": "2026-04-22",
     "population": 3500,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "NW12-8-6-W5",
-      "latitude": 49.6270982,
-      "longitude": -114.685106,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 164,
-        "edmontonKMRange": 443
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4645,8 +4569,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 3500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "jack_fish_lake",
@@ -4657,11 +4580,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW20-53-9-W4",
-      "latitude": 53.4854989,
-      "longitude": -114.2341848,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 272,
-        "edmontonKMRange": 49
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4717,8 +4640,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "jarvis_creek_pond",
@@ -4726,14 +4648,14 @@
     "avgLength": 23.4,
     "latestStockDate": "2026-05-27",
     "population": 700,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE19-52-26-W5",
-      "latitude": 53.477968,
-      "longitude": -117.6572905,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 275
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4774,23 +4696,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 700
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "kakut_lake",
     "waterBodyName": "Kakut Lake",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-26",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW34-76-4-W6",
-      "latitude": 55.5814202,
-      "longitude": -118.5424522,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 585,
-        "edmontonKMRange": 396
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4811,7 +4732,7 @@
       },
       "rainbowTrout": {
         "population": 1500,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-26"
       },
       "cutthroatTrout": {
@@ -4831,8 +4752,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "kerbes_pond",
@@ -4840,14 +4760,14 @@
     "avgLength": 19.87,
     "latestStockDate": "2026-04-27",
     "population": 2250,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE19-36-20-W4",
-      "latitude": 52.0901232,
-      "longitude": -112.6966775,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 150,
-        "edmontonKMRange": 171
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4898,8 +4818,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "kids_can_catch_pond",
@@ -4907,14 +4826,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-12",
     "population": 36,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW13-24-1-W5",
-      "latitude": 51.0414312,
-      "longitude": -114.0176929,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 4,
-        "edmontonKMRange": 281
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -4960,8 +4879,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 21
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "kinky_lake",
@@ -4969,14 +4887,14 @@
     "avgLength": 20.6,
     "latestStockDate": "2026-05-08",
     "population": 7000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE6-50-26-W5",
-      "latitude": 53.2808131,
-      "longitude": -117.783726,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 355,
-        "edmontonKMRange": 286
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5017,8 +4935,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 7000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "kraft_wimborne_pond",
@@ -5026,14 +4943,14 @@
     "avgLength": 21.34,
     "latestStockDate": "2026-05-11",
     "population": 530,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE28-33-26-W4",
-      "latitude": 51.8371306,
-      "longitude": -113.5689581,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 95,
-        "edmontonKMRange": 190
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5049,7 +4966,7 @@
       },
       "tigerTrout": {
         "population": 70,
-        "avgLength": 19,
+        "avgLength": 19.0,
         "lastPopulatedDate": "2026-05-11"
       },
       "rainbowTrout": {
@@ -5089,8 +5006,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 230
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "kramer_pond",
@@ -5098,14 +5014,14 @@
     "avgLength": 20.59,
     "latestStockDate": "2026-05-14",
     "population": 3500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW25-45-6-W5",
-      "latitude": 52.8780142,
-      "longitude": -114.8431927,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 211,
-        "edmontonKMRange": 117
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5151,8 +5067,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lac_la_biche_trout_pond",
@@ -5160,14 +5075,14 @@
     "avgLength": 23.1,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW5-67-13-W4",
-      "latitude": 54.7357023,
-      "longitude": -111.8336764,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 437,
-        "edmontonKMRange": 171
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5208,8 +5123,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lacombe_park_pond",
@@ -5217,14 +5131,14 @@
     "avgLength": 21.98,
     "latestStockDate": "2026-05-06",
     "population": 1220,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW5-54-25-W4",
-      "latitude": 53.6080784,
-      "longitude": -113.5383112,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 287,
-        "edmontonKMRange": 7
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5275,8 +5189,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lambert_pond",
@@ -5284,14 +5197,14 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-05-08",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW8-53-17-W5",
-      "latitude": 53.5659358,
-      "longitude": -116.4821147,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 325,
-        "edmontonKMRange": 197
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5332,23 +5245,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lamont_pond",
     "waterBodyName": "Lamont Pond",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-07",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW27-55-19-W4",
-      "latitude": 53.7454172,
-      "longitude": -112.7156451,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 314,
-        "edmontonKMRange": 56
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5369,7 +5281,7 @@
       },
       "rainbowTrout": {
         "population": 2000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-07"
       },
       "cutthroatTrout": {
@@ -5389,8 +5301,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lara_fish_pond",
@@ -5398,14 +5309,14 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-11",
     "population": 400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE25-61-5-W4",
-      "latitude": 54.2730874,
-      "longitude": -110.7353238,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 424,
-        "edmontonKMRange": 198
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5446,8 +5357,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 400
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "leduc_reservoir",
@@ -5455,14 +5365,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-06",
     "population": 5000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE27-49-25-W4",
-      "latitude": 53.2611201,
-      "longitude": -113.5686541,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 249,
-        "edmontonKMRange": 32
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5503,8 +5413,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "lees_lake",
@@ -5512,14 +5421,14 @@
     "avgLength": 19.61,
     "latestStockDate": "2026-04-13",
     "population": 21895,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW8-7-2-W5",
-      "latitude": 49.5385127,
-      "longitude": -114.1614525,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 168,
-        "edmontonKMRange": 448
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5565,8 +5474,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 1895
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "legal_reservoir",
@@ -5574,14 +5482,14 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-15",
     "population": 1150,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW24-57-25-W4",
-      "latitude": 53.9116695,
-      "longitude": -113.6583233,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 320,
-        "edmontonKMRange": 42
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5622,8 +5530,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1150
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "len_thompson_pond",
@@ -5631,14 +5538,14 @@
     "avgLength": 21.63,
     "latestStockDate": "2026-05-14",
     "population": 1935,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW29-40-26-W4",
-      "latitude": 52.4767654,
-      "longitude": -113.7127124,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 161,
-        "edmontonKMRange": 120
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5649,7 +5556,7 @@
       },
       "brownTrout": {
         "population": 50,
-        "avgLength": 64,
+        "avgLength": 64.0,
         "lastPopulatedDate": "2026-05-14"
       },
       "tigerTrout": {
@@ -5689,8 +5596,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 50
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "little_bear_lake_hasse",
@@ -5701,11 +5607,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW19-64-2-W4",
-      "latitude": 54.5188516,
-      "longitude": -110.1554605,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 467,
-        "edmontonKMRange": 243
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5766,8 +5672,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "little_beaverdam_lake",
@@ -5775,14 +5680,14 @@
     "avgLength": 18.3,
     "latestStockDate": "2026-05-19",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE34-1-28-W4",
-      "latitude": 49.0758978,
-      "longitude": -113.6524164,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 221,
-        "edmontonKMRange": 497
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5823,8 +5728,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "lloydminster_pond",
@@ -5832,14 +5736,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-27",
     "population": 500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE6-50-1-W4",
-      "latitude": 53.2538889,
-      "longitude": -110.0181216,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 370,
-        "edmontonKMRange": 233
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5880,8 +5784,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lodgepole_pond",
@@ -5889,14 +5792,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-15",
     "population": 200,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE1-48-10-W5",
-      "latitude": 53.0876366,
-      "longitude": -115.4378649,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 246,
-        "edmontonKMRange": 139
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5937,8 +5840,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 200
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lougheed_trout_pond",
@@ -5946,14 +5848,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE33-43-11-W4",
-      "latitude": 52.7513132,
-      "longitude": -111.5400022,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 257,
-        "edmontonKMRange": 157
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -5994,8 +5896,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "lovett_lake",
@@ -6003,14 +5904,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "NW10-47-19-W5",
-      "latitude": 53.015353,
-      "longitude": -116.6718165,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 282,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6051,8 +5952,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "mcclennan_reservoir",
@@ -6060,14 +5960,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW32-77-19-W5",
-      "latitude": 55.6681605,
-      "longitude": -116.7950037,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 545,
-        "edmontonKMRange": 318
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6108,127 +6008,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "reservoir"
-  },
-  {
-    "id": "mclarens_reservoir",
-    "waterBodyName": "Mclaren's Reservoir",
-    "avgLength": 21.77,
-    "latestStockDate": "2026-04-29",
-    "population": 5600,
-    "difficulty": 2,
-    "location": {
-      "name": "SW23-33-18-W4",
-      "latitude": 51.8226739,
-      "longitude": -112.4824995,
-      "cityRange": {
-        "calgaryKMRange": 140,
-        "edmontonKMRange": 203
-      }
-    },
-    "fishTypes": {
-      "brookTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "brownTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "tigerTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "rainbowTrout": {
-        "population": 5600,
-        "avgLength": 21.77,
-        "lastPopulatedDate": "2026-04-29"
-      },
-      "cutthroatTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "walleye": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      }
-    },
-    "logs": [
-      {
-        "stockDate": "2026-04-28",
-        "typeOfFish": "rainbowTrout",
-        "amountPopulated": 4200
-      },
-      {
-        "stockDate": "2026-04-29",
-        "typeOfFish": "rainbowTrout",
-        "amountPopulated": 1400
-      }
-    ],
-    "waterBodyType": "reservoir"
-  },
-  {
-    "id": "mclean_pond",
-    "waterBodyName": "Mclean Pond",
-    "avgLength": 14.2,
-    "latestStockDate": "2026-05-14",
-    "population": 2300,
-    "difficulty": 3,
-    "location": {
-      "name": "NW20-22-5-W5",
-      "latitude": 50.8868235,
-      "longitude": -114.6692598,
-      "cityRange": {
-        "calgaryKMRange": 45,
-        "edmontonKMRange": 306
-      }
-    },
-    "fishTypes": {
-      "brookTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "brownTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "tigerTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "rainbowTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "cutthroatTrout": {
-        "population": 2300,
-        "avgLength": 14.2,
-        "lastPopulatedDate": "2026-05-14"
-      },
-      "walleye": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      }
-    },
-    "logs": [
-      {
-        "stockDate": "2026-05-14",
-        "typeOfFish": "cutthroatTrout",
-        "amountPopulated": 2300
-      }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "mcleod_lake_carson",
@@ -6239,11 +6019,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE25-61-12-W5",
-      "latitude": 54.265859,
-      "longitude": -115.773428,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 376,
-        "edmontonKMRange": 169
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6304,8 +6084,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 4000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "mcquillan_reservoir",
@@ -6313,14 +6092,14 @@
     "avgLength": 24.5,
     "latestStockDate": "2026-04-21",
     "population": 2000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW13-8-19-W4",
-      "latitude": 49.6397097,
-      "longitude": -112.5264837,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 191,
-        "edmontonKMRange": 439
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6361,8 +6140,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "mcvinnie_reservoir",
@@ -6370,14 +6148,14 @@
     "avgLength": 23.83,
     "latestStockDate": "2026-04-21",
     "population": 1555,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW33-12-21-W4",
-      "latitude": 50.0300411,
-      "longitude": -112.7468639,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 147,
-        "edmontonKMRange": 394
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6393,7 +6171,7 @@
       },
       "tigerTrout": {
         "population": 400,
-        "avgLength": 17,
+        "avgLength": 17.0,
         "lastPopulatedDate": "2026-04-20"
       },
       "rainbowTrout": {
@@ -6423,8 +6201,124 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1155
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
+  },
+  {
+    "id": "mclarens_reservoir",
+    "waterBodyName": "Mclaren's Reservoir",
+    "avgLength": 21.77,
+    "latestStockDate": "2026-04-29",
+    "population": 5600,
+    "difficulty": 1,
+    "location": {
+      "name": "SW23-33-18-W4",
+      "latitude": 0,
+      "longitude": 0,
+      "cityRange": {
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
+      }
+    },
+    "fishTypes": {
+      "brookTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "brownTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "tigerTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "rainbowTrout": {
+        "population": 5600,
+        "avgLength": 21.77,
+        "lastPopulatedDate": "2026-04-29"
+      },
+      "cutthroatTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "walleye": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      }
+    },
+    "logs": [
+      {
+        "stockDate": "2026-04-28",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 4200
+      },
+      {
+        "stockDate": "2026-04-29",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 1400
+      }
+    ]
+  },
+  {
+    "id": "mclean_pond",
+    "waterBodyName": "Mclean Pond",
+    "avgLength": 14.2,
+    "latestStockDate": "2026-05-14",
+    "population": 2300,
+    "difficulty": 1,
+    "location": {
+      "name": "NW20-22-5-W5",
+      "latitude": 0,
+      "longitude": 0,
+      "cityRange": {
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
+      }
+    },
+    "fishTypes": {
+      "brookTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "brownTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "tigerTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "rainbowTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "cutthroatTrout": {
+        "population": 2300,
+        "avgLength": 14.2,
+        "lastPopulatedDate": "2026-05-14"
+      },
+      "walleye": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      }
+    },
+    "logs": [
+      {
+        "stockDate": "2026-05-14",
+        "typeOfFish": "cutthroatTrout",
+        "amountPopulated": 2300
+      }
+    ]
   },
   {
     "id": "md_peace_pond_#1",
@@ -6432,14 +6326,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW27-83-23-W5",
-      "latitude": 56.1741456,
-      "longitude": -117.5068284,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 614,
-        "edmontonKMRange": 389
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6480,8 +6374,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "md_peace_pond_#2",
@@ -6489,14 +6382,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW27-83-23-W5",
-      "latitude": 56.1741456,
-      "longitude": -117.5068284,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 614,
-        "edmontonKMRange": 389
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6537,8 +6430,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "michel_reservoir_michel",
@@ -6546,14 +6438,14 @@
     "avgLength": 19.53,
     "latestStockDate": "2026-04-22",
     "population": 9000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE5-7-3-W4",
-      "latitude": 49.5312843,
-      "longitude": -110.306203,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 316,
-        "edmontonKMRange": 498
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6574,7 +6466,7 @@
       },
       "rainbowTrout": {
         "population": 7500,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-04-22"
       },
       "cutthroatTrout": {
@@ -6599,8 +6491,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "michichi_reservoir",
@@ -6608,14 +6499,14 @@
     "avgLength": 21.55,
     "latestStockDate": "2026-04-29",
     "population": 5600,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW19-30-18-W4",
-      "latitude": 51.583449,
-      "longitude": -112.5282424,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 123,
-        "edmontonKMRange": 228
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6661,8 +6552,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1400
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "mile_07_lake",
@@ -6670,14 +6560,14 @@
     "avgLength": 21.7,
     "latestStockDate": "2026-05-28",
     "population": 11000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE35-69-14-W4",
-      "latitude": 54.9814665,
-      "longitude": -112.0804053,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 458,
-        "edmontonKMRange": 184
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6718,8 +6608,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 11000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "millers_lake",
@@ -6730,11 +6619,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW8-53-19-W5",
-      "latitude": 53.5600563,
-      "longitude": -116.7680635,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 334,
-        "edmontonKMRange": 216
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6785,8 +6674,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 80
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "mitchell_lake",
@@ -6794,14 +6682,14 @@
     "avgLength": 20.42,
     "latestStockDate": "2026-05-13",
     "population": 2500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE25-37-8-W5",
-      "latitude": 53.901522,
-      "longitude": -110.6489889,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 393,
-        "edmontonKMRange": 191
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6847,23 +6735,22 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "mitchell_pond_waskasoo",
     "waterBodyName": "Mitchell Pond (Waskasoo)",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-06",
     "population": 2100,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW18-38-27-W4",
-      "latitude": 52.2491471,
-      "longitude": -113.6862676,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 137,
-        "edmontonKMRange": 145
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6884,7 +6771,7 @@
       },
       "rainbowTrout": {
         "population": 2100,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-06"
       },
       "cutthroatTrout": {
@@ -6904,8 +6791,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "mitford_ponds",
@@ -6913,14 +6799,14 @@
     "avgLength": 22.29,
     "latestStockDate": "2026-04-30",
     "population": 411,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE4-26-4-W5",
-      "latitude": 51.1904976,
-      "longitude": -114.4948127,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 34,
-        "edmontonKMRange": 271
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -6941,7 +6827,7 @@
       },
       "rainbowTrout": {
         "population": 350,
-        "avgLength": 23,
+        "avgLength": 23.0,
         "lastPopulatedDate": "2026-04-30"
       },
       "cutthroatTrout": {
@@ -6966,8 +6852,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 61
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "montaganeusse_lake",
@@ -6975,20 +6860,20 @@
     "avgLength": 21.37,
     "latestStockDate": "2026-05-25",
     "population": 7975,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE31-86-3-W6",
-      "latitude": 56.4560516,
-      "longitude": -118.3328424,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 663,
-        "edmontonKMRange": 447
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
       "brookTrout": {
         "population": 6000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-25"
       },
       "brownTrout": {
@@ -7028,8 +6913,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1975
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "moonshine_lake_mirage",
@@ -7037,14 +6921,14 @@
     "avgLength": 17.15,
     "latestStockDate": "2026-05-26",
     "population": 9800,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE31-79-8-W6",
-      "latitude": 55.8416411,
-      "longitude": -119.0985586,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 628,
-        "edmontonKMRange": 441
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7055,7 +6939,7 @@
       },
       "brownTrout": {
         "population": 500,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-05-26"
       },
       "tigerTrout": {
@@ -7065,7 +6949,7 @@
       },
       "rainbowTrout": {
         "population": 9300,
-        "avgLength": 17,
+        "avgLength": 17.0,
         "lastPopulatedDate": "2026-05-26"
       },
       "cutthroatTrout": {
@@ -7090,8 +6974,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "morinville_fish_and_game",
@@ -7099,14 +6982,14 @@
     "avgLength": 21.92,
     "latestStockDate": "2026-05-05",
     "population": 1525,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW4-56-25-W4",
-      "latitude": 53.781559,
-      "longitude": -113.5773779,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 306,
-        "edmontonKMRange": 27
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7152,23 +7035,22 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "mound_red_reservoir",
     "waterBodyName": "Mound Red Reservoir",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-07",
     "population": 3000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW11-45-28-W4",
-      "latitude": 52.8418724,
-      "longitude": -113.9767598,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 200,
-        "edmontonKMRange": 85
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7189,7 +7071,7 @@
       },
       "rainbowTrout": {
         "population": 3000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-07"
       },
       "cutthroatTrout": {
@@ -7209,8 +7091,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "mount_lorette_ponds",
@@ -7218,14 +7099,14 @@
     "avgLength": 16.23,
     "latestStockDate": "2026-05-14",
     "population": 1200,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW19-23-8-W5",
-      "latitude": 50.9680925,
-      "longitude": -115.1087609,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 73,
-        "edmontonKMRange": 307
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7271,8 +7152,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 400
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "muir_lake",
@@ -7280,14 +7160,14 @@
     "avgLength": 21.79,
     "latestStockDate": "2026-05-06",
     "population": 3500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW32-53-27-W4",
-      "latitude": 53.6246572,
-      "longitude": -113.9560349,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 287,
-        "edmontonKMRange": 32
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7338,8 +7218,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "muskiki_lake",
@@ -7347,14 +7226,14 @@
     "avgLength": 15.4,
     "latestStockDate": "2026-05-27",
     "population": 1500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW5-45-20-W5",
-      "latitude": 52.8274157,
-      "longitude": -116.7568215,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 270,
-        "edmontonKMRange": 232
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7395,8 +7274,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "muskoseepi_pond",
@@ -7404,14 +7282,14 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-08",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE26-71-6-W6",
-      "latitude": 55.133262,
-      "longitude": -118.8774284,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 556,
-        "edmontonKMRange": 391
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7452,23 +7330,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "nardam_lake",
     "waterBodyName": "Nardam Lake",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-26",
     "population": 500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE17-78-5-W6",
-      "latitude": 55.718759,
-      "longitude": -118.6602367,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 602,
-        "edmontonKMRange": 411
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7489,7 +7366,7 @@
       },
       "rainbowTrout": {
         "population": 500,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-26"
       },
       "cutthroatTrout": {
@@ -7509,8 +7386,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "nicholas_sheran_park_pond",
@@ -7518,14 +7394,14 @@
     "avgLength": 20.72,
     "latestStockDate": "2026-04-24",
     "population": 6180,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE26-8-22-W4",
-      "latitude": 49.6686231,
-      "longitude": -112.9168895,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 174,
-        "edmontonKMRange": 433
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7546,7 +7422,7 @@
       },
       "rainbowTrout": {
         "population": 2000,
-        "avgLength": 24,
+        "avgLength": 24.0,
         "lastPopulatedDate": "2026-04-20"
       },
       "cutthroatTrout": {
@@ -7586,8 +7462,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 50
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "niemela_reservoir_rays",
@@ -7595,14 +7470,14 @@
     "avgLength": 19.62,
     "latestStockDate": "2026-05-04",
     "population": 1450,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE1-39-3-W5",
-      "latitude": 52.2997456,
-      "longitude": -114.4195797,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 142,
-        "edmontonKMRange": 152
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7648,8 +7523,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 250
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "niton_lake",
@@ -7657,14 +7531,14 @@
     "avgLength": 23.3,
     "latestStockDate": "2026-05-25",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE32-53-12-W5",
-      "latitude": 53.5863933,
-      "longitude": -115.6470201,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 302,
-        "edmontonKMRange": 142
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7705,8 +7579,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "nordegg_borrow_pit_east",
@@ -7714,14 +7587,14 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-19",
     "population": 300,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE32-40-15-W5",
-      "latitude": 52.4803656,
-      "longitude": -116.1220806,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 213,
-        "edmontonKMRange": 212
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7762,8 +7635,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 300
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "nordegg_borrow_pit_west",
@@ -7771,14 +7643,14 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-19",
     "population": 400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW32-40-15-W5",
-      "latitude": 52.4849082,
-      "longitude": -116.1286853,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 214,
-        "edmontonKMRange": 212
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7819,8 +7691,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 400
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "nose_creek_pond",
@@ -7828,14 +7699,14 @@
     "avgLength": 22.3,
     "latestStockDate": "2026-04-23",
     "population": 350,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE1-27-1-W5",
-      "latitude": 51.2801148,
-      "longitude": -114.0107202,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 27,
-        "edmontonKMRange": 254
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7876,23 +7747,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 350
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "nuggent_pond",
     "waterBodyName": "Nuggent Pond",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-06",
     "population": 600,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE14-44-3-W5",
-      "latitude": 52.7623605,
-      "longitude": -114.3998685,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 192,
-        "edmontonKMRange": 106
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7913,7 +7783,7 @@
       },
       "rainbowTrout": {
         "population": 600,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-06"
       },
       "cutthroatTrout": {
@@ -7933,8 +7803,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "obed_lake",
@@ -7942,14 +7811,14 @@
     "avgLength": 19.89,
     "latestStockDate": "2026-05-07",
     "population": 13500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW11-53-22-W5",
-      "latitude": 53.5652438,
-      "longitude": -117.1432948,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 349,
-        "edmontonKMRange": 241
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -7995,8 +7864,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 6430
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "ole_lake",
@@ -8004,14 +7872,14 @@
     "avgLength": 20.4,
     "latestStockDate": "2026-05-26",
     "population": 3000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW30-84-12-W6",
-      "latitude": 56.2681143,
-      "longitude": -119.7216451,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 689,
-        "edmontonKMRange": 500
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8052,8 +7920,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "open_creek_reservoir",
@@ -8061,14 +7928,14 @@
     "avgLength": 20.67,
     "latestStockDate": "2026-05-14",
     "population": 9000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE25-42-6-W5",
-      "latitude": 52.6480092,
-      "longitude": -114.7295099,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 184,
-        "edmontonKMRange": 130
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8114,8 +7981,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 3000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "outpost_lake_police_lake",
@@ -8123,14 +7989,14 @@
     "avgLength": 21.33,
     "latestStockDate": "2026-04-20",
     "population": 7500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE6-1-26-W4",
-      "latitude": 49.0108425,
-      "longitude": -113.321881,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 232,
-        "edmontonKMRange": 504
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8181,8 +8047,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "oyen_concrete_plant",
@@ -8190,14 +8055,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 300,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW34-27-4-W4",
-      "latitude": 51.3383739,
-      "longitude": -110.4908592,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 252,
-        "edmontonKMRange": 319
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8238,8 +8103,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 300
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "parlby_reservoir_tees",
@@ -8247,14 +8111,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-29",
     "population": 400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE25-40-24-W4",
-      "latitude": 52.4515411,
-      "longitude": -113.4046762,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 163,
-        "edmontonKMRange": 122
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8295,8 +8159,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 400
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "payne_lake_mami_lake",
@@ -8304,14 +8167,14 @@
     "avgLength": 14.64,
     "latestStockDate": "2026-05-26",
     "population": 124994,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE10-2-28-W4",
-      "latitude": 49.1120396,
-      "longitude": -113.6587926,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 217,
-        "edmontonKMRange": 493
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8377,8 +8240,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2028
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "peanut_lake",
@@ -8386,14 +8248,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-14",
     "population": 5000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE15-58-3-W5",
-      "latitude": 54.0154443,
-      "longitude": -114.3526627,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 331,
-        "edmontonKMRange": 77
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8434,8 +8296,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "peppers_lake",
@@ -8443,14 +8304,14 @@
     "avgLength": 19.83,
     "latestStockDate": "2026-05-21",
     "population": 6800,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW30-35-12-W5",
-      "latitude": 53.4425161,
-      "longitude": -117.7186621,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 280
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8496,23 +8357,22 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 4000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "petite_lake",
     "waterBodyName": "Petite Lake",
-    "avgLength": 16,
+    "avgLength": 16.0,
     "latestStockDate": "2026-05-21",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW12-54-26-W5",
-      "latitude": 53.6555184,
-      "longitude": -117.7023431,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 381,
-        "edmontonKMRange": 278
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8533,7 +8393,7 @@
       },
       "rainbowTrout": {
         "population": 2000,
-        "avgLength": 16,
+        "avgLength": 16.0,
         "lastPopulatedDate": "2026-05-21"
       },
       "cutthroatTrout": {
@@ -8553,8 +8413,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "phyllis_lake",
@@ -8565,11 +8424,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE17-36-7-W5",
-      "latitude": 52.1008954,
-      "longitude": -114.9671284,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 133,
-        "edmontonKMRange": 189
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8615,23 +8474,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 3182
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "pine_coulee_reservoir",
     "waterBodyName": "Pine Coulee Reservoir",
-    "avgLength": 20,
+    "avgLength": 20.0,
     "latestStockDate": "2026-04-14",
     "population": 5000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE15-14-28-W4",
-      "latitude": 50.1673799,
-      "longitude": -113.7377581,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 100,
-        "edmontonKMRange": 376
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8652,7 +8510,7 @@
       },
       "rainbowTrout": {
         "population": 5000,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-04-14"
       },
       "cutthroatTrout": {
@@ -8672,8 +8530,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5000
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "pit_24",
@@ -8681,14 +8538,14 @@
     "avgLength": 20.23,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE4-47-19-W5",
-      "latitude": 53.0008963,
-      "longitude": -116.6598084,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 280,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8734,8 +8591,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 250
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "pit_35",
@@ -8743,14 +8599,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 390,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW26-46-19-W5",
-      "latitude": 52.9647545,
-      "longitude": -116.6904328,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 279,
-        "edmontonKMRange": 222
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8791,8 +8647,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 390
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "pit_44",
@@ -8800,14 +8655,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 1100,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW35-46-19-W5",
-      "latitude": 52.9792112,
-      "longitude": -116.6904328,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 280,
-        "edmontonKMRange": 222
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8848,8 +8703,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "pit_45",
@@ -8857,14 +8711,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 1100,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE26-46-19-W5",
-      "latitude": 52.9647545,
-      "longitude": -116.7024169,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 279,
-        "edmontonKMRange": 223
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8905,23 +8759,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "pleasure_island_reservoir",
     "waterBodyName": "Pleasure Island Reservoir",
-    "avgLength": 19,
+    "avgLength": 19.0,
     "latestStockDate": "2026-05-01",
     "population": 1630,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW20-46-19-W4",
-      "latitude": 52.9502978,
-      "longitude": -112.6185281,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 234,
-        "edmontonKMRange": 88
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -8932,7 +8785,7 @@
       },
       "brownTrout": {
         "population": 160,
-        "avgLength": 18,
+        "avgLength": 18.0,
         "lastPopulatedDate": "2026-05-01"
       },
       "tigerTrout": {
@@ -8942,7 +8795,7 @@
       },
       "rainbowTrout": {
         "population": 200,
-        "avgLength": 23,
+        "avgLength": 23.0,
         "lastPopulatedDate": "2026-05-01"
       },
       "cutthroatTrout": {
@@ -8977,8 +8830,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 160
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "ponoka_centennial_park",
@@ -8986,14 +8838,14 @@
     "avgLength": 20.76,
     "latestStockDate": "2026-05-07",
     "population": 1100,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE5-43-25-W4",
-      "latitude": 52.6539351,
-      "longitude": -113.4725481,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 184,
-        "edmontonKMRange": 99
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9014,7 +8866,7 @@
       },
       "rainbowTrout": {
         "population": 1000,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-07"
       },
       "cutthroatTrout": {
@@ -9039,8 +8891,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "radway_fish_pond",
@@ -9048,14 +8899,14 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-07",
     "population": 1040,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SE31-58-20-W4",
-      "latitude": 54.0200948,
-      "longitude": -112.8185263,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 342,
-        "edmontonKMRange": 69
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9096,8 +8947,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1040
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "rainbow_lake_pond",
@@ -9105,14 +8955,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE25-109-9-W6",
-      "latitude": 58.4366218,
-      "longitude": -119.4816101,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 892,
-        "edmontonKMRange": 659
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9153,8 +9003,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "rainbow_park_pond",
@@ -9162,14 +9011,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-14",
     "population": 1200,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE31-59-25-W4",
-      "latitude": 54.1140635,
-      "longitude": -113.5628087,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 343,
-        "edmontonKMRange": 63
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9210,8 +9059,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1200
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "rat_lake",
@@ -9219,14 +9067,14 @@
     "avgLength": 4.9,
     "latestStockDate": "2026-05-21",
     "population": 2500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW11-38-9-W5",
-      "latitude": 53.2518987,
-      "longitude": -115.6478539,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 268,
-        "edmontonKMRange": 147
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9267,8 +9115,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 2500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "reesor_lake",
@@ -9279,11 +9126,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW20-8-1-W4",
-      "latitude": 49.6663069,
-      "longitude": -110.1088838,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 320,
-        "edmontonKMRange": 491
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9339,8 +9186,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 5294
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "riverstone_pond",
@@ -9348,14 +9194,14 @@
     "avgLength": 23.9,
     "latestStockDate": "2026-04-15",
     "population": 1830,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW24-8-22-W4",
-      "latitude": 50.8650282,
-      "longitude": -113.981449,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 21,
-        "edmontonKMRange": 300
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9396,8 +9242,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1830
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "running_lake",
@@ -9405,14 +9250,14 @@
     "avgLength": 20.4,
     "latestStockDate": "2026-05-26",
     "population": 4350,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW34-88-7-W6",
-      "latitude": 56.6223038,
-      "longitude": -119.0293231,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 700,
-        "edmontonKMRange": 491
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9453,8 +9298,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 4350
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "salters_lake",
@@ -9462,14 +9306,14 @@
     "avgLength": 19.6,
     "latestStockDate": "2026-05-07",
     "population": 9500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW26-54-2-W5",
-      "latitude": 53.6899687,
-      "longitude": -114.1907711,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 294,
-        "edmontonKMRange": 49
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9520,8 +9364,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "sardine_lake",
@@ -9529,14 +9372,14 @@
     "avgLength": 20.5,
     "latestStockDate": "2026-05-15",
     "population": 2500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW5-49-4-W5",
-      "latitude": 53.1671486,
-      "longitude": -114.4641809,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 238,
-        "edmontonKMRange": 77
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9577,23 +9420,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "sauer_lake",
     "waterBodyName": "Sauer Lake",
-    "avgLength": 20,
+    "avgLength": 20.0,
     "latestStockDate": "2026-05-08",
     "population": 6000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE28-53-1-W5",
-      "latitude": 53.6132388,
-      "longitude": -114.0783642,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 286,
-        "edmontonKMRange": 39
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9614,7 +9456,7 @@
       },
       "rainbowTrout": {
         "population": 6000,
-        "avgLength": 20,
+        "avgLength": 20.0,
         "lastPopulatedDate": "2026-05-08"
       },
       "cutthroatTrout": {
@@ -9634,8 +9476,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 6000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "schuman_lake",
@@ -9646,11 +9487,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE35-61-8-W5",
-      "latitude": 54.2803157,
-      "longitude": -115.1555088,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 367,
-        "edmontonKMRange": 136
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9696,8 +9537,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "severn_creek_reservoir",
@@ -9705,14 +9545,14 @@
     "avgLength": 21.77,
     "latestStockDate": "2026-04-29",
     "population": 5600,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW12-26-22-W4",
-      "latitude": 51.2082697,
-      "longitude": -112.9549879,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 80,
-        "edmontonKMRange": 263
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9758,8 +9598,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1400
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "shell_true_north_pond",
@@ -9767,14 +9606,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-08",
     "population": 640,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "SW10-79-8-W6",
-      "latitude": 55.7838143,
-      "longitude": -119.1628017,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 625,
-        "edmontonKMRange": 441
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9820,8 +9659,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 50
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "shemeluk_lake",
@@ -9829,14 +9667,14 @@
     "avgLength": 18.9,
     "latestStockDate": "2026-05-14",
     "population": 6000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW25-60-17-W4",
-      "latitude": 54.1791187,
-      "longitude": -112.4973325,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 96
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9877,8 +9715,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 6000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "shunda_lake_fish_lake",
@@ -9889,11 +9726,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW19-40-15-W5",
-      "latitude": 52.429856,
-      "longitude": -115.9954363,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 203,
-        "edmontonKMRange": 208
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9934,8 +9771,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 20000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "shuster_lake",
@@ -9943,14 +9779,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-12",
     "population": 7000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE26-43-5-W4",
-      "latitude": 52.711762,
-      "longitude": -110.6849795,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 297,
-        "edmontonKMRange": 209
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -9991,8 +9827,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 7000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "sibbald_lake",
@@ -10000,14 +9835,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-14",
     "population": 1130,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE14-24-7-W5",
-      "latitude": 51.048666,
-      "longitude": -114.8665357,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 56,
-        "edmontonKMRange": 293
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10048,8 +9883,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1130
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "sibbald_meadows_pond",
@@ -10057,14 +9891,14 @@
     "avgLength": 21.92,
     "latestStockDate": "2026-05-14",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW20-24-7-W5",
-      "latitude": 51.0550149,
-      "longitude": -114.9433756,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 61,
-        "edmontonKMRange": 294
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10110,8 +9944,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1350
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "silkstone_lake",
@@ -10119,14 +9952,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1300,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE9-47-19-W5",
-      "latitude": 53.015353,
-      "longitude": -116.6598084,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 282,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10167,8 +10000,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1300
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "spring_coulee_park_pond",
@@ -10176,14 +10008,14 @@
     "avgLength": 20.2,
     "latestStockDate": "2026-04-20",
     "population": 2500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE12-5-24-W4",
-      "latitude": 49.3722605,
-      "longitude": -113.189911,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 196,
-        "edmontonKMRange": 465
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10224,8 +10056,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "spring_lake_cottage",
@@ -10233,14 +10064,14 @@
     "avgLength": 21.74,
     "latestStockDate": "2026-05-08",
     "population": 12135,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW30-52-1-W5",
-      "latitude": 53.4851963,
-      "longitude": -114.0060652,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 271,
-        "edmontonKMRange": 35
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10296,8 +10127,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "spruce_coulee_reservoir",
@@ -10305,14 +10135,14 @@
     "avgLength": 19.45,
     "latestStockDate": "2026-05-07",
     "population": 8148,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW26-8-2-W4",
-      "latitude": 49.6739855,
-      "longitude": -110.1817945,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 315,
-        "edmontonKMRange": 487
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10363,8 +10193,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 148
       }
-    ],
-    "waterBodyType": "reservoir"
+    ]
   },
   {
     "id": "st_paul_fish_pond",
@@ -10372,14 +10201,14 @@
     "avgLength": 22.93,
     "latestStockDate": "2026-05-13",
     "population": 2100,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE9-58-9-W4",
-      "latitude": 53.962268,
-      "longitude": -111.2465378,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 377,
-        "edmontonKMRange": 155
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10425,8 +10254,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 300
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "star_lake",
@@ -10437,11 +10265,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE19-52-2-W5",
-      "latitude": 53.5109169,
-      "longitude": -114.2727809,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 275,
-        "edmontonKMRange": 52
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10497,8 +10325,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "strathmore_childrens_pond",
@@ -10506,14 +10333,14 @@
     "avgLength": 19.94,
     "latestStockDate": "2026-05-09",
     "population": 1650,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW14-24-25-W4",
-      "latitude": 51.0275545,
-      "longitude": -113.4052266,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 47,
-        "edmontonKMRange": 280
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10559,8 +10386,7 @@
         "typeOfFish": "tigerTrout",
         "amountPopulated": 150
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "strubel_lake",
@@ -10571,11 +10397,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW30-37-7-W5",
-      "latitude": 52.1840918,
-      "longitude": -114.8535486,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 138,
-        "edmontonKMRange": 177
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10616,8 +10442,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 12800
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "sulphur_lake",
@@ -10625,14 +10450,14 @@
     "avgLength": 17.9,
     "latestStockDate": "2026-05-25",
     "population": 7500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NW7-89-2-W6",
-      "latitude": 56.6584456,
-      "longitude": -118.1642816,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 679,
-        "edmontonKMRange": 456
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10673,8 +10498,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 7500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "swan_lake",
@@ -10685,11 +10509,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW18-70-25-W5",
-      "latitude": 55.05975,
-      "longitude": -117.810625,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 511,
-        "edmontonKMRange": 327
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10730,8 +10554,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 15000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "telegraph_park_pond",
@@ -10739,14 +10562,14 @@
     "avgLength": 19.71,
     "latestStockDate": "2026-05-13",
     "population": 2493,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW32-48-21-W4",
-      "latitude": 53.1599202,
-      "longitude": -112.917843,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 248,
-        "edmontonKMRange": 57
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10757,7 +10580,7 @@
       },
       "brownTrout": {
         "population": 193,
-        "avgLength": 18,
+        "avgLength": 18.0,
         "lastPopulatedDate": "2026-05-01"
       },
       "tigerTrout": {
@@ -10802,8 +10625,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 900
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "texaco_east_pond",
@@ -10811,14 +10633,14 @@
     "avgLength": 21.4,
     "latestStockDate": "2026-05-22",
     "population": 2700,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW15-88-8-W4",
-      "latitude": 56.586162,
-      "longitude": -111.1866719,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 644,
-        "edmontonKMRange": 369
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10859,8 +10681,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2700
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "texaco_pond",
@@ -10868,14 +10689,14 @@
     "avgLength": 21.1,
     "latestStockDate": "2026-05-22",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW20-88-8-W4",
-      "latitude": 56.5933904,
-      "longitude": -111.1342223,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 646,
-        "edmontonKMRange": 371
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10916,8 +10737,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "tim_horton_childrens_pond",
@@ -10925,14 +10745,14 @@
     "avgLength": 14.2,
     "latestStockDate": "2026-05-14",
     "population": 600,
-    "difficulty": 4,
+    "difficulty": 1,
     "location": {
       "name": "NW14-24-8-W5",
-      "latitude": 51.0347829,
-      "longitude": -115.0623388,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 69,
-        "edmontonKMRange": 299
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -10973,8 +10793,7 @@
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "twin_lakes",
@@ -10982,14 +10801,14 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-19",
     "population": 7000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW6-40-7-W5",
-      "latitude": 52.8707407,
-      "longitude": -118.0716313,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 341,
-        "edmontonKMRange": 314
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11030,23 +10849,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 7000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "two_hills_pond",
     "waterBodyName": "Two Hills Pond",
-    "avgLength": 21,
+    "avgLength": 21.0,
     "latestStockDate": "2026-05-08",
     "population": 700,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW32-54-12-W4",
-      "latitude": 53.6731336,
-      "longitude": -111.6382198,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 336,
-        "edmontonKMRange": 123
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11067,7 +10885,7 @@
       },
       "rainbowTrout": {
         "population": 700,
-        "avgLength": 21,
+        "avgLength": 21.0,
         "lastPopulatedDate": "2026-05-08"
       },
       "cutthroatTrout": {
@@ -11087,8 +10905,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 700
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "valleyview_childrens_pond",
@@ -11096,14 +10913,14 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE21-70-22-W5",
-      "latitude": 55.0392934,
-      "longitude": -117.2438752,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 492,
-        "edmontonKMRange": 295
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11144,8 +10961,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "vegreville_childrens_pond",
@@ -11153,14 +10969,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW17-52-14-W4",
-      "latitude": 53.4635112,
-      "longitude": -111.9226552,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 306,
-        "edmontonKMRange": 104
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11201,8 +11017,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 600
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "vegreville_trout_pond",
@@ -11213,11 +11028,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW7-52-14-W4",
-      "latitude": 53.4418262,
-      "longitude": -111.8983946,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 305,
-        "edmontonKMRange": 106
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11258,8 +11073,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 10000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "wallace_park_pond",
@@ -11267,14 +11081,14 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE31-44-6-W4",
-      "latitude": 52.812959,
-      "longitude": -110.7340869,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 302,
-        "edmontonKMRange": 201
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11315,8 +11129,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "weberville_pond",
@@ -11324,14 +11137,14 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW7-85-21-W5",
-      "latitude": 56.3610178,
-      "longitude": -117.3139028,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 628,
-        "edmontonKMRange": 397
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11372,8 +11185,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1000
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "west_dollar_lake",
@@ -11381,14 +11193,14 @@
     "avgLength": 20.8,
     "latestStockDate": "2026-05-19",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SE18-73-21-W5",
-      "latitude": 55.2778292,
-      "longitude": -117.0621967,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 511,
-        "edmontonKMRange": 301
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11434,8 +11246,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "west_rivers_edge_pond",
@@ -11443,14 +11254,14 @@
     "avgLength": 20.25,
     "latestStockDate": "2026-05-05",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE23-54-23-W4",
-      "latitude": 53.6514486,
-      "longitude": -113.33125,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 294,
-        "edmontonKMRange": 16
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11506,8 +11317,7 @@
         "typeOfFish": "brownTrout",
         "amountPopulated": 250
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "wetaskiwin_pond",
@@ -11515,14 +11325,14 @@
     "avgLength": 21.14,
     "latestStockDate": "2026-05-07",
     "population": 400,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "NE24-46-24-W4",
-      "latitude": 52.9575262,
-      "longitude": -113.4454317,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 217,
-        "edmontonKMRange": 66
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11568,8 +11378,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 150
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "whitecourt_town_pond",
@@ -11577,14 +11386,14 @@
     "avgLength": 24.9,
     "latestStockDate": "2026-05-11",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NE35-59-12-W5",
-      "latitude": 54.1140635,
-      "longitude": -115.7414073,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 359,
-        "edmontonKMRange": 160
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11625,23 +11434,22 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "whiteridge_recreation_area",
     "waterBodyName": "Whiteridge Recreation Area",
-    "avgLength": 22,
+    "avgLength": 22.0,
     "latestStockDate": "2026-05-11",
     "population": 2100,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW1-60-10-W5",
-      "latitude": 54.1212919,
-      "longitude": -115.461402,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 355,
-        "edmontonKMRange": 144
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11662,7 +11470,7 @@
       },
       "rainbowTrout": {
         "population": 2100,
-        "avgLength": 22,
+        "avgLength": 22.0,
         "lastPopulatedDate": "2026-05-11"
       },
       "cutthroatTrout": {
@@ -11682,8 +11490,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2100
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "wildhorse_lakes_lower",
@@ -11691,14 +11498,14 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-05-08",
     "population": 7500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW31-49-26-W5",
-      "latitude": 53.2394321,
-      "longitude": -117.6230221,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 344,
-        "edmontonKMRange": 276
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11739,8 +11546,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 7500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "wildhorse_lakes_upper",
@@ -11748,14 +11554,14 @@
     "avgLength": 5.2,
     "latestStockDate": "2026-05-28",
     "population": 2500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW31-49-26-W5",
-      "latitude": 53.2394321,
-      "longitude": -117.6230221,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 344,
-        "edmontonKMRange": 276
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11796,8 +11602,7 @@
         "typeOfFish": "brookTrout",
         "amountPopulated": 2500
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "wildwood_pond",
@@ -11805,14 +11610,14 @@
     "avgLength": 23.4,
     "latestStockDate": "2026-05-26",
     "population": 1500,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW30-53-9-W5",
-      "latitude": 53.5719366,
-      "longitude": -115.17297,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 291,
-        "edmontonKMRange": 111
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11853,8 +11658,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1500
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   },
   {
     "id": "winchell_lake",
@@ -11862,14 +11666,14 @@
     "avgLength": 21.3,
     "latestStockDate": "2026-05-21",
     "population": 4000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "NW2-29-5-W5",
-      "latitude": 51.4540969,
-      "longitude": -114.6043912,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 59,
-        "edmontonKMRange": 244
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11910,8 +11714,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 4000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "windsor_lake",
@@ -11919,14 +11722,14 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-29",
     "population": 2000,
-    "difficulty": 2,
+    "difficulty": 1,
     "location": {
       "name": "SW10-42-22-W4",
-      "latitude": 52.3147294,
-      "longitude": -114.1116142,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 141,
-        "edmontonKMRange": 143
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -11967,8 +11770,7 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 2000
       }
-    ],
-    "waterBodyType": "lake"
+    ]
   },
   {
     "id": "wolf_creek_pond",
@@ -11976,14 +11778,14 @@
     "avgLength": 23.3,
     "latestStockDate": "2026-05-25",
     "population": 1500,
-    "difficulty": 3,
+    "difficulty": 1,
     "location": {
       "name": "SW13-53-16-W5",
-      "latitude": 53.5430232,
-      "longitude": -116.3155523,
+      "latitude": 0,
+      "longitude": 0,
       "cityRange": {
-        "calgaryKMRange": 317,
-        "edmontonKMRange": 186
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
       }
     },
     "fishTypes": {
@@ -12029,7 +11831,6 @@
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 750
       }
-    ],
-    "waterBodyType": "pond"
+    ]
   }
 ]
