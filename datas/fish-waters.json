@@ -8,10 +8,10 @@
     "difficulty": 2,
     "location": {
       "name": "NW11-49-18-W4",
-      "latitude": 53.1888336,
-      "longitude": -112.5620373,
+      "latitude": 53.217685,
+      "longitude": -112.532662,
       "cityRange": {
-        "calgaryKMRange": 260,
+        "calgaryKMRange": 263,
         "edmontonKMRange": 73
       }
     },
@@ -75,11 +75,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW28-26-9-W4",
-      "latitude": 50.9771125,
-      "longitude": -111.1590566,
+      "latitude": 51.24853,
+      "longitude": -111.210333,
       "cityRange": {
-        "calgaryKMRange": 204,
-        "edmontonKMRange": 327
+        "calgaryKMRange": 201,
+        "edmontonKMRange": 299
       }
     },
     "fishTypes": {
@@ -147,11 +147,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW7-61-5-W4",
-      "latitude": 54.2297172,
-      "longitude": -110.5993816,
+      "latitude": 54.265723,
+      "longitude": -110.745372,
       "cityRange": {
-        "calgaryKMRange": 425,
-        "edmontonKMRange": 204
+        "calgaryKMRange": 423,
+        "edmontonKMRange": 197
       }
     },
     "fishTypes": {
@@ -204,8 +204,8 @@
     "difficulty": 3,
     "location": {
       "name": "NE18-39-27-W4",
-      "latitude": 52.3358874,
-      "longitude": -113.705302,
+      "latitude": 52.355924,
+      "longitude": -113.871506,
       "cityRange": {
         "calgaryKMRange": 146,
         "edmontonKMRange": 135
@@ -266,11 +266,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE15-17-17-W4",
-      "latitude": 50.4276008,
-      "longitude": -112.2617407,
+      "latitude": 50.434749,
+      "longitude": -112.259866,
       "cityRange": {
-        "calgaryKMRange": 145,
-        "edmontonKMRange": 357
+        "calgaryKMRange": 144,
+        "edmontonKMRange": 356
       }
     },
     "fishTypes": {
@@ -323,11 +323,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE16-64-19-W4",
-      "latitude": 54.5043948,
-      "longitude": -112.7547605,
+      "latitude": 54.537414,
+      "longitude": -112.80524,
       "cityRange": {
-        "calgaryKMRange": 395,
-        "edmontonKMRange": 117
+        "calgaryKMRange": 398,
+        "edmontonKMRange": 119
       }
     },
     "fishTypes": {
@@ -380,11 +380,11 @@
     "difficulty": 1,
     "location": {
       "name": "NE15-18-14-W4",
-      "latitude": 50.5143411,
-      "longitude": -111.857006,
+      "latitude": 50.524756,
+      "longitude": -111.843722,
       "cityRange": {
         "calgaryKMRange": 167,
-        "edmontonKMRange": 355
+        "edmontonKMRange": 354
       }
     },
     "fishTypes": {
@@ -437,11 +437,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE26-49-1-W4",
-      "latitude": 53.2322038,
-      "longitude": -110.1145381,
+      "latitude": 53.259224,
+      "longitude": -110.040698,
       "cityRange": {
-        "calgaryKMRange": 363,
-        "edmontonKMRange": 227
+        "calgaryKMRange": 369,
+        "edmontonKMRange": 231
       }
     },
     "fishTypes": {
@@ -608,8 +608,8 @@
     "difficulty": 4,
     "location": {
       "name": "NE23-6-30-W4",
-      "latitude": 49.4879142,
-      "longitude": -113.973595,
+      "latitude": 49.492841,
+      "longitude": -113.93045,
       "cityRange": {
         "calgaryKMRange": 173,
         "edmontonKMRange": 452
@@ -665,11 +665,11 @@
     "difficulty": 4,
     "location": {
       "name": "NW15-4-1-W5",
-      "latitude": 53.0061585,
-      "longitude": -113.0518646,
+      "latitude": 49.303994,
+      "longitude": -114.061148,
       "cityRange": {
-        "calgaryKMRange": 229,
-        "edmontonKMRange": 67
+        "calgaryKMRange": 194,
+        "edmontonKMRange": 473
       }
     },
     "fishTypes": {
@@ -722,11 +722,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW22-46-24-W4",
-      "latitude": 52.977666,
-      "longitude": -113.4081392,
+      "latitude": 52.976846,
+      "longitude": -113.408198,
       "cityRange": {
         "calgaryKMRange": 220,
-        "edmontonKMRange": 63
+        "edmontonKMRange": 64
       }
     },
     "fishTypes": {
@@ -779,11 +779,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW30-38-5-W4",
-      "latitude": 52.2780605,
-      "longitude": -110.5721087,
+      "latitude": 52.29945,
+      "longitude": -110.714832,
       "cityRange": {
-        "calgaryKMRange": 278,
-        "edmontonKMRange": 241
+        "calgaryKMRange": 270,
+        "edmontonKMRange": 232
       }
     },
     "fishTypes": {
@@ -841,11 +841,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW24-55-25-W4",
-      "latitude": 53.7309605,
-      "longitude": -113.6432363,
+      "latitude": 53.763266,
+      "longitude": -113.584073,
       "cityRange": {
-        "calgaryKMRange": 300,
-        "edmontonKMRange": 23
+        "calgaryKMRange": 304,
+        "edmontonKMRange": 25
       }
     },
     "fishTypes": {
@@ -908,11 +908,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE35-47-13-W4",
-      "latitude": 53.0731799,
-      "longitude": -111.8432532,
+      "latitude": 53.097592,
+      "longitude": -111.79091,
       "cityRange": {
-        "calgaryKMRange": 272,
-        "edmontonKMRange": 122
+        "calgaryKMRange": 276,
+        "edmontonKMRange": 124
       }
     },
     "fishTypes": {
@@ -970,11 +970,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE34-37-14-W4",
-      "latitude": 52.1985485,
-      "longitude": -111.9248993,
+      "latitude": 52.218207,
+      "longitude": -111.91105,
       "cityRange": {
-        "calgaryKMRange": 196,
-        "edmontonKMRange": 183
+        "calgaryKMRange": 198,
+        "edmontonKMRange": 182
       }
     },
     "fishTypes": {
@@ -1027,8 +1027,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW23-83-21-W5",
-      "latitude": 56.2092138,
-      "longitude": -117.2032034,
+      "latitude": 56.209063,
+      "longitude": -117.20295,
       "cityRange": {
         "calgaryKMRange": 610,
         "edmontonKMRange": 379
@@ -1084,11 +1084,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW7-69-23-W4",
-      "latitude": 54.9236396,
-      "longitude": -113.3248774,
+      "latitude": 54.964036,
+      "longitude": -113.511311,
       "cityRange": {
-        "calgaryKMRange": 434,
-        "edmontonKMRange": 154
+        "calgaryKMRange": 437,
+        "edmontonKMRange": 158
       }
     },
     "fishTypes": {
@@ -1146,8 +1146,8 @@
     "difficulty": 2,
     "location": {
       "name": "NE4-15-2-W5",
-      "latitude": 50.2419568,
-      "longitude": -114.2098915,
+      "latitude": 50.236864,
+      "longitude": -114.20802,
       "cityRange": {
         "calgaryKMRange": 90,
         "edmontonKMRange": 371
@@ -1228,11 +1228,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE4-61-6-W4",
-      "latitude": 54.2152605,
-      "longitude": -110.8094741,
+      "latitude": 54.24779,
+      "longitude": -110.841712,
       "cityRange": {
-        "calgaryKMRange": 416,
-        "edmontonKMRange": 191
+        "calgaryKMRange": 417,
+        "edmontonKMRange": 190
       }
     },
     "fishTypes": {
@@ -1285,11 +1285,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE36-50-7-W4",
-      "latitude": 53.3334008,
-      "longitude": -111.0087698,
+      "latitude": 53.364531,
+      "longitude": -110.884936,
       "cityRange": {
-        "calgaryKMRange": 329,
-        "edmontonKMRange": 166
+        "calgaryKMRange": 337,
+        "edmontonKMRange": 174
       }
     },
     "fishTypes": {
@@ -1342,11 +1342,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW4-6-20-W4",
-      "latitude": 49.4506542,
-      "longitude": -112.6493407,
+      "latitude": 49.446821,
+      "longitude": -112.648546,
       "cityRange": {
         "calgaryKMRange": 204,
-        "edmontonKMRange": 459
+        "edmontonKMRange": 460
       }
     },
     "fishTypes": {
@@ -1404,11 +1404,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW24-36-11-W4",
-      "latitude": 52.0828948,
-      "longitude": -111.5334048,
+      "latitude": 52.105809,
+      "longitude": -111.44958,
       "cityRange": {
-        "calgaryKMRange": 210,
-        "edmontonKMRange": 209
+        "calgaryKMRange": 216,
+        "edmontonKMRange": 211
       }
     },
     "fishTypes": {
@@ -1471,11 +1471,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW14-72-6-W6",
-      "latitude": 55.1983172,
-      "longitude": -118.8666834,
+      "latitude": 55.237091,
+      "longitude": -118.812752,
       "cityRange": {
-        "calgaryKMRange": 562,
-        "edmontonKMRange": 393
+        "calgaryKMRange": 563,
+        "edmontonKMRange": 392
       }
     },
     "fishTypes": {
@@ -1528,10 +1528,10 @@
     "difficulty": 1,
     "location": {
       "name": "NE12-38-8-W5",
-      "latitude": 52.271625,
-      "longitude": -115.0142757,
+      "latitude": 52.260185,
+      "longitude": -115.005926,
       "cityRange": {
-        "calgaryKMRange": 151,
+        "calgaryKMRange": 150,
         "edmontonKMRange": 175
       }
     },
@@ -1595,11 +1595,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE27-28-1-W5",
-      "latitude": 51.4034291,
-      "longitude": -114.086786,
+      "latitude": 51.422275,
+      "longitude": -114.049779,
       "cityRange": {
-        "calgaryKMRange": 40,
-        "edmontonKMRange": 242
+        "calgaryKMRange": 42,
+        "edmontonKMRange": 239
       }
     },
     "fishTypes": {
@@ -1652,8 +1652,8 @@
     "difficulty": 3,
     "location": {
       "name": "NE8-8-5-W5",
-      "latitude": 49.6319957,
-      "longitude": -114.642595,
+      "latitude": 49.634111,
+      "longitude": -114.637963,
       "cityRange": {
         "calgaryKMRange": 162,
         "edmontonKMRange": 442
@@ -1714,11 +1714,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE10-82-3-W6",
-      "latitude": 56.0440352,
-      "longitude": -118.4074558,
+      "latitude": 56.093732,
+      "longitude": -118.376801,
       "cityRange": {
-        "calgaryKMRange": 625,
-        "edmontonKMRange": 420
+        "calgaryKMRange": 629,
+        "edmontonKMRange": 422
       }
     },
     "fishTypes": {
@@ -1776,11 +1776,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE9-53-19-W5",
-      "latitude": 53.5357948,
-      "longitude": -116.6923613,
+      "latitude": 53.565803,
+      "longitude": -116.736533,
       "cityRange": {
-        "calgaryKMRange": 329,
-        "edmontonKMRange": 211
+        "calgaryKMRange": 334,
+        "edmontonKMRange": 214
       }
     },
     "fishTypes": {
@@ -1833,11 +1833,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE9-45-16-W4",
-      "latitude": 52.8418724,
-      "longitude": -112.2186134,
+      "latitude": 52.86884,
+      "longitude": -112.263607,
       "cityRange": {
-        "calgaryKMRange": 237,
-        "edmontonKMRange": 116
+        "calgaryKMRange": 238,
+        "edmontonKMRange": 111
       }
     },
     "fishTypes": {
@@ -1890,11 +1890,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE31-26-1-W5",
-      "latitude": 51.2444053,
-      "longitude": -114.0172918,
+      "latitude": 51.262527,
+      "longitude": -114.121485,
       "cityRange": {
-        "calgaryKMRange": 23,
-        "edmontonKMRange": 258
+        "calgaryKMRange": 24,
+        "edmontonKMRange": 257
       }
     },
     "fishTypes": {
@@ -1957,11 +1957,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW13-35-3-W5",
-      "latitude": 51.9889262,
-      "longitude": -114.4045983,
+      "latitude": 52.011001,
+      "longitude": -114.309334,
       "cityRange": {
-        "calgaryKMRange": 107,
-        "edmontonKMRange": 184
+        "calgaryKMRange": 109,
+        "edmontonKMRange": 179
       }
     },
     "fishTypes": {
@@ -2029,8 +2029,8 @@
     "difficulty": 1,
     "location": {
       "name": "NE36-41-1-W4",
-      "latitude": 52.5765196,
-      "longitude": -110.0053602,
+      "latitude": 52.576348,
+      "longitude": -110.004391,
       "cityRange": {
         "calgaryKMRange": 327,
         "edmontonKMRange": 257
@@ -2106,11 +2106,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW1-41-16-W4",
-      "latitude": 52.4804545,
-      "longitude": -112.2604115,
+      "latitude": 52.50583,
+      "longitude": -112.180118,
       "cityRange": {
-        "calgaryKMRange": 203,
-        "edmontonKMRange": 144
+        "calgaryKMRange": 208,
+        "edmontonKMRange": 145
       }
     },
     "fishTypes": {
@@ -2235,11 +2235,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW7-54-25-W5",
-      "latitude": 53.6225351,
-      "longitude": -117.5139511,
+      "latitude": 53.654925,
+      "longitude": -117.685762,
       "cityRange": {
-        "calgaryKMRange": 370,
-        "edmontonKMRange": 265
+        "calgaryKMRange": 380,
+        "edmontonKMRange": 277
       }
     },
     "fishTypes": {
@@ -2292,11 +2292,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW8-73-21-W5",
-      "latitude": 55.2706008,
-      "longitude": -117.0748766,
+      "latitude": 55.314926,
+      "longitude": -117.204628,
       "cityRange": {
-        "calgaryKMRange": 511,
-        "edmontonKMRange": 301
+        "calgaryKMRange": 519,
+        "edmontonKMRange": 310
       }
     },
     "fishTypes": {
@@ -2359,8 +2359,8 @@
     "difficulty": 1,
     "location": {
       "name": "SE23-53-4-W5",
-      "latitude": 53.5851107,
-      "longitude": -114.475248,
+      "latitude": 53.584969,
+      "longitude": -114.473822,
       "cityRange": {
         "calgaryKMRange": 284,
         "edmontonKMRange": 65
@@ -2416,11 +2416,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE29-40-26-W4",
-      "latitude": 52.4443127,
-      "longitude": -113.5941538,
+      "latitude": 52.469538,
+      "longitude": -113.709921,
       "cityRange": {
-        "calgaryKMRange": 159,
-        "edmontonKMRange": 123
+        "calgaryKMRange": 160,
+        "edmontonKMRange": 121
       }
     },
     "fishTypes": {
@@ -2483,8 +2483,8 @@
     "difficulty": 3,
     "location": {
       "name": "NW33-35-12-W5",
-      "latitude": 52.0570106,
-      "longitude": -115.6563641,
+      "latitude": 52.056822,
+      "longitude": -115.657217,
       "cityRange": {
         "calgaryKMRange": 157,
         "edmontonKMRange": 220
@@ -2540,11 +2540,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW36-56-7-W4",
-      "latitude": 53.8538426,
-      "longitude": -111.009004,
+      "latitude": 53.888476,
+      "longitude": -110.910587,
       "cityRange": {
-        "calgaryKMRange": 375,
-        "edmontonKMRange": 167
+        "calgaryKMRange": 382,
+        "edmontonKMRange": 174
       }
     },
     "fishTypes": {
@@ -2607,11 +2607,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW5-19-28-W4",
-      "latitude": 50.5770668,
-      "longitude": -113.8513209,
+      "latitude": 53.727362,
+      "longitude": -117.118253,
       "cityRange": {
-        "calgaryKMRange": 54,
-        "edmontonKMRange": 331
+        "calgaryKMRange": 363,
+        "edmontonKMRange": 240
       }
     },
     "fishTypes": {
@@ -2669,8 +2669,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW6-55-21-W5",
-      "latitude": 53.7237568,
-      "longitude": -117.1230566,
+      "latitude": 53.727362,
+      "longitude": -117.118253,
       "cityRange": {
         "calgaryKMRange": 363,
         "edmontonKMRange": 240
@@ -2726,11 +2726,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW8-14-18-W4",
-      "latitude": 50.1529231,
-      "longitude": -112.328347,
+      "latitude": 50.161135,
+      "longitude": -112.432267,
       "cityRange": {
-        "calgaryKMRange": 158,
-        "edmontonKMRange": 386
+        "calgaryKMRange": 152,
+        "edmontonKMRange": 383
       }
     },
     "fishTypes": {
@@ -2788,10 +2788,10 @@
     "difficulty": 3,
     "location": {
       "name": "NW17-83-6-W4",
-      "latitude": 56.1524605,
-      "longitude": -110.8102653,
+      "latitude": 56.188889,
+      "longitude": -110.906389,
       "cityRange": {
-        "calgaryKMRange": 607,
+        "calgaryKMRange": 609,
         "edmontonKMRange": 337
       }
     },
@@ -2850,11 +2850,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW34-81-3-W6",
-      "latitude": 56.0151217,
-      "longitude": -118.3936368,
+      "latitude": 56.0588,
+      "longitude": -118.387234,
       "cityRange": {
-        "calgaryKMRange": 622,
-        "edmontonKMRange": 417
+        "calgaryKMRange": 626,
+        "edmontonKMRange": 420
       }
     },
     "fishTypes": {
@@ -2907,11 +2907,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE12-35-6-W5",
-      "latitude": 51.9744694,
-      "longitude": -114.8385154,
+      "latitude": 51.995874,
+      "longitude": -114.726449,
       "cityRange": {
-        "calgaryKMRange": 116,
-        "edmontonKMRange": 197
+        "calgaryKMRange": 115,
+        "edmontonKMRange": 191
       }
     },
     "fishTypes": {
@@ -2964,11 +2964,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE20-84-25-W5",
-      "latitude": 56.2536575,
-      "longitude": -117.7876192,
+      "latitude": 56.30153,
+      "longitude": -117.906378,
       "cityRange": {
-        "calgaryKMRange": 629,
-        "edmontonKMRange": 407
+        "calgaryKMRange": 637,
+        "edmontonKMRange": 416
       }
     },
     "fishTypes": {
@@ -3021,11 +3021,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE5-111-19-W5",
-      "latitude": 58.5450471,
-      "longitude": -117.0401989,
+      "latitude": 58.608147,
+      "longitude": -117.156875,
       "cityRange": {
-        "calgaryKMRange": 855,
-        "edmontonKMRange": 598
+        "calgaryKMRange": 864,
+        "edmontonKMRange": 607
       }
     },
     "fishTypes": {
@@ -3078,11 +3078,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW17-6-11-W4",
-      "latitude": 49.4734575,
-      "longitude": -111.3615815,
+      "latitude": 49.477485,
+      "longitude": -111.456691,
       "cityRange": {
-        "calgaryKMRange": 260,
-        "edmontonKMRange": 476
+        "calgaryKMRange": 255,
+        "edmontonKMRange": 474
       }
     },
     "fishTypes": {
@@ -3135,11 +3135,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW13-63-20-W5",
-      "latitude": 54.4176545,
-      "longitude": -116.9599162,
+      "latitude": 54.45359,
+      "longitude": -116.888798,
       "cityRange": {
-        "calgaryKMRange": 422,
-        "edmontonKMRange": 246
+        "calgaryKMRange": 424,
+        "edmontonKMRange": 244
       }
     },
     "fishTypes": {
@@ -3192,11 +3192,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE10-56-23-W4",
-      "latitude": 53.7960157,
-      "longitude": -113.3205405,
+      "latitude": 53.830514,
+      "longitude": -113.332084,
       "cityRange": {
-        "calgaryKMRange": 310,
-        "edmontonKMRange": 30
+        "calgaryKMRange": 314,
+        "edmontonKMRange": 33
       }
     },
     "fishTypes": {
@@ -3249,8 +3249,8 @@
     "difficulty": 1,
     "location": {
       "name": "NE14-40-16-W5",
-      "latitude": 52.448736,
-      "longitude": -116.1914175,
+      "latitude": 52.449584,
+      "longitude": -116.192114,
       "cityRange": {
         "calgaryKMRange": 214,
         "edmontonKMRange": 218
@@ -3311,11 +3311,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE6-2-15-W4",
-      "latitude": 49.0975828,
-      "longitude": -111.8707853,
+      "latitude": 49.095497,
+      "longitude": -111.995479,
       "cityRange": {
-        "calgaryKMRange": 267,
-        "edmontonKMRange": 507
+        "calgaryKMRange": 263,
+        "edmontonKMRange": 506
       }
     },
     "fishTypes": {
@@ -3368,10 +3368,10 @@
     "difficulty": 2,
     "location": {
       "name": "NE22-36-6-W4",
-      "latitude": 52.0901232,
-      "longitude": -110.7931404,
+      "latitude": 52.110661,
+      "longitude": -110.771236,
       "cityRange": {
-        "calgaryKMRange": 255,
+        "calgaryKMRange": 257,
         "edmontonKMRange": 243
       }
     },
@@ -3425,11 +3425,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE1-57-8-W6",
-      "latitude": 53.8682993,
-      "longitude": -119.1704183,
+      "latitude": 53.9,
+      "longitude": -119.05,
       "cityRange": {
-        "calgaryKMRange": 467,
-        "edmontonKMRange": 375
+        "calgaryKMRange": 463,
+        "edmontonKMRange": 368
       }
     },
     "fishTypes": {
@@ -3482,11 +3482,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW31-10-26-W4",
-      "latitude": 49.8637888,
-      "longitude": -113.3638993,
+      "latitude": 49.870282,
+      "longitude": -113.516665,
       "cityRange": {
-        "calgaryKMRange": 141,
-        "edmontonKMRange": 410
+        "calgaryKMRange": 136,
+        "edmontonKMRange": 409
       }
     },
     "fishTypes": {
@@ -3539,8 +3539,8 @@
     "difficulty": 3,
     "location": {
       "name": "NW21-24-9-W5",
-      "latitude": 51.0658982,
-      "longitude": -115.2024236,
+      "latitude": 51.065761,
+      "longitude": -115.202402,
       "cityRange": {
         "calgaryKMRange": 79,
         "edmontonKMRange": 299
@@ -3596,11 +3596,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE29-38-3-W5",
-      "latitude": 52.2780605,
-      "longitude": -114.3243915,
+      "latitude": 52.297145,
+      "longitude": -114.394522,
       "cityRange": {
-        "calgaryKMRange": 138,
-        "edmontonKMRange": 152
+        "calgaryKMRange": 141,
+        "edmontonKMRange": 151
       }
     },
     "fishTypes": {
@@ -3653,11 +3653,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE5-41-14-W5",
-      "latitude": 52.4732262,
-      "longitude": -115.8925755,
+      "latitude": 52.494632,
+      "longitude": -115.972609,
       "cityRange": {
-        "calgaryKMRange": 202,
-        "edmontonKMRange": 200
+        "calgaryKMRange": 208,
+        "edmontonKMRange": 203
       }
     },
     "fishTypes": {
@@ -3710,8 +3710,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW13-52-2-W5",
-      "latitude": 53.4866008,
-      "longitude": -114.1734375,
+      "latitude": 53.487212,
+      "longitude": -114.173756,
       "cityRange": {
         "calgaryKMRange": 272,
         "edmontonKMRange": 45
@@ -3772,8 +3772,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW18-31-14-W4",
-      "latitude": 51.6490029,
-      "longitude": -111.9851779,
+      "latitude": 51.649233,
+      "longitude": -111.983108,
       "cityRange": {
         "calgaryKMRange": 160,
         "edmontonKMRange": 234
@@ -3829,11 +3829,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW33-55-25-W4",
-      "latitude": 50.8405294,
-      "longitude": -114.0063841,
+      "latitude": 53.799728,
+      "longitude": -113.66643,
       "cityRange": {
-        "calgaryKMRange": 23,
-        "edmontonKMRange": 303
+        "calgaryKMRange": 308,
+        "edmontonKMRange": 30
       }
     },
     "fishTypes": {
@@ -3896,8 +3896,8 @@
     "difficulty": 3,
     "location": {
       "name": "NE18-53-23-W4",
-      "latitude": 53.5818848,
-      "longitude": -113.3715182,
+      "latitude": 53.581702,
+      "longitude": -113.371337,
       "cityRange": {
         "calgaryKMRange": 286,
         "edmontonKMRange": 9
@@ -3958,11 +3958,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE6-110-19-W5",
-      "latitude": 58.5169324,
-      "longitude": -117.133785,
+      "latitude": 58.517177,
+      "longitude": -117.163713,
       "cityRange": {
         "calgaryKMRange": 854,
-        "edmontonKMRange": 597
+        "edmontonKMRange": 598
       }
     },
     "fishTypes": {
@@ -4015,11 +4015,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW12-69-6-W6",
-      "latitude": 54.9164113,
-      "longitude": -118.886215,
+      "latitude": 54.958674,
+      "longitude": -118.782831,
       "cityRange": {
-        "calgaryKMRange": 538,
-        "edmontonKMRange": 382
+        "calgaryKMRange": 537,
+        "edmontonKMRange": 378
       }
     },
     "fishTypes": {
@@ -4072,11 +4072,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE35-87-9-W4",
-      "latitude": 56.5427919,
-      "longitude": -111.380197,
+      "latitude": 56.588109,
+      "longitude": -111.320447,
       "cityRange": {
-        "calgaryKMRange": 636,
-        "edmontonKMRange": 359
+        "calgaryKMRange": 642,
+        "edmontonKMRange": 365
       }
     },
     "fishTypes": {
@@ -4129,11 +4129,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE17-85-19-W5",
-      "latitude": 56.3259411,
-      "longitude": -116.8585513,
+      "latitude": 56.372419,
+      "longitude": -116.954587,
       "cityRange": {
-        "calgaryKMRange": 615,
-        "edmontonKMRange": 376
+        "calgaryKMRange": 622,
+        "edmontonKMRange": 384
       }
     },
     "fishTypes": {
@@ -4186,11 +4186,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE13-32-29-W4",
-      "latitude": 51.7214769,
-      "longitude": -114.0518332,
+      "latitude": 51.739122,
+      "longitude": -113.978521,
       "cityRange": {
-        "calgaryKMRange": 75,
-        "edmontonKMRange": 206
+        "calgaryKMRange": 77,
+        "edmontonKMRange": 204
       }
     },
     "fishTypes": {
@@ -4243,11 +4243,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW28-50-25-W5",
-      "latitude": 53.3117157,
-      "longitude": -117.5337146,
+      "latitude": 53.341065,
+      "longitude": -117.605197,
       "cityRange": {
-        "calgaryKMRange": 345,
-        "edmontonKMRange": 269
+        "calgaryKMRange": 351,
+        "edmontonKMRange": 273
       }
     },
     "fishTypes": {
@@ -4300,11 +4300,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW31-63-25-W4",
-      "latitude": 53.5849808,
-      "longitude": -113.6665392,
+      "latitude": 54.489439,
+      "longitude": -113.783183,
       "cityRange": {
-        "calgaryKMRange": 284,
-        "edmontonKMRange": 12
+        "calgaryKMRange": 384,
+        "edmontonKMRange": 107
       }
     },
     "fishTypes": {
@@ -4357,11 +4357,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW36-37-13-W4",
-      "latitude": 52.1985485,
-      "longitude": -111.8189415,
+      "latitude": 52.221611,
+      "longitude": -111.732917,
       "cityRange": {
-        "calgaryKMRange": 202,
-        "edmontonKMRange": 187
+        "calgaryKMRange": 208,
+        "edmontonKMRange": 189
       }
     },
     "fishTypes": {
@@ -4419,11 +4419,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE13-51-12-W4",
-      "latitude": 53.3695426,
-      "longitude": -111.7371582,
+      "latitude": 53.39796,
+      "longitude": -111.629354,
       "cityRange": {
-        "calgaryKMRange": 304,
-        "edmontonKMRange": 118
+        "calgaryKMRange": 310,
+        "edmontonKMRange": 124
       }
     },
     "fishTypes": {
@@ -4481,11 +4481,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW34-45-9-W4",
-      "latitude": 52.8924709,
-      "longitude": -111.2259184,
+      "latitude": 52.918593,
+      "longitude": -111.236446,
       "cityRange": {
-        "calgaryKMRange": 283,
-        "edmontonKMRange": 168
+        "calgaryKMRange": 285,
+        "edmontonKMRange": 166
       }
     },
     "fishTypes": {
@@ -4543,11 +4543,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW7-38-7-W5",
-      "latitude": 52.227462,
-      "longitude": -114.8552141,
+      "latitude": 52.246795,
+      "longitude": -114.996541,
       "cityRange": {
-        "calgaryKMRange": 142,
-        "edmontonKMRange": 173
+        "calgaryKMRange": 148,
+        "edmontonKMRange": 176
       }
     },
     "fishTypes": {
@@ -4600,10 +4600,10 @@
     "difficulty": 4,
     "location": {
       "name": "NW12-8-6-W5",
-      "latitude": 49.6270982,
-      "longitude": -114.685106,
+      "latitude": 49.627778,
+      "longitude": -114.684444,
       "cityRange": {
-        "calgaryKMRange": 164,
+        "calgaryKMRange": 163,
         "edmontonKMRange": 443
       }
     },
@@ -4657,11 +4657,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW20-53-9-W4",
-      "latitude": 53.4854989,
-      "longitude": -114.2341848,
+      "latitude": 53.594311,
+      "longitude": -111.296351,
       "cityRange": {
-        "calgaryKMRange": 272,
-        "edmontonKMRange": 49
+        "calgaryKMRange": 340,
+        "edmontonKMRange": 145
       }
     },
     "fishTypes": {
@@ -4729,11 +4729,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE19-52-26-W5",
-      "latitude": 53.477968,
-      "longitude": -117.6572905,
+      "latitude": 53.508917,
+      "longitude": -117.810057,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 275
+        "calgaryKMRange": 374,
+        "edmontonKMRange": 285
       }
     },
     "fishTypes": {
@@ -4786,11 +4786,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW34-76-4-W6",
-      "latitude": 55.5814202,
-      "longitude": -118.5424522,
+      "latitude": 55.625,
+      "longitude": -118.533333,
       "cityRange": {
-        "calgaryKMRange": 585,
-        "edmontonKMRange": 396
+        "calgaryKMRange": 589,
+        "edmontonKMRange": 398
       }
     },
     "fishTypes": {
@@ -4843,11 +4843,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE19-36-20-W4",
-      "latitude": 52.0901232,
-      "longitude": -112.6966775,
+      "latitude": 52.112277,
+      "longitude": -112.844594,
       "cityRange": {
-        "calgaryKMRange": 150,
-        "edmontonKMRange": 171
+        "calgaryKMRange": 146,
+        "edmontonKMRange": 165
       }
     },
     "fishTypes": {
@@ -4972,8 +4972,8 @@
     "difficulty": 2,
     "location": {
       "name": "SE6-50-26-W5",
-      "latitude": 53.2808131,
-      "longitude": -117.783726,
+      "latitude": 53.280836,
+      "longitude": -117.783145,
       "cityRange": {
         "calgaryKMRange": 355,
         "edmontonKMRange": 286
@@ -5029,11 +5029,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE28-33-26-W4",
-      "latitude": 51.8371306,
-      "longitude": -113.5689581,
+      "latitude": 51.859122,
+      "longitude": -113.620127,
       "cityRange": {
-        "calgaryKMRange": 95,
-        "edmontonKMRange": 190
+        "calgaryKMRange": 96,
+        "edmontonKMRange": 188
       }
     },
     "fishTypes": {
@@ -5101,11 +5101,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW25-45-6-W5",
-      "latitude": 52.8780142,
-      "longitude": -114.8431927,
+      "latitude": 52.906846,
+      "longitude": -114.745933,
       "cityRange": {
-        "calgaryKMRange": 211,
-        "edmontonKMRange": 117
+        "calgaryKMRange": 212,
+        "edmontonKMRange": 110
       }
     },
     "fishTypes": {
@@ -5163,11 +5163,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW5-67-13-W4",
-      "latitude": 54.7357023,
-      "longitude": -111.8336764,
+      "latitude": 54.775532,
+      "longitude": -111.953265,
       "cityRange": {
-        "calgaryKMRange": 437,
-        "edmontonKMRange": 171
+        "calgaryKMRange": 438,
+        "edmontonKMRange": 170
       }
     },
     "fishTypes": {
@@ -5220,11 +5220,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW5-54-25-W4",
-      "latitude": 53.6080784,
-      "longitude": -113.5383112,
+      "latitude": 53.637547,
+      "longitude": -113.653734,
       "cityRange": {
-        "calgaryKMRange": 287,
-        "edmontonKMRange": 7
+        "calgaryKMRange": 290,
+        "edmontonKMRange": 15
       }
     },
     "fishTypes": {
@@ -5287,8 +5287,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW8-53-17-W5",
-      "latitude": 53.5659358,
-      "longitude": -116.4821147,
+      "latitude": 53.566383,
+      "longitude": -116.481493,
       "cityRange": {
         "calgaryKMRange": 325,
         "edmontonKMRange": 197
@@ -5401,11 +5401,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE25-61-5-W4",
-      "latitude": 54.2730874,
-      "longitude": -110.7353238,
+      "latitude": 54.3089,
+      "longitude": -110.61054,
       "cityRange": {
-        "calgaryKMRange": 424,
-        "edmontonKMRange": 198
+        "calgaryKMRange": 431,
+        "edmontonKMRange": 207
       }
     },
     "fishTypes": {
@@ -5458,8 +5458,8 @@
     "difficulty": 2,
     "location": {
       "name": "NE27-49-25-W4",
-      "latitude": 53.2611201,
-      "longitude": -113.5686541,
+      "latitude": 53.259984,
+      "longitude": -113.567083,
       "cityRange": {
         "calgaryKMRange": 249,
         "edmontonKMRange": 32
@@ -5515,8 +5515,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW8-7-2-W5",
-      "latitude": 49.5385127,
-      "longitude": -114.1614525,
+      "latitude": 49.541912,
+      "longitude": -114.248586,
       "cityRange": {
         "calgaryKMRange": 168,
         "edmontonKMRange": 448
@@ -5577,11 +5577,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW24-57-25-W4",
-      "latitude": 53.9116695,
-      "longitude": -113.6583233,
+      "latitude": 53.947431,
+      "longitude": -113.586428,
       "cityRange": {
-        "calgaryKMRange": 320,
-        "edmontonKMRange": 42
+        "calgaryKMRange": 324,
+        "edmontonKMRange": 45
       }
     },
     "fishTypes": {
@@ -5701,11 +5701,11 @@
     "difficulty": 1,
     "location": {
       "name": "NW19-64-2-W4",
-      "latitude": 54.5188516,
-      "longitude": -110.1554605,
+      "latitude": 54.551596,
+      "longitude": -110.300937,
       "cityRange": {
-        "calgaryKMRange": 467,
-        "edmontonKMRange": 243
+        "calgaryKMRange": 465,
+        "edmontonKMRange": 236
       }
     },
     "fishTypes": {
@@ -5835,11 +5835,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE6-50-1-W4",
-      "latitude": 53.2538889,
-      "longitude": -110.0181216,
+      "latitude": 54.551596,
+      "longitude": -110.300937,
       "cityRange": {
-        "calgaryKMRange": 370,
-        "edmontonKMRange": 233
+        "calgaryKMRange": 465,
+        "edmontonKMRange": 236
       }
     },
     "fishTypes": {
@@ -5892,11 +5892,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE1-48-10-W5",
-      "latitude": 53.0876366,
-      "longitude": -115.4378649,
+      "latitude": 53.119469,
+      "longitude": -115.320171,
       "cityRange": {
         "calgaryKMRange": 246,
-        "edmontonKMRange": 139
+        "edmontonKMRange": 130
       }
     },
     "fishTypes": {
@@ -5949,8 +5949,8 @@
     "difficulty": 3,
     "location": {
       "name": "NE33-43-11-W4",
-      "latitude": 52.7513132,
-      "longitude": -111.5400022,
+      "latitude": 52.750929,
+      "longitude": -111.539761,
       "cityRange": {
         "calgaryKMRange": 257,
         "edmontonKMRange": 157
@@ -6006,11 +6006,11 @@
     "difficulty": 4,
     "location": {
       "name": "NW10-47-19-W5",
-      "latitude": 53.015353,
-      "longitude": -116.6718165,
+      "latitude": 53.041523,
+      "longitude": -116.706,
       "cityRange": {
-        "calgaryKMRange": 282,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 286,
+        "edmontonKMRange": 221
       }
     },
     "fishTypes": {
@@ -6063,11 +6063,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW32-77-19-W5",
-      "latitude": 55.6681605,
-      "longitude": -116.7950037,
+      "latitude": 55.709784,
+      "longitude": -116.919773,
       "cityRange": {
-        "calgaryKMRange": 545,
-        "edmontonKMRange": 318
+        "calgaryKMRange": 552,
+        "edmontonKMRange": 326
       }
     },
     "fishTypes": {
@@ -6120,11 +6120,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW23-33-18-W4",
-      "latitude": 51.8226739,
-      "longitude": -112.4824995,
+      "latitude": 51.840076,
+      "longitude": -112.45129,
       "cityRange": {
-        "calgaryKMRange": 140,
-        "edmontonKMRange": 203
+        "calgaryKMRange": 143,
+        "edmontonKMRange": 202
       }
     },
     "fishTypes": {
@@ -6182,8 +6182,8 @@
     "difficulty": 3,
     "location": {
       "name": "NW20-22-5-W5",
-      "latitude": 50.8868235,
-      "longitude": -114.6692598,
+      "latitude": 50.888074,
+      "longitude": -114.669068,
       "cityRange": {
         "calgaryKMRange": 45,
         "edmontonKMRange": 306
@@ -6239,11 +6239,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE25-61-12-W5",
-      "latitude": 54.265859,
-      "longitude": -115.773428,
+      "latitude": 54.298603,
+      "longitude": -115.652786,
       "cityRange": {
-        "calgaryKMRange": 376,
-        "edmontonKMRange": 169
+        "calgaryKMRange": 377,
+        "edmontonKMRange": 164
       }
     },
     "fishTypes": {
@@ -6316,10 +6316,10 @@
     "difficulty": 3,
     "location": {
       "name": "SW13-8-19-W4",
-      "latitude": 49.6397097,
-      "longitude": -112.5264837,
+      "latitude": 49.64707,
+      "longitude": -112.45932,
       "cityRange": {
-        "calgaryKMRange": 191,
+        "calgaryKMRange": 193,
         "edmontonKMRange": 439
       }
     },
@@ -6373,11 +6373,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW33-12-21-W4",
-      "latitude": 50.0300411,
-      "longitude": -112.7468639,
+      "latitude": 52.918593,
+      "longitude": -111.236446,
       "cityRange": {
-        "calgaryKMRange": 147,
-        "edmontonKMRange": 394
+        "calgaryKMRange": 285,
+        "edmontonKMRange": 166
       }
     },
     "fishTypes": {
@@ -6435,11 +6435,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW27-83-23-W5",
-      "latitude": 56.1741456,
-      "longitude": -117.5068284,
+      "latitude": 56.222511,
+      "longitude": -117.556197,
       "cityRange": {
-        "calgaryKMRange": 614,
-        "edmontonKMRange": 389
+        "calgaryKMRange": 620,
+        "edmontonKMRange": 395
       }
     },
     "fishTypes": {
@@ -6492,11 +6492,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW27-83-23-W5",
-      "latitude": 56.1741456,
-      "longitude": -117.5068284,
+      "latitude": 56.224205,
+      "longitude": -117.553092,
       "cityRange": {
-        "calgaryKMRange": 614,
-        "edmontonKMRange": 389
+        "calgaryKMRange": 620,
+        "edmontonKMRange": 395
       }
     },
     "fishTypes": {
@@ -6549,11 +6549,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE5-7-3-W4",
-      "latitude": 49.5312843,
-      "longitude": -110.306203,
+      "latitude": 49.531283,
+      "longitude": -110.372274,
       "cityRange": {
-        "calgaryKMRange": 316,
-        "edmontonKMRange": 498
+        "calgaryKMRange": 312,
+        "edmontonKMRange": 496
       }
     },
     "fishTypes": {
@@ -6611,8 +6611,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW19-30-18-W4",
-      "latitude": 51.583449,
-      "longitude": -112.5282424,
+      "latitude": 51.582647,
+      "longitude": -112.52946,
       "cityRange": {
         "calgaryKMRange": 123,
         "edmontonKMRange": 228
@@ -6673,11 +6673,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE35-69-14-W4",
-      "latitude": 54.9814665,
-      "longitude": -112.0804053,
+      "latitude": 55.021444,
+      "longitude": -112.015324,
       "cityRange": {
-        "calgaryKMRange": 458,
-        "edmontonKMRange": 184
+        "calgaryKMRange": 463,
+        "edmontonKMRange": 190
       }
     },
     "fishTypes": {
@@ -6730,8 +6730,8 @@
     "difficulty": 1,
     "location": {
       "name": "SW8-53-19-W5",
-      "latitude": 53.5600563,
-      "longitude": -116.7680635,
+      "latitude": 53.560075,
+      "longitude": -116.768896,
       "cityRange": {
         "calgaryKMRange": 334,
         "edmontonKMRange": 216
@@ -6797,11 +6797,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE25-37-8-W5",
-      "latitude": 53.901522,
-      "longitude": -110.6489889,
+      "latitude": 52.216312,
+      "longitude": -115.007692,
       "cityRange": {
-        "calgaryKMRange": 393,
-        "edmontonKMRange": 191
+        "calgaryKMRange": 145,
+        "edmontonKMRange": 179
       }
     },
     "fishTypes": {
@@ -6859,11 +6859,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW18-38-27-W4",
-      "latitude": 52.2491471,
-      "longitude": -113.6862676,
+      "latitude": 52.269458,
+      "longitude": -113.853351,
       "cityRange": {
         "calgaryKMRange": 137,
-        "edmontonKMRange": 145
+        "edmontonKMRange": 144
       }
     },
     "fishTypes": {
@@ -6916,8 +6916,8 @@
     "difficulty": 3,
     "location": {
       "name": "SE4-26-4-W5",
-      "latitude": 51.1904976,
-      "longitude": -114.4948127,
+      "latitude": 51.19005,
+      "longitude": -114.49262,
       "cityRange": {
         "calgaryKMRange": 34,
         "edmontonKMRange": 271
@@ -6978,11 +6978,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE31-86-3-W6",
-      "latitude": 56.4560516,
-      "longitude": -118.3328424,
+      "latitude": 56.504886,
+      "longitude": -118.461339,
       "cityRange": {
-        "calgaryKMRange": 663,
-        "edmontonKMRange": 447
+        "calgaryKMRange": 672,
+        "edmontonKMRange": 456
       }
     },
     "fishTypes": {
@@ -7040,11 +7040,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE31-79-8-W6",
-      "latitude": 55.8416411,
-      "longitude": -119.0985586,
+      "latitude": 55.886111,
+      "longitude": -119.227778,
       "cityRange": {
-        "calgaryKMRange": 628,
-        "edmontonKMRange": 441
+        "calgaryKMRange": 637,
+        "edmontonKMRange": 451
       }
     },
     "fishTypes": {
@@ -7102,11 +7102,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW4-56-25-W4",
-      "latitude": 53.781559,
-      "longitude": -113.5773779,
+      "latitude": 53.811699,
+      "longitude": -113.658398,
       "cityRange": {
-        "calgaryKMRange": 306,
-        "edmontonKMRange": 27
+        "calgaryKMRange": 309,
+        "edmontonKMRange": 31
       }
     },
     "fishTypes": {
@@ -7164,11 +7164,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW11-45-28-W4",
-      "latitude": 52.8418724,
-      "longitude": -113.9767598,
+      "latitude": 52.867842,
+      "longitude": -113.961579,
       "cityRange": {
-        "calgaryKMRange": 200,
-        "edmontonKMRange": 85
+        "calgaryKMRange": 203,
+        "edmontonKMRange": 82
       }
     },
     "fishTypes": {
@@ -7221,8 +7221,8 @@
     "difficulty": 3,
     "location": {
       "name": "SW19-23-8-W5",
-      "latitude": 50.9680925,
-      "longitude": -115.1087609,
+      "latitude": 50.969566,
+      "longitude": -115.107943,
       "cityRange": {
         "calgaryKMRange": 73,
         "edmontonKMRange": 307
@@ -7283,8 +7283,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW32-53-27-W4",
-      "latitude": 53.6246572,
-      "longitude": -113.9560349,
+      "latitude": 53.624675,
+      "longitude": -113.956437,
       "cityRange": {
         "calgaryKMRange": 287,
         "edmontonKMRange": 32
@@ -7350,11 +7350,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW5-45-20-W5",
-      "latitude": 52.8274157,
-      "longitude": -116.7568215,
+      "latitude": 52.851672,
+      "longitude": -116.874653,
       "cityRange": {
-        "calgaryKMRange": 270,
-        "edmontonKMRange": 232
+        "calgaryKMRange": 278,
+        "edmontonKMRange": 238
       }
     },
     "fishTypes": {
@@ -7407,11 +7407,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE26-71-6-W6",
-      "latitude": 55.133262,
-      "longitude": -118.8774284,
+      "latitude": 55.172657,
+      "longitude": -118.806587,
       "cityRange": {
-        "calgaryKMRange": 556,
-        "edmontonKMRange": 391
+        "calgaryKMRange": 557,
+        "edmontonKMRange": 389
       }
     },
     "fishTypes": {
@@ -7464,11 +7464,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE17-78-5-W6",
-      "latitude": 55.718759,
-      "longitude": -118.6602367,
+      "latitude": 55.762438,
+      "longitude": -118.725502,
       "cityRange": {
-        "calgaryKMRange": 602,
-        "edmontonKMRange": 411
+        "calgaryKMRange": 608,
+        "edmontonKMRange": 417
       }
     },
     "fishTypes": {
@@ -7521,10 +7521,10 @@
     "difficulty": 2,
     "location": {
       "name": "SE26-8-22-W4",
-      "latitude": 49.6686231,
-      "longitude": -112.9168895,
+      "latitude": 49.671905,
+      "longitude": -112.879725,
       "cityRange": {
-        "calgaryKMRange": 174,
+        "calgaryKMRange": 175,
         "edmontonKMRange": 433
       }
     },
@@ -7598,11 +7598,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE1-39-3-W5",
-      "latitude": 52.2997456,
-      "longitude": -114.4195797,
+      "latitude": 52.322935,
+      "longitude": -114.292729,
       "cityRange": {
-        "calgaryKMRange": 142,
-        "edmontonKMRange": 152
+        "calgaryKMRange": 143,
+        "edmontonKMRange": 146
       }
     },
     "fishTypes": {
@@ -7660,11 +7660,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE32-53-12-W5",
-      "latitude": 53.5863933,
-      "longitude": -115.6470201,
+      "latitude": 53.616078,
+      "longitude": -115.725966,
       "cityRange": {
-        "calgaryKMRange": 302,
-        "edmontonKMRange": 142
+        "calgaryKMRange": 307,
+        "edmontonKMRange": 148
       }
     },
     "fishTypes": {
@@ -7774,8 +7774,8 @@
     "difficulty": 3,
     "location": {
       "name": "SW32-40-15-W5",
-      "latitude": 52.4849082,
-      "longitude": -116.1286853,
+      "latitude": 52.484878,
+      "longitude": -116.128512,
       "cityRange": {
         "calgaryKMRange": 214,
         "edmontonKMRange": 212
@@ -7888,11 +7888,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE14-44-3-W5",
-      "latitude": 52.7623605,
-      "longitude": -114.3998685,
+      "latitude": 52.791495,
+      "longitude": -114.317013,
       "cityRange": {
-        "calgaryKMRange": 192,
-        "edmontonKMRange": 106
+        "calgaryKMRange": 195,
+        "edmontonKMRange": 100
       }
     },
     "fishTypes": {
@@ -7945,11 +7945,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW11-53-22-W5",
-      "latitude": 53.5652438,
-      "longitude": -117.1432948,
+      "latitude": 53.566667,
+      "longitude": -117.133333,
       "cityRange": {
         "calgaryKMRange": 349,
-        "edmontonKMRange": 241
+        "edmontonKMRange": 240
       }
     },
     "fishTypes": {
@@ -8007,11 +8007,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW30-84-12-W6",
-      "latitude": 56.2681143,
-      "longitude": -119.7216451,
+      "latitude": 56.316771,
+      "longitude": -119.894419,
       "cityRange": {
-        "calgaryKMRange": 689,
-        "edmontonKMRange": 500
+        "calgaryKMRange": 700,
+        "edmontonKMRange": 512
       }
     },
     "fishTypes": {
@@ -8064,11 +8064,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE25-42-6-W5",
-      "latitude": 52.6480092,
-      "longitude": -114.7295099,
+      "latitude": 52.648629,
+      "longitude": -114.729184,
       "cityRange": {
         "calgaryKMRange": 184,
-        "edmontonKMRange": 130
+        "edmontonKMRange": 129
       }
     },
     "fishTypes": {
@@ -8126,10 +8126,10 @@
     "difficulty": 2,
     "location": {
       "name": "NE6-1-26-W4",
-      "latitude": 49.0108425,
-      "longitude": -113.321881,
+      "latitude": 49.011823,
+      "longitude": -113.456699,
       "cityRange": {
-        "calgaryKMRange": 232,
+        "calgaryKMRange": 230,
         "edmontonKMRange": 504
       }
     },
@@ -8193,11 +8193,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW34-27-4-W4",
-      "latitude": 51.3383739,
-      "longitude": -110.4908592,
+      "latitude": 51.351315,
+      "longitude": -110.488247,
       "cityRange": {
         "calgaryKMRange": 252,
-        "edmontonKMRange": 319
+        "edmontonKMRange": 318
       }
     },
     "fishTypes": {
@@ -8250,11 +8250,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE25-40-24-W4",
-      "latitude": 52.4515411,
-      "longitude": -113.4046762,
+      "latitude": 52.471946,
+      "longitude": -113.316718,
       "cityRange": {
-        "calgaryKMRange": 163,
-        "edmontonKMRange": 122
+        "calgaryKMRange": 167,
+        "edmontonKMRange": 120
       }
     },
     "fishTypes": {
@@ -8307,8 +8307,8 @@
     "difficulty": 2,
     "location": {
       "name": "NE10-2-28-W4",
-      "latitude": 49.1120396,
-      "longitude": -113.6587926,
+      "latitude": 49.1117,
+      "longitude": -113.655837,
       "cityRange": {
         "calgaryKMRange": 217,
         "edmontonKMRange": 493
@@ -8389,8 +8389,8 @@
     "difficulty": 3,
     "location": {
       "name": "NE15-58-3-W5",
-      "latitude": 54.0154443,
-      "longitude": -114.3526627,
+      "latitude": 54.017399,
+      "longitude": -114.352591,
       "cityRange": {
         "calgaryKMRange": 331,
         "edmontonKMRange": 77
@@ -8446,11 +8446,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW30-35-12-W5",
-      "latitude": 53.4425161,
-      "longitude": -117.7186621,
+      "latitude": 52.038779,
+      "longitude": -115.5705653,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 280
+        "calgaryKMRange": 152,
+        "edmontonKMRange": 218
       }
     },
     "fishTypes": {
@@ -8508,8 +8508,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW12-54-26-W5",
-      "latitude": 53.6555184,
-      "longitude": -117.7023431,
+      "latitude": 53.655681,
+      "longitude": -117.702585,
       "cityRange": {
         "calgaryKMRange": 381,
         "edmontonKMRange": 278
@@ -8565,8 +8565,8 @@
     "difficulty": 1,
     "location": {
       "name": "SE17-36-7-W5",
-      "latitude": 52.1008954,
-      "longitude": -114.9671284,
+      "latitude": 52.1,
+      "longitude": -114.966667,
       "cityRange": {
         "calgaryKMRange": 133,
         "edmontonKMRange": 189
@@ -8627,11 +8627,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE15-14-28-W4",
-      "latitude": 50.1673799,
-      "longitude": -113.7377581,
+      "latitude": 50.1757,
+      "longitude": -113.737738,
       "cityRange": {
-        "calgaryKMRange": 100,
-        "edmontonKMRange": 376
+        "calgaryKMRange": 99,
+        "edmontonKMRange": 375
       }
     },
     "fishTypes": {
@@ -8684,11 +8684,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE4-47-19-W5",
-      "latitude": 53.0008963,
-      "longitude": -116.6598084,
+      "latitude": 53.030531,
+      "longitude": -116.714447,
       "cityRange": {
-        "calgaryKMRange": 280,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 285,
+        "edmontonKMRange": 222
       }
     },
     "fishTypes": {
@@ -8746,11 +8746,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW26-46-19-W5",
-      "latitude": 52.9647545,
-      "longitude": -116.6904328,
+      "latitude": 52.992044,
+      "longitude": -116.649313,
       "cityRange": {
         "calgaryKMRange": 279,
-        "edmontonKMRange": 222
+        "edmontonKMRange": 219
       }
     },
     "fishTypes": {
@@ -8803,11 +8803,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW35-46-19-W5",
-      "latitude": 52.9792112,
-      "longitude": -116.6904328,
+      "latitude": 53.004695,
+      "longitude": -116.653503,
       "cityRange": {
         "calgaryKMRange": 280,
-        "edmontonKMRange": 222
+        "edmontonKMRange": 219
       }
     },
     "fishTypes": {
@@ -8860,11 +8860,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE26-46-19-W5",
-      "latitude": 52.9647545,
-      "longitude": -116.7024169,
+      "latitude": 52.992815,
+      "longitude": -116.645687,
       "cityRange": {
         "calgaryKMRange": 279,
-        "edmontonKMRange": 223
+        "edmontonKMRange": 218
       }
     },
     "fishTypes": {
@@ -8917,11 +8917,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW20-46-19-W4",
-      "latitude": 52.9502978,
-      "longitude": -112.6185281,
+      "latitude": 52.979766,
+      "longitude": -112.729392,
       "cityRange": {
         "calgaryKMRange": 234,
-        "edmontonKMRange": 88
+        "edmontonKMRange": 81
       }
     },
     "fishTypes": {
@@ -8989,11 +8989,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE5-43-25-W4",
-      "latitude": 52.6539351,
-      "longitude": -113.4725481,
+      "latitude": 52.979766,
+      "longitude": -112.729392,
       "cityRange": {
-        "calgaryKMRange": 184,
-        "edmontonKMRange": 99
+        "calgaryKMRange": 234,
+        "edmontonKMRange": 81
       }
     },
     "fishTypes": {
@@ -9051,11 +9051,11 @@
     "difficulty": 3,
     "location": {
       "name": "SE31-58-20-W4",
-      "latitude": 54.0200948,
-      "longitude": -112.8185263,
+      "latitude": 54.056876,
+      "longitude": -112.9560769,
       "cityRange": {
-        "calgaryKMRange": 342,
-        "edmontonKMRange": 69
+        "calgaryKMRange": 343,
+        "edmontonKMRange": 67
       }
     },
     "fishTypes": {
@@ -9108,10 +9108,10 @@
     "difficulty": 3,
     "location": {
       "name": "NE25-109-9-W6",
-      "latitude": 58.4366218,
-      "longitude": -119.4816101,
+      "latitude": 58.495385,
+      "longitude": -119.349303,
       "cityRange": {
-        "calgaryKMRange": 892,
+        "calgaryKMRange": 894,
         "edmontonKMRange": 659
       }
     },
@@ -9165,11 +9165,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE31-59-25-W4",
-      "latitude": 54.1140635,
-      "longitude": -113.5628087,
+      "latitude": 54.145706,
+      "longitude": -113.727525,
       "cityRange": {
-        "calgaryKMRange": 343,
-        "edmontonKMRange": 63
+        "calgaryKMRange": 346,
+        "edmontonKMRange": 68
       }
     },
     "fishTypes": {
@@ -9222,11 +9222,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW11-38-9-W5",
-      "latitude": 53.2518987,
-      "longitude": -115.6478539,
+      "latitude": 52.247523,
+      "longitude": -115.183801,
       "cityRange": {
-        "calgaryKMRange": 268,
-        "edmontonKMRange": 147
+        "calgaryKMRange": 154,
+        "edmontonKMRange": 184
       }
     },
     "fishTypes": {
@@ -9279,8 +9279,8 @@
     "difficulty": 1,
     "location": {
       "name": "NW20-8-1-W4",
-      "latitude": 49.6663069,
-      "longitude": -110.1088838,
+      "latitude": 49.66537,
+      "longitude": -110.106922,
       "cityRange": {
         "calgaryKMRange": 320,
         "edmontonKMRange": 491
@@ -9351,11 +9351,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW24-8-22-W4",
-      "latitude": 50.8650282,
-      "longitude": -113.981449,
+      "latitude": 49.659849,
+      "longitude": -112.863787,
       "cityRange": {
-        "calgaryKMRange": 21,
-        "edmontonKMRange": 300
+        "calgaryKMRange": 176,
+        "edmontonKMRange": 434
       }
     },
     "fishTypes": {
@@ -9408,11 +9408,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW34-88-7-W6",
-      "latitude": 56.6223038,
-      "longitude": -119.0293231,
+      "latitude": 56.669178,
+      "longitude": -119.0339,
       "cityRange": {
-        "calgaryKMRange": 700,
-        "edmontonKMRange": 491
+        "calgaryKMRange": 705,
+        "edmontonKMRange": 494
       }
     },
     "fishTypes": {
@@ -9465,8 +9465,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW26-54-2-W5",
-      "latitude": 53.6899687,
-      "longitude": -114.1907711,
+      "latitude": 53.690156,
+      "longitude": -114.191032,
       "cityRange": {
         "calgaryKMRange": 294,
         "edmontonKMRange": 49
@@ -9532,11 +9532,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW5-49-4-W5",
-      "latitude": 53.1671486,
-      "longitude": -114.4641809,
+      "latitude": 53.193482,
+      "longitude": -114.551159,
       "cityRange": {
-        "calgaryKMRange": 238,
-        "edmontonKMRange": 77
+        "calgaryKMRange": 241,
+        "edmontonKMRange": 80
       }
     },
     "fishTypes": {
@@ -9589,8 +9589,8 @@
     "difficulty": 2,
     "location": {
       "name": "NE28-53-1-W5",
-      "latitude": 53.6132388,
-      "longitude": -114.0783642,
+      "latitude": 53.612875,
+      "longitude": -114.078152,
       "cityRange": {
         "calgaryKMRange": 286,
         "edmontonKMRange": 39
@@ -9646,11 +9646,11 @@
     "difficulty": 1,
     "location": {
       "name": "SE35-61-8-W5",
-      "latitude": 54.2803157,
-      "longitude": -115.1555088,
+      "latitude": 54.318086,
+      "longitude": -115.077728,
       "cityRange": {
-        "calgaryKMRange": 367,
-        "edmontonKMRange": 136
+        "calgaryKMRange": 370,
+        "edmontonKMRange": 135
       }
     },
     "fishTypes": {
@@ -9708,8 +9708,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW12-26-22-W4",
-      "latitude": 51.2082697,
-      "longitude": -112.9549879,
+      "latitude": 51.208304,
+      "longitude": -112.955705,
       "cityRange": {
         "calgaryKMRange": 80,
         "edmontonKMRange": 263
@@ -9770,11 +9770,11 @@
     "difficulty": 4,
     "location": {
       "name": "SW10-79-8-W6",
-      "latitude": 55.7838143,
-      "longitude": -119.1628017,
+      "latitude": 55.829544,
+      "longitude": -119.167595,
       "cityRange": {
-        "calgaryKMRange": 625,
-        "edmontonKMRange": 441
+        "calgaryKMRange": 630,
+        "edmontonKMRange": 444
       }
     },
     "fishTypes": {
@@ -9832,11 +9832,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW25-60-17-W4",
-      "latitude": 54.1791187,
-      "longitude": -112.4973325,
+      "latitude": 54.212986,
+      "longitude": -112.423089,
       "cityRange": {
-        "calgaryKMRange": 364,
-        "edmontonKMRange": 96
+        "calgaryKMRange": 369,
+        "edmontonKMRange": 102
       }
     },
     "fishTypes": {
@@ -9889,11 +9889,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW19-40-15-W5",
-      "latitude": 52.429856,
-      "longitude": -115.9954363,
+      "latitude": 52.451617,
+      "longitude": -116.149976,
       "cityRange": {
-        "calgaryKMRange": 203,
-        "edmontonKMRange": 208
+        "calgaryKMRange": 212,
+        "edmontonKMRange": 215
       }
     },
     "fishTypes": {
@@ -9946,11 +9946,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE26-43-5-W4",
-      "latitude": 52.711762,
-      "longitude": -110.6849795,
+      "latitude": 52.740747,
+      "longitude": -110.609119,
       "cityRange": {
-        "calgaryKMRange": 297,
-        "edmontonKMRange": 209
+        "calgaryKMRange": 303,
+        "edmontonKMRange": 212
       }
     },
     "fishTypes": {
@@ -10003,11 +10003,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE14-24-7-W5",
-      "latitude": 51.048666,
-      "longitude": -114.8665357,
+      "latitude": 51.05457,
+      "longitude": -114.944741,
       "cityRange": {
-        "calgaryKMRange": 56,
-        "edmontonKMRange": 293
+        "calgaryKMRange": 61,
+        "edmontonKMRange": 294
       }
     },
     "fishTypes": {
@@ -10060,8 +10060,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW20-24-7-W5",
-      "latitude": 51.0550149,
-      "longitude": -114.9433756,
+      "latitude": 51.05457,
+      "longitude": -114.944741,
       "cityRange": {
         "calgaryKMRange": 61,
         "edmontonKMRange": 294
@@ -10122,11 +10122,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE9-47-19-W5",
-      "latitude": 53.015353,
-      "longitude": -116.6598084,
+      "latitude": 53.0436,
+      "longitude": -116.717434,
       "cityRange": {
-        "calgaryKMRange": 282,
-        "edmontonKMRange": 219
+        "calgaryKMRange": 287,
+        "edmontonKMRange": 221
       }
     },
     "fishTypes": {
@@ -10179,10 +10179,10 @@
     "difficulty": 2,
     "location": {
       "name": "NE12-5-24-W4",
-      "latitude": 49.3722605,
-      "longitude": -113.189911,
+      "latitude": 49.372404,
+      "longitude": -113.108558,
       "cityRange": {
-        "calgaryKMRange": 196,
+        "calgaryKMRange": 198,
         "edmontonKMRange": 465
       }
     },
@@ -10236,11 +10236,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW30-52-1-W5",
-      "latitude": 53.4851963,
-      "longitude": -114.0060652,
+      "latitude": 53.517861,
+      "longitude": -114.138808,
       "cityRange": {
-        "calgaryKMRange": 271,
-        "edmontonKMRange": 35
+        "calgaryKMRange": 275,
+        "edmontonKMRange": 43
       }
     },
     "fishTypes": {
@@ -10308,8 +10308,8 @@
     "difficulty": 2,
     "location": {
       "name": "SW26-8-2-W4",
-      "latitude": 49.6739855,
-      "longitude": -110.1817945,
+      "latitude": 49.673739,
+      "longitude": -110.181613,
       "cityRange": {
         "calgaryKMRange": 315,
         "edmontonKMRange": 487
@@ -10375,10 +10375,10 @@
     "difficulty": 2,
     "location": {
       "name": "SE9-58-9-W4",
-      "latitude": 53.962268,
-      "longitude": -111.2465378,
+      "latitude": 53.995566,
+      "longitude": -111.268531,
       "cityRange": {
-        "calgaryKMRange": 377,
+        "calgaryKMRange": 379,
         "edmontonKMRange": 155
       }
     },
@@ -10437,10 +10437,10 @@
     "difficulty": 1,
     "location": {
       "name": "NE19-52-2-W5",
-      "latitude": 53.5109169,
-      "longitude": -114.2727809,
+      "latitude": 53.510057,
+      "longitude": -114.273086,
       "cityRange": {
-        "calgaryKMRange": 275,
+        "calgaryKMRange": 274,
         "edmontonKMRange": 52
       }
     },
@@ -10509,11 +10509,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW14-24-25-W4",
-      "latitude": 51.0275545,
-      "longitude": -113.4052266,
+      "latitude": 51.041855,
+      "longitude": -113.390752,
       "cityRange": {
-        "calgaryKMRange": 47,
-        "edmontonKMRange": 280
+        "calgaryKMRange": 48,
+        "edmontonKMRange": 279
       }
     },
     "fishTypes": {
@@ -10571,11 +10571,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW30-37-7-W5",
-      "latitude": 52.1840918,
-      "longitude": -114.8535486,
+      "latitude": 52.203976,
+      "longitude": -115.001395,
       "cityRange": {
-        "calgaryKMRange": 138,
-        "edmontonKMRange": 177
+        "calgaryKMRange": 144,
+        "edmontonKMRange": 180
       }
     },
     "fishTypes": {
@@ -10628,11 +10628,11 @@
     "difficulty": 3,
     "location": {
       "name": "NW7-89-2-W6",
-      "latitude": 56.6584456,
-      "longitude": -118.1642816,
+      "latitude": 56.706382,
+      "longitude": -118.318549,
       "cityRange": {
-        "calgaryKMRange": 679,
-        "edmontonKMRange": 456
+        "calgaryKMRange": 688,
+        "edmontonKMRange": 466
       }
     },
     "fishTypes": {
@@ -10685,8 +10685,8 @@
     "difficulty": 1,
     "location": {
       "name": "SW18-70-25-W5",
-      "latitude": 55.05975,
-      "longitude": -117.810625,
+      "latitude": 55.059122,
+      "longitude": -117.813668,
       "cityRange": {
         "calgaryKMRange": 511,
         "edmontonKMRange": 327
@@ -10742,11 +10742,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW32-48-21-W4",
-      "latitude": 53.1599202,
-      "longitude": -112.917843,
+      "latitude": 53.1886,
+      "longitude": -113.0443,
       "cityRange": {
         "calgaryKMRange": 248,
-        "edmontonKMRange": 57
+        "edmontonKMRange": 50
       }
     },
     "fishTypes": {
@@ -10814,11 +10814,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW15-88-8-W4",
-      "latitude": 56.586162,
-      "longitude": -111.1866719,
+      "latitude": 56.637029,
+      "longitude": -111.191296,
       "cityRange": {
-        "calgaryKMRange": 644,
-        "edmontonKMRange": 369
+        "calgaryKMRange": 650,
+        "edmontonKMRange": 374
       }
     },
     "fishTypes": {
@@ -10871,11 +10871,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW20-88-8-W4",
-      "latitude": 56.5933904,
-      "longitude": -111.1342223,
+      "latitude": 56.639271,
+      "longitude": -111.248523,
       "cityRange": {
-        "calgaryKMRange": 646,
-        "edmontonKMRange": 371
+        "calgaryKMRange": 649,
+        "edmontonKMRange": 372
       }
     },
     "fishTypes": {
@@ -10985,11 +10985,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW6-40-7-W5",
-      "latitude": 52.8707407,
-      "longitude": -118.0716313,
+      "latitude": 57.45,
+      "longitude": -117.533333,
       "cityRange": {
-        "calgaryKMRange": 341,
-        "edmontonKMRange": 314
+        "calgaryKMRange": 747,
+        "edmontonKMRange": 503
       }
     },
     "fishTypes": {
@@ -11042,11 +11042,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW32-54-12-W4",
-      "latitude": 53.6731336,
-      "longitude": -111.6382198,
+      "latitude": 53.703308,
+      "longitude": -111.744946,
       "cityRange": {
-        "calgaryKMRange": 336,
-        "edmontonKMRange": 123
+        "calgaryKMRange": 335,
+        "edmontonKMRange": 117
       }
     },
     "fishTypes": {
@@ -11156,11 +11156,11 @@
     "difficulty": 2,
     "location": {
       "name": "NW17-52-14-W4",
-      "latitude": 53.4635112,
-      "longitude": -111.9226552,
+      "latitude": 53.492329,
+      "longitude": -112.035539,
       "cityRange": {
-        "calgaryKMRange": 306,
-        "edmontonKMRange": 104
+        "calgaryKMRange": 305,
+        "edmontonKMRange": 97
       }
     },
     "fishTypes": {
@@ -11213,11 +11213,11 @@
     "difficulty": 1,
     "location": {
       "name": "SW7-52-14-W4",
-      "latitude": 53.4418262,
-      "longitude": -111.8983946,
+      "latitude": 53.474312,
+      "longitude": -112.05988,
       "cityRange": {
-        "calgaryKMRange": 305,
-        "edmontonKMRange": 106
+        "calgaryKMRange": 303,
+        "edmontonKMRange": 95
       }
     },
     "fishTypes": {
@@ -11270,11 +11270,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE31-44-6-W4",
-      "latitude": 52.812959,
-      "longitude": -110.7340869,
+      "latitude": 52.8425,
+      "longitude": -110.85653,
       "cityRange": {
-        "calgaryKMRange": 302,
-        "edmontonKMRange": 201
+        "calgaryKMRange": 297,
+        "edmontonKMRange": 192
       }
     },
     "fishTypes": {
@@ -11327,8 +11327,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW7-85-21-W5",
-      "latitude": 56.3610178,
-      "longitude": -117.3139028,
+      "latitude": 56.360995,
+      "longitude": -117.311159,
       "cityRange": {
         "calgaryKMRange": 628,
         "edmontonKMRange": 397
@@ -11384,11 +11384,11 @@
     "difficulty": 2,
     "location": {
       "name": "SE18-73-21-W5",
-      "latitude": 55.2778292,
-      "longitude": -117.0621967,
+      "latitude": 55.317308,
+      "longitude": -117.209194,
       "cityRange": {
-        "calgaryKMRange": 511,
-        "edmontonKMRange": 301
+        "calgaryKMRange": 519,
+        "edmontonKMRange": 311
       }
     },
     "fishTypes": {
@@ -11446,11 +11446,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE23-54-23-W4",
-      "latitude": 53.6514486,
-      "longitude": -113.33125,
+      "latitude": 53.683219,
+      "longitude": -113.274136,
       "cityRange": {
-        "calgaryKMRange": 294,
-        "edmontonKMRange": 16
+        "calgaryKMRange": 298,
+        "edmontonKMRange": 21
       }
     },
     "fishTypes": {
@@ -11518,11 +11518,11 @@
     "difficulty": 3,
     "location": {
       "name": "NE24-46-24-W4",
-      "latitude": 52.9575262,
-      "longitude": -113.4454317,
+      "latitude": 52.987222,
+      "longitude": -113.353311,
       "cityRange": {
-        "calgaryKMRange": 217,
-        "edmontonKMRange": 66
+        "calgaryKMRange": 222,
+        "edmontonKMRange": 63
       }
     },
     "fishTypes": {
@@ -11580,11 +11580,11 @@
     "difficulty": 2,
     "location": {
       "name": "NE35-59-12-W5",
-      "latitude": 54.1140635,
-      "longitude": -115.7414073,
+      "latitude": 54.149158,
+      "longitude": -115.685342,
       "cityRange": {
-        "calgaryKMRange": 359,
-        "edmontonKMRange": 160
+        "calgaryKMRange": 362,
+        "edmontonKMRange": 159
       }
     },
     "fishTypes": {
@@ -11637,11 +11637,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW1-60-10-W5",
-      "latitude": 54.1212919,
-      "longitude": -115.461402,
+      "latitude": 54.15613,
+      "longitude": -115.364319,
       "cityRange": {
-        "calgaryKMRange": 355,
-        "edmontonKMRange": 144
+        "calgaryKMRange": 357,
+        "edmontonKMRange": 140
       }
     },
     "fishTypes": {
@@ -11694,11 +11694,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW31-49-26-W5",
-      "latitude": 53.2394321,
-      "longitude": -117.6230221,
+      "latitude": 53.269491,
+      "longitude": -117.792759,
       "cityRange": {
-        "calgaryKMRange": 344,
-        "edmontonKMRange": 276
+        "calgaryKMRange": 354,
+        "edmontonKMRange": 287
       }
     },
     "fishTypes": {
@@ -11751,11 +11751,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW31-49-26-W5",
-      "latitude": 53.2394321,
-      "longitude": -117.6230221,
+      "latitude": 53.271338,
+      "longitude": -117.80152,
       "cityRange": {
-        "calgaryKMRange": 344,
-        "edmontonKMRange": 276
+        "calgaryKMRange": 355,
+        "edmontonKMRange": 287
       }
     },
     "fishTypes": {
@@ -11808,11 +11808,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW30-53-9-W5",
-      "latitude": 53.5719366,
-      "longitude": -115.17297,
+      "latitude": 53.601291,
+      "longitude": -115.318904,
       "cityRange": {
-        "calgaryKMRange": 291,
-        "edmontonKMRange": 111
+        "calgaryKMRange": 297,
+        "edmontonKMRange": 121
       }
     },
     "fishTypes": {
@@ -11865,8 +11865,8 @@
     "difficulty": 2,
     "location": {
       "name": "NW2-29-5-W5",
-      "latitude": 51.4540969,
-      "longitude": -114.6043912,
+      "latitude": 51.454862,
+      "longitude": -114.609375,
       "cityRange": {
         "calgaryKMRange": 59,
         "edmontonKMRange": 244
@@ -11922,11 +11922,11 @@
     "difficulty": 2,
     "location": {
       "name": "SW10-42-22-W4",
-      "latitude": 52.3147294,
-      "longitude": -114.1116142,
+      "latitude": 52.595848,
+      "longitude": -113.093667,
       "cityRange": {
-        "calgaryKMRange": 141,
-        "edmontonKMRange": 143
+        "calgaryKMRange": 185,
+        "edmontonKMRange": 109
       }
     },
     "fishTypes": {
@@ -11979,11 +11979,11 @@
     "difficulty": 3,
     "location": {
       "name": "SW13-53-16-W5",
-      "latitude": 53.5430232,
-      "longitude": -116.3155523,
+      "latitude": 53.574507,
+      "longitude": -116.2285,
       "cityRange": {
         "calgaryKMRange": 317,
-        "edmontonKMRange": 186
+        "edmontonKMRange": 181
       }
     },
     "fishTypes": {

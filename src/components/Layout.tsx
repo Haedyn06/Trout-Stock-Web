@@ -1,5 +1,6 @@
 import { Link, NavLink, Outlet } from 'react-router-dom'
 import brandLogo from '../assets/logo2.png'
+import DataUpdateLabel from './DataUpdateLabel'
 
 export default function Layout() {
   return (
@@ -25,6 +26,9 @@ export default function Layout() {
         <Outlet />
       </main>
       <footer className="site-footer">
+        <p className="site-footer__data">
+          <DataUpdateLabel />
+        </p>
         <p>
           Created by <strong>Haedyn06</strong>
           <span className="site-footer-sep"> · </span>
