@@ -7,8 +7,8 @@ import WaterBodyTypeFilter from './WaterBodyTypeFilter'
 export interface MapFiltersProps {
   referenceCity: ReferenceCity
   onReferenceCityChange: (city: ReferenceCity) => void
-  maxDistance: number | null
-  onMaxDistanceChange: (distance: number | null) => void
+  maxDistance: number
+  onMaxDistanceChange: (distance: number) => void
   selectedTypes: WaterBodyType[]
   onSelectedTypesChange: (types: WaterBodyType[]) => void
   selectedRegions: AlbertaRegion[]

@@ -5,6 +5,7 @@ import 'leaflet/dist/leaflet.css'
 import '../utils/leafletIcons'
 import { fishWaters, getFishWaterById } from '../data/loadFishWaters'
 import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '../types/fishWater'
+import { DEFAULT_DISTANCE_KM } from '../types/fishWater'
 import FocusedWaterMarker from '../components/FocusedWaterMarker'
 import MapFilters from '../components/MapFilters'
 import MapLegendOverlay from '../components/MapLegendOverlay'
@@ -32,7 +33,7 @@ export default function MapPage() {
   const isFocused = Boolean(focusWater)
 
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
-  const [maxDistance, setMaxDistance] = useState<number | null>(null)
+  const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
   const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])

@@ -4,8 +4,8 @@ import { DISTANCE_OPTIONS, REFERENCE_CITIES } from '../types/fishWater'
 interface DistanceFilterProps {
   city: ReferenceCity
   onCityChange: (city: ReferenceCity) => void
-  maxDistance: number | null
-  onMaxDistanceChange: (distance: number | null) => void
+  maxDistance: number
+  onMaxDistanceChange: (distance: number) => void
   hideLabel?: boolean
 }
 
@@ -32,15 +32,10 @@ export default function DistanceFilter({
           ))}
         </select>
         <select
-          value={maxDistance ?? ''}
-          onChange={(e) =>
-            onMaxDistanceChange(
-              e.target.value === '' ? null : Number(e.target.value),
-            )
-          }
+          value={maxDistance}
+          onChange={(e) => onMaxDistanceChange(Number(e.target.value))}
           aria-label="Maximum distance"
         >
-          <option value="">Any distance</option>
           {DISTANCE_OPTIONS.map(({ value, label }) => (
             <option key={value} value={value}>
               {label}

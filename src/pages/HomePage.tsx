@@ -7,7 +7,7 @@ import type {
   TroutTypeKey,
   WaterBodyType,
 } from '../types/fishWater'
-import { DEFAULT_SORT_DIRECTION } from '../types/fishWater'
+import { DEFAULT_DISTANCE_KM, DEFAULT_SORT_DIRECTION } from '../types/fishWater'
 import DistanceFilter from '../components/DistanceFilter'
 import Pagination from '../components/Pagination'
 import SortControls from '../components/SortControls'
@@ -27,7 +27,7 @@ const PAGE_SIZE = 9
 
 export default function HomePage() {
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
-  const [maxDistance, setMaxDistance] = useState<number | null>(null)
+  const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
   const [sortField, setSortField] = useState<SortField>('name')
   const [sortDirection, setSortDirection] = useState<SortDirection>(
     DEFAULT_SORT_DIRECTION.name,

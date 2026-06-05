@@ -6,7 +6,7 @@ import type {
   TroutTypeKey,
   WaterBodyType,
 } from '../types/fishWater'
-import { ALL_FISH_TYPES, TROUT_TYPES } from '../types/fishWater'
+import { ALL_FISH_TYPES, DEFAULT_DISTANCE_KM, TROUT_TYPES } from '../types/fishWater'
 import { distanceFromCity } from './distance'
 import type { ReferenceCity } from '../types/fishWater'
 
@@ -29,9 +29,9 @@ export function getFishTypeLabel(key: FishTypeKey): string {
 export function filterByDistance(
   waters: FishWater[],
   city: ReferenceCity,
-  maxDistanceKm: number | null,
+  maxDistanceKm: number,
 ): FishWater[] {
-  if (maxDistanceKm === null) return waters
+  if (maxDistanceKm >= DEFAULT_DISTANCE_KM) return waters
   return waters.filter((w) => distanceFromCity(w, city) <= maxDistanceKm)
 }
 
