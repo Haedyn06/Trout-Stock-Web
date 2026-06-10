@@ -77,6 +77,15 @@ const MANUAL_ALIASES = {
   'Wildhorse Lakes (Lower)': 'Lower Wildhorse Lakes',
   'Wildhorse Lakes (Upper)': 'Upper Wildhorse Lakes ',
   'Wildwood Pond': 'Wildwood Pond (Stones Pond)',
+  'Champion Lakes (Lower)': 'Champion Lakes Lower',
+  'Champion Lakes (Upper)': 'Champion Lakes Upper',
+  'Magrath Childrens Pond': "Magrath Children's Pond",
+  "Pierre Greys Lakes (Lower)": 'Pierre Greys Lakes (Lower) #1',
+  'Pierre Greys Lakes (Middle)': 'Pierre Greys Lakes (Middle) #2',
+  'Pierre Greys Lakes (Upper)': 'Pierre Greys Lakes (Upper) #3',
+  "Sparrow's Egg Lake": 'Sparrows Egg Lake',
+  "Stirling Children's Pond": "Stirling Children's Pond",
+  'Twin Lakes (East Twin)': 'East Twin Lake',
 }
 
 /** id -> difficulty when MWA/heuristics need a human override */

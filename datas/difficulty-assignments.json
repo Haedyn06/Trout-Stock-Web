@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-06-05T03:49:12.449Z",
+  "generatedAt": "2026-06-09T19:24:34.764Z",
   "assignments": [
+    {
+      "id": "birch_lake",
+      "waterBodyName": "Birch Lake",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "4061",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=4061",
+      "excerpt": " birch lake lacks a formal boat launch. recreational users must carry their watercraft to the shoreline and hand-launch directly from the shore. to preserve the natural environment and ensure a quiet experience for all visitors, gas-powered"
+    },
     {
       "id": "black_nugget_mine_pit",
       "waterBodyName": "Black Nugget Mine Pit",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -17,7 +30,7 @@
     {
       "id": "blood_indian_creek",
       "waterBodyName": "Blood Indian Creek",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -30,7 +43,7 @@
     {
       "id": "bonnyville_town_pond",
       "waterBodyName": "Bonnyville Town Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -95,7 +108,7 @@
     {
       "id": "bud_miller_park_pond",
       "waterBodyName": "Bud Miller Park Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -121,7 +134,7 @@
     {
       "id": "burmis_lake",
       "waterBodyName": "Burmis Lake",
-      "previousDifficulty": 4,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -134,7 +147,7 @@
     {
       "id": "burns_reservoir",
       "waterBodyName": "Burn's Reservoir",
-      "previousDifficulty": 4,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -160,7 +173,7 @@
     {
       "id": "by_the_lake_park",
       "waterBodyName": "By The Lake Park",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -173,7 +186,7 @@
     {
       "id": "captain_eyre_lake_capt",
       "waterBodyName": "Captain Eyre Lake (Capt)",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -186,7 +199,7 @@
     {
       "id": "cardiff_park_pond",
       "waterBodyName": "Cardiff Park Pond",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -212,7 +225,7 @@
     {
       "id": "castor_eastside_trout_pond",
       "waterBodyName": "Castor Eastside Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -238,7 +251,7 @@
     {
       "id": "chain_lakes_lower_chain",
       "waterBodyName": "Chain Lakes (Lower Chain)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -262,6 +275,32 @@
       "excerpt": " chain lakes reservoir campground offers more than 90 serviced and unserviced campsites, providing a comfortable and scenic setting for outdoor enthusiasts. visitors can enjoy a variety of recreational activities, including swimming, beach "
     },
     {
+      "id": "champion_lakes_lower",
+      "waterBodyName": "Champion Lakes (Lower)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6607",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6607",
+      "excerpt": " upper and lower champion lake are heli-stocked a short walk from mclean creek trail (range road 51a) will bring you to the lake the trail is closed from december to may."
+    },
+    {
+      "id": "champion_lakes_upper",
+      "waterBodyName": "Champion Lakes (Upper)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6608",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6608",
+      "excerpt": " upper and lower champion lake are heli-stocked each year. a short walk from mclean creek trail (range road 51a) will bring you to the lake. the trail is closed from december to may."
+    },
+    {
       "id": "chatwin_lake",
       "waterBodyName": "Chatwin Lake",
       "previousDifficulty": 2,
@@ -277,7 +316,7 @@
     {
       "id": "claude_n_brennan",
       "waterBodyName": "Claude N. Brennan",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -290,7 +329,7 @@
     {
       "id": "corner_lake",
       "waterBodyName": "Corner Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -303,7 +342,7 @@
     {
       "id": "coronation_reservoir",
       "waterBodyName": "Coronation Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -316,7 +355,7 @@
     {
       "id": "county_sportplex_pond",
       "waterBodyName": "County Sportplex Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -329,7 +368,7 @@
     {
       "id": "cow_lake",
       "waterBodyName": "Cow Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -342,7 +381,7 @@
     {
       "id": "crossfield_trout_pond",
       "waterBodyName": "Crossfield Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -355,7 +394,7 @@
     {
       "id": "crowsnest_lake",
       "waterBodyName": "Crowsnest Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -368,7 +407,7 @@
     {
       "id": "cummings_lake",
       "waterBodyName": "Cummings Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -394,7 +433,7 @@
     {
       "id": "daysland_pond",
       "waterBodyName": "Daysland Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -407,7 +446,7 @@
     {
       "id": "dewitts_pond",
       "waterBodyName": "Dewitt's Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -420,7 +459,7 @@
     {
       "id": "dickson_trout_pond",
       "waterBodyName": "Dickson Trout Pond",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -433,7 +472,7 @@
     {
       "id": "dillberry_lake",
       "waterBodyName": "Dillberry Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -459,7 +498,7 @@
     {
       "id": "dolberg_lake",
       "waterBodyName": "Dolberg Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "manual",
       "reasons": [
@@ -485,7 +524,7 @@
     {
       "id": "east_dollar_lake",
       "waterBodyName": "East Dollar Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -511,7 +550,7 @@
     {
       "id": "east_stormwater_pond",
       "waterBodyName": "East Stormwater Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -524,7 +563,7 @@
     {
       "id": "elk_creek_pond",
       "waterBodyName": "Elk Creek Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -550,7 +589,7 @@
     {
       "id": "emerson_lake",
       "waterBodyName": "Emerson Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -563,7 +602,7 @@
     {
       "id": "emerson_lakes",
       "waterBodyName": "Emerson Lakes",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -589,7 +628,7 @@
     {
       "id": "engstrom_lake",
       "waterBodyName": "Engstrom Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -602,7 +641,7 @@
     {
       "id": "fairview_college_pond",
       "waterBodyName": "Fairview College Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -628,7 +667,7 @@
     {
       "id": "figure_eight_lake",
       "waterBodyName": "Figure Eight Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -641,7 +680,7 @@
     {
       "id": "footner_pond",
       "waterBodyName": "Footner Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -654,7 +693,7 @@
     {
       "id": "foremost_reservoir",
       "waterBodyName": "Foremost Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -667,7 +706,7 @@
     {
       "id": "fox_creek_trout_pond",
       "waterBodyName": "Fox Creek Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -678,9 +717,22 @@
       "excerpt": " the local pond offers everyone the opportunity to enjoy the scenery, swim and fish. the fishing dock was recently upgraded and the site restored to its natural beauty."
     },
     {
+      "id": "frog_lake",
+      "waterBodyName": "Frog Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "fallback",
+      "reasons": [
+        "fallback:lake"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
       "id": "gibbons_pond",
       "waterBodyName": "Gibbons Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -693,7 +745,7 @@
     {
       "id": "goldeye_lake",
       "waterBodyName": "Goldeye Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -706,7 +758,7 @@
     {
       "id": "goldspring_park_pond",
       "waterBodyName": "Goldspring Park Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -745,7 +797,7 @@
     {
       "id": "granum_pond",
       "waterBodyName": "Granum Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -758,7 +810,7 @@
     {
       "id": "grotto_mountain_pond",
       "waterBodyName": "Grotto Mountain Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -771,7 +823,7 @@
     {
       "id": "hansens_reservoir",
       "waterBodyName": "Hansen's Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -784,7 +836,7 @@
     {
       "id": "harleck_pond",
       "waterBodyName": "Harleck Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -797,7 +849,7 @@
     {
       "id": "hasse_lake",
       "waterBodyName": "Hasse Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -811,7 +863,7 @@
     {
       "id": "helmer_reservoir",
       "waterBodyName": "Helmer Reservoir",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -824,7 +876,7 @@
     {
       "id": "heritage_lake",
       "waterBodyName": "Heritage Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -837,7 +889,7 @@
     {
       "id": "hermitage_park_pond",
       "waterBodyName": "Hermitage Park Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -850,7 +902,7 @@
     {
       "id": "high_level_community",
       "waterBodyName": "High Level Community",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -863,7 +915,7 @@
     {
       "id": "highway_40_pond",
       "waterBodyName": "Highway 40 Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -889,7 +941,7 @@
     {
       "id": "highway_686_pond",
       "waterBodyName": "Highway 686 Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -928,7 +980,7 @@
     {
       "id": "horseshoe_lake",
       "waterBodyName": "Horseshoe Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -941,7 +993,7 @@
     {
       "id": "huber_reservoir",
       "waterBodyName": "Huber Reservoir",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -954,7 +1006,7 @@
     {
       "id": "innisfree_trout_pond",
       "waterBodyName": "Innisfree Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -966,8 +1018,8 @@
     },
     {
       "id": "irma_fish_and_game_pond",
-      "waterBodyName": "Irma Fish and Game Pond",
-      "previousDifficulty": 3,
+      "waterBodyName": "Irma Fish And Game Pond",
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -980,7 +1032,7 @@
     {
       "id": "ironside_pond",
       "waterBodyName": "Ironside Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -993,7 +1045,7 @@
     {
       "id": "island_lake",
       "waterBodyName": "Island Lake",
-      "previousDifficulty": 4,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1006,7 +1058,7 @@
     {
       "id": "jack_fish_lake",
       "waterBodyName": "Jack Fish Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1019,7 +1071,7 @@
     {
       "id": "jarvis_creek_pond",
       "waterBodyName": "Jarvis Creek Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1032,7 +1084,7 @@
     {
       "id": "kakut_lake",
       "waterBodyName": "Kakut Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1045,7 +1097,7 @@
     {
       "id": "kerbes_pond",
       "waterBodyName": "Kerbe's Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1058,7 +1110,7 @@
     {
       "id": "kids_can_catch_pond",
       "waterBodyName": "Kids Can Catch Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1071,7 +1123,7 @@
     {
       "id": "kinky_lake",
       "waterBodyName": "Kinky Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1084,7 +1136,7 @@
     {
       "id": "kraft_wimborne_pond",
       "waterBodyName": "Kraft Wimborne Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1110,7 +1162,7 @@
     {
       "id": "lac_la_biche_trout_pond",
       "waterBodyName": "Lac La Biche Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1123,7 +1175,7 @@
     {
       "id": "lacombe_park_pond",
       "waterBodyName": "Lacombe Park Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1136,7 +1188,7 @@
     {
       "id": "lambert_pond",
       "waterBodyName": "Lambert Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1149,7 +1201,7 @@
     {
       "id": "lamont_pond",
       "waterBodyName": "Lamont Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "manual",
       "reasons": [
@@ -1162,7 +1214,7 @@
     {
       "id": "lara_fish_pond",
       "waterBodyName": "Lara Fish Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1188,7 +1240,7 @@
     {
       "id": "lees_lake",
       "waterBodyName": "Lees Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1201,7 +1253,7 @@
     {
       "id": "legal_reservoir",
       "waterBodyName": "Legal Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1227,7 +1279,7 @@
     {
       "id": "little_bear_lake_hasse",
       "waterBodyName": "Little Bear Lake (Hasse)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1253,7 +1305,7 @@
     {
       "id": "lloydminster_pond",
       "waterBodyName": "Lloydminster Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1266,7 +1318,7 @@
     {
       "id": "lodgepole_pond",
       "waterBodyName": "Lodgepole Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1279,7 +1331,7 @@
     {
       "id": "lougheed_trout_pond",
       "waterBodyName": "Lougheed Trout Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1303,9 +1355,48 @@
       "excerpt": " lake is only accessible by hiking or biking only."
     },
     {
+      "id": "magrath_childrens_pond",
+      "waterBodyName": "Magrath Childrens Pond",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "317719",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=317719",
+      "excerpt": " this is a children's fishing pond, only youth 16 and under may fish the pond."
+    },
+    {
+      "id": "margaret_lake",
+      "waterBodyName": "Margaret Lake",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "5223",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5223",
+      "excerpt": " access to margaret lake is via the forestry trunk road, continuing onto waiparous valley road, which is very rough. the road terminates at a cutline, and the lake is accessible by atv or utv. the route leads directly to the lake, with an e"
+    },
+    {
+      "id": "mary_gregg_lake",
+      "waterBodyName": "Mary Gregg Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5245",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5245",
+      "excerpt": " mary gregg lake is a popular fishing lake for local fishermen."
+    },
+    {
       "id": "mcclennan_reservoir",
       "waterBodyName": "McClennan Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1318,7 +1409,7 @@
     {
       "id": "mclarens_reservoir",
       "waterBodyName": "Mclaren's Reservoir",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1331,7 +1422,7 @@
     {
       "id": "mclean_pond",
       "waterBodyName": "Mclean Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -1344,7 +1435,7 @@
     {
       "id": "mcleod_lake_carson",
       "waterBodyName": "McLeod Lake (Carson)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -1357,7 +1448,7 @@
     {
       "id": "mcquillan_reservoir",
       "waterBodyName": "McQuillan Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1370,7 +1461,7 @@
     {
       "id": "mcvinnie_reservoir",
       "waterBodyName": "McVinnie Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1422,7 +1513,7 @@
     {
       "id": "michichi_reservoir",
       "waterBodyName": "Michichi Reservoir",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1448,7 +1539,7 @@
     {
       "id": "millers_lake",
       "waterBodyName": "Millers Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1461,7 +1552,7 @@
     {
       "id": "mitchell_lake",
       "waterBodyName": "Mitchell Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1487,7 +1578,7 @@
     {
       "id": "mitford_ponds",
       "waterBodyName": "Mitford Ponds",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1539,7 +1630,7 @@
     {
       "id": "mound_red_reservoir",
       "waterBodyName": "Mound Red Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1552,7 +1643,7 @@
     {
       "id": "mount_lorette_ponds",
       "waterBodyName": "Mount Lorette Ponds",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1565,7 +1656,7 @@
     {
       "id": "muir_lake",
       "waterBodyName": "Muir Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1578,7 +1669,7 @@
     {
       "id": "muskiki_lake",
       "waterBodyName": "Muskiki Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -1591,7 +1682,7 @@
     {
       "id": "muskoseepi_pond",
       "waterBodyName": "Muskoseepi Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1604,7 +1695,7 @@
     {
       "id": "nardam_lake",
       "waterBodyName": "Nardam Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1630,7 +1721,7 @@
     {
       "id": "niemela_reservoir_rays",
       "waterBodyName": "Niemela Reservoir (Ray's)",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1656,7 +1747,7 @@
     {
       "id": "nordegg_borrow_pit_east",
       "waterBodyName": "Nordegg Borrow Pit (East)",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1669,7 +1760,7 @@
     {
       "id": "nordegg_borrow_pit_west",
       "waterBodyName": "Nordegg Borrow Pit (West)",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1682,7 +1773,7 @@
     {
       "id": "nose_creek_pond",
       "waterBodyName": "Nose Creek Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1695,7 +1786,7 @@
     {
       "id": "nuggent_pond",
       "waterBodyName": "Nuggent Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1708,7 +1799,7 @@
     {
       "id": "obed_lake",
       "waterBodyName": "Obed Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1721,7 +1812,7 @@
     {
       "id": "ole_lake",
       "waterBodyName": "Ole Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1747,7 +1838,7 @@
     {
       "id": "outpost_lake_police_lake",
       "waterBodyName": "Outpost Lake (Police Lake)",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1760,7 +1851,7 @@
     {
       "id": "oyen_concrete_plant",
       "waterBodyName": "Oyen (Concrete Plant)",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1773,7 +1864,7 @@
     {
       "id": "parlby_reservoir_tees",
       "waterBodyName": "Parlby Reservoir (Tees)",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1786,7 +1877,7 @@
     {
       "id": "payne_lake_mami_lake",
       "waterBodyName": "Payne Lake (Mami Lake)",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -1799,7 +1890,7 @@
     {
       "id": "peanut_lake",
       "waterBodyName": "Peanut Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -1812,7 +1903,7 @@
     {
       "id": "peppers_lake",
       "waterBodyName": "Peppers Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1825,7 +1916,7 @@
     {
       "id": "petite_lake",
       "waterBodyName": "Petite Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1838,7 +1929,7 @@
     {
       "id": "phyllis_lake",
       "waterBodyName": "Phyllis Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1847,6 +1938,45 @@
       "mwaId": "5569",
       "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5569",
       "excerpt": " this scenic little foothills lake is suited to canoeing, fishing and boating with electric powered motors. there are about 20 sites, most of which are open to each other and face the lake. they are suited for both rvs and tents."
+    },
+    {
+      "id": "pierre_greys_lakes_lower",
+      "waterBodyName": "Pierre Greys Lakes (Lower)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6534",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6534",
+      "excerpt": " electric motor or hand launch boats allowed on the lake."
+    },
+    {
+      "id": "pierre_greys_lakes_middle",
+      "waterBodyName": "Pierre Greys Lakes (Middle)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6533",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6533",
+      "excerpt": " electric motor or hand launch boats allowed on the lake."
+    },
+    {
+      "id": "pierre_greys_lakes_upper",
+      "waterBodyName": "Pierre Greys Lakes (Upper)",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5572",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5572",
+      "excerpt": " electric motor or hand launch boats allowed on the lake."
     },
     {
       "id": "pine_coulee_reservoir",
@@ -1864,7 +1994,7 @@
     {
       "id": "pit_24",
       "waterBodyName": "Pit 24",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1877,7 +2007,7 @@
     {
       "id": "pit_35",
       "waterBodyName": "Pit 35",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1890,7 +2020,7 @@
     {
       "id": "pit_44",
       "waterBodyName": "Pit 44",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1903,7 +2033,7 @@
     {
       "id": "pit_45",
       "waterBodyName": "Pit 45",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1916,7 +2046,7 @@
     {
       "id": "pleasure_island_reservoir",
       "waterBodyName": "Pleasure Island Reservoir",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1929,7 +2059,7 @@
     {
       "id": "ponoka_centennial_park",
       "waterBodyName": "Ponoka Centennial Park",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -1942,7 +2072,7 @@
     {
       "id": "radway_fish_pond",
       "waterBodyName": "Radway Fish Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1955,7 +2085,7 @@
     {
       "id": "rainbow_lake_pond",
       "waterBodyName": "Rainbow Lake Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1994,7 +2124,7 @@
     {
       "id": "reesor_lake",
       "waterBodyName": "Reesor Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2007,7 +2137,7 @@
     {
       "id": "riverstone_pond",
       "waterBodyName": "Riverstone Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2018,9 +2148,22 @@
       "excerpt": " riverstone pond located in william pearce park."
     },
     {
+      "id": "rocky_childrens_pond",
+      "waterBodyName": "Rocky Children's Pond",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "3485",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=3485",
+      "excerpt": " fish game pond is a little fishing hole for children located in the community of rocky mountain house."
+    },
+    {
       "id": "running_lake",
       "waterBodyName": "Running Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2046,7 +2189,7 @@
     {
       "id": "sardine_lake",
       "waterBodyName": "Sardine Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2059,7 +2202,7 @@
     {
       "id": "sauer_lake",
       "waterBodyName": "Sauer Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2072,7 +2215,7 @@
     {
       "id": "schuman_lake",
       "waterBodyName": "Schuman Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2098,7 +2241,7 @@
     {
       "id": "shell_true_north_pond",
       "waterBodyName": "Shell True North Pond",
-      "previousDifficulty": 4,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2111,7 +2254,7 @@
     {
       "id": "shemeluk_lake",
       "waterBodyName": "Shemeluk Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2124,7 +2267,7 @@
     {
       "id": "shunda_lake_fish_lake",
       "waterBodyName": "Shunda Lake (Fish Lake)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -2137,7 +2280,7 @@
     {
       "id": "shuster_lake",
       "waterBodyName": "Shuster Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2187,6 +2330,20 @@
       "excerpt": " this lake is a reclaimed mine site."
     },
     {
+      "id": "sparrows_egg_lake",
+      "waterBodyName": "Sparrow's Egg Lake",
+      "previousDifficulty": 1,
+      "difficulty": 5,
+      "source": "mywildalberta",
+      "reasons": [
+        "helicopter stocked",
+        "trail/hike access"
+      ],
+      "mwaId": "5858",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5858",
+      "excerpt": " sparrows egg lake was stocked in fall 2025 with 900 cutthroat trout. this remote lake, located west of calgary in kananaskis country, is stocked by helicopter every two years. it’s a hike-in destination, offering anglers a pristine backcou"
+    },
+    {
       "id": "spring_coulee_park_pond",
       "waterBodyName": "Spring Coulee Park Pond",
       "previousDifficulty": 2,
@@ -2202,7 +2359,7 @@
     {
       "id": "spring_lake_cottage",
       "waterBodyName": "Spring Lake (Cottage)",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2215,7 +2372,7 @@
     {
       "id": "spruce_coulee_reservoir",
       "waterBodyName": "Spruce Coulee Reservoir",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -2241,7 +2398,7 @@
     {
       "id": "star_lake",
       "waterBodyName": "Star Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2252,9 +2409,22 @@
       "excerpt": " this lake has a few private cabins surrounding it. yellow perch are present in the lake."
     },
     {
+      "id": "stirling_childrens_pond",
+      "waterBodyName": "Stirling Children's Pond",
+      "previousDifficulty": 1,
+      "difficulty": 1,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6682",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6682",
+      "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
       "id": "strathmore_childrens_pond",
       "waterBodyName": "Strathmore Children's Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2267,7 +2437,7 @@
     {
       "id": "strubel_lake",
       "waterBodyName": "Strubel Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2280,7 +2450,7 @@
     {
       "id": "sulphur_lake",
       "waterBodyName": "Sulphur Lake",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2293,7 +2463,7 @@
     {
       "id": "swan_lake",
       "waterBodyName": "Swan Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2302,6 +2472,32 @@
       "mwaId": "5944",
       "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5944",
       "excerpt": " most of the campsites are surrounded by pine and spruce trees that provide good privacy with a few choice sites located next to the lake for fishing."
+    },
+    {
+      "id": "taber_trout_pond",
+      "waterBodyName": "Taber Trout Pond",
+      "previousDifficulty": 1,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "318138",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=318138",
+      "excerpt": " camp at the pond in one of the nine sites, and throw your line into the stocked pond."
+    },
+    {
+      "id": "tay_lake",
+      "waterBodyName": "Tay Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "5968",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=5968",
+      "excerpt": " the lake can only be accessed by foot or off road vehicle."
     },
     {
       "id": "telegraph_park_pond",
@@ -2319,7 +2515,7 @@
     {
       "id": "texaco_east_pond",
       "waterBodyName": "Texaco East Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2332,7 +2528,7 @@
     {
       "id": "texaco_pond",
       "waterBodyName": "Texaco Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2345,7 +2541,7 @@
     {
       "id": "tim_horton_childrens_pond",
       "waterBodyName": "Tim Horton Children's Pond",
-      "previousDifficulty": 4,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "fallback",
       "reasons": [
@@ -2370,9 +2566,22 @@
       "excerpt": " twin lakes campground is a popular campground for fishing enthusiasts. the boat launch makes it easy to get into the lake for fishing trout and perch, and the wheelchair-accessible pier is great for those looking to cast from shore."
     },
     {
+      "id": "twin_lakes_east_twin",
+      "waterBodyName": "Twin Lakes (East Twin)",
+      "previousDifficulty": 1,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6044",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6044",
+      "excerpt": " the lake is excellent for canoeing and non-motorized boats with lots of wildlife viewing opportunities. fish for trout, hike the loop trail to the second lake or take a dip in the cool deep waters."
+    },
+    {
       "id": "two_hills_pond",
       "waterBodyName": "Two Hills Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2385,7 +2594,7 @@
     {
       "id": "valleyview_childrens_pond",
       "waterBodyName": "Valleyview Children's Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "fallback",
       "reasons": [
@@ -2399,7 +2608,7 @@
     {
       "id": "vegreville_childrens_pond",
       "waterBodyName": "Vegreville Children's Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2412,7 +2621,7 @@
     {
       "id": "vegreville_trout_pond",
       "waterBodyName": "Vegreville Trout Pond",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2423,9 +2632,22 @@
       "excerpt": " this pond is located right outside of vegreville. on the east side of the pond fishing is more accessible, due to a cleaner shoreline that is free from debris."
     },
     {
+      "id": "victor_lake",
+      "waterBodyName": "Victor Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6086",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6086",
+      "excerpt": " no motorized boats are permitted on this waterbody."
+    },
+    {
       "id": "wallace_park_pond",
       "waterBodyName": "Wallace Park Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2438,7 +2660,7 @@
     {
       "id": "weberville_pond",
       "waterBodyName": "Weberville Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -2451,7 +2673,7 @@
     {
       "id": "west_dollar_lake",
       "waterBodyName": "West Dollar Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2477,7 +2699,7 @@
     {
       "id": "wetaskiwin_pond",
       "waterBodyName": "Wetaskiwin Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2490,7 +2712,7 @@
     {
       "id": "whitecourt_town_pond",
       "waterBodyName": "Whitecourt Town Pond",
-      "previousDifficulty": 2,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2516,7 +2738,7 @@
     {
       "id": "wildhorse_lakes_lower",
       "waterBodyName": "Wildhorse Lakes (Lower)",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2555,7 +2777,7 @@
     {
       "id": "winchell_lake",
       "waterBodyName": "Winchell Lake",
-      "previousDifficulty": 2,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2581,7 +2803,7 @@
     {
       "id": "wolf_creek_pond",
       "waterBodyName": "Wolf Creek Pond",
-      "previousDifficulty": 3,
+      "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
       "reasons": [
@@ -2590,6 +2812,19 @@
       "mwaId": "6626",
       "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6626",
       "excerpt": " this pond is off nestled in the trees just of the highway."
+    },
+    {
+      "id": "yellowhead_lake",
+      "waterBodyName": "Yellowhead Lake",
+      "previousDifficulty": 1,
+      "difficulty": 3,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "6601",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6601",
+      "excerpt": " there is a low risk of winter kill at this lake. access roads are poor at all times of the year. an off-road vehicle is mandatory and you must walk the last 200m to the lake. electric motors only. no overnight camping permitted."
     }
   ]
 }

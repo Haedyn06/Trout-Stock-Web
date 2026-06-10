@@ -1,7 +1,7 @@
 {
   "dataFile": "fish-waters.json",
   "reportSource": "Alberta Fish Stocking Report 2026",
-  "reportLastUpdated": "2026-06-01",
+  "reportLastUpdated": "2026-06-08",
   "difficulty": {
     "scale": {
       "1": "Easy — urban/community ponds, full facilities, roadside access",
@@ -12,7 +12,7 @@
     },
     "source": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx",
     "methodology": "Ratings derived from My Wild Alberta stocking map site amenities and descriptions (access, remoteness, facilities), with name/type heuristics and manual overrides where MWA has no listing.",
-    "lastAssigned": "2026-06-01",
+    "lastAssigned": "2026-06-08",
     "assignmentsFile": "difficulty-assignments.json"
   }
 }

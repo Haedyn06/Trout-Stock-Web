@@ -76,6 +76,36 @@ const MANUAL_ALIASES = {
   'Wildhorse Lakes (Lower)': 'Lower Wildhorse Lakes',
   'Wildhorse Lakes (Upper)': 'Upper Wildhorse Lakes ',
   'Wildwood Pond': 'Wildwood Pond (Stones Pond)',
+  'Champion Lakes (Lower)': 'Champion Lakes Lower',
+  'Champion Lakes (Upper)': 'Champion Lakes Upper',
+  'Magrath Childrens Pond': "Magrath Children's Pond",
+  "Pierre Greys Lakes (Lower)": 'Pierre Greys Lakes (Lower) #1',
+  'Pierre Greys Lakes (Middle)': 'Pierre Greys Lakes (Middle) #2',
+  'Pierre Greys Lakes (Upper)': 'Pierre Greys Lakes (Upper) #3',
+  "Sparrow's Egg Lake": 'Sparrows Egg Lake',
+  "Stirling Children's Pond": "Stirling Children's Pond",
+  'Twin Lakes (East Twin)': 'East Twin Lake',
+}
+
+/** water id -> MWA listing id when name matching is unreliable */
+const MANUAL_MWA_IDS = {
+  birch_lake: '4061',
+  champion_lakes_lower: '6607',
+  champion_lakes_upper: '6608',
+  magrath_childrens_pond: '317719',
+  margaret_lake: '5223',
+  mary_gregg_lake: '5245',
+  pierre_greys_lakes_lower: '6534',
+  pierre_greys_lakes_middle: '6533',
+  pierre_greys_lakes_upper: '5572',
+  rocky_childrens_pond: '3485',
+  sparrows_egg_lake: '5858',
+  stirling_childrens_pond: '6682',
+  taber_trout_pond: '318138',
+  tay_lake: '5968',
+  twin_lakes_east_twin: '6044',
+  victor_lake: '6086',
+  yellowhead_lake: '6601',
 }
 
 function haversineKm(lat1, lng1, lat2, lng2) {
@@ -317,6 +347,15 @@ async function main() {
   const unmatched = []
 
   for (const water of waters) {
+    const manualId = MANUAL_MWA_IDS[water.id]
+    if (manualId) {
+      const entry = lookup.mwaEntries.find((item) => item.id === manualId)
+      if (entry) {
+        matches.push({ water, mwa: entry, method: 'manual-id' })
+        continue
+      }
+    }
+
     const hit = findMwaMatch(water.waterBodyName, lookup)
     if (hit) {
       matches.push({ water, mwa: hit.entry, method: hit.method })

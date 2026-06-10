@@ -17,6 +17,12 @@
     "combined": " there is a paved trail around the pond for easy wheelchair accessibility. day use areas are well treed. the ponds are stocked 3-4 times in spring and early summer with trout.",
     "fetchedAt": "2026-06-05T03:48:43.341Z"
   },
+  "3485": {
+    "amenities": "",
+    "description": "Fish Game Pond is a little fishing hole for children located in the community of Rocky Mountain House.",
+    "combined": " fish game pond is a little fishing hole for children located in the community of rocky mountain house.",
+    "fetchedAt": "2026-06-09T19:24:34.468Z"
+  },
   "3486": {
     "amenities": "",
     "description": "This small pond surrounded by aspen groves is named after Frank Sibbald, a long time rancher who settled in the area in 1875. It is a perfect place to stop, relax and enjoy the foothills environment. You can walk the easy trail along the shore to cast a line and try a little fishing, or simply sit and enjoy a snack at the picnic area.",
@@ -58,6 +64,12 @@
     "description": "Foot access only all year around (weather permitting). After the September long weekend, the services offered at the campsite are reduced.",
     "combined": " foot access only all year around (weather permitting). after the september long weekend, the services offered at the campsite are reduced.",
     "fetchedAt": "2026-06-05T03:48:45.812Z"
+  },
+  "4061": {
+    "amenities": "",
+    "description": "Birch lake lacks a formal boat launch. Recreational users must carry their watercraft to the shoreline and hand-launch directly from the shore. To preserve the natural environment and ensure a quiet experience for all visitors, gas-powered motors are prohibited. Additionally, overnight camping is not permitted at this location.",
+    "combined": " birch lake lacks a formal boat launch. recreational users must carry their watercraft to the shoreline and hand-launch directly from the shore. to preserve the natural environment and ensure a quiet experience for all visitors, gas-powered motors are prohibited. additionally, overnight camping is not permitted at this location.",
+    "fetchedAt": "2026-06-09T19:24:34.000Z"
   },
   "4171": {
     "amenities": "",
@@ -173,6 +185,18 @@
     "combined": " access is very poor for launching larger watercrafts. parking is close to lake so you may carry your hand launch type watercraft to the waters edge.",
     "fetchedAt": "2026-06-05T03:48:42.556Z"
   },
+  "5223": {
+    "amenities": "",
+    "description": "Access to Margaret Lake is via the Forestry Trunk Road, continuing onto Waiparous Valley Road, which is very rough. The road terminates at a cutline, and the lake is accessible by ATV or UTV. The route leads directly to the lake, with an easy walk from the parking area to the waterbody. Travel time varies depending on road and trail conditions.",
+    "combined": " access to margaret lake is via the forestry trunk road, continuing onto waiparous valley road, which is very rough. the road terminates at a cutline, and the lake is accessible by atv or utv. the route leads directly to the lake, with an easy walk from the parking area to the waterbody. travel time varies depending on road and trail conditions.",
+    "fetchedAt": "2026-06-09T19:24:34.369Z"
+  },
+  "5245": {
+    "amenities": "",
+    "description": "Mary Gregg Lake is a popular fishing lake for local fishermen.",
+    "combined": " mary gregg lake is a popular fishing lake for local fishermen.",
+    "fetchedAt": "2026-06-09T19:24:34.270Z"
+  },
   "5286": {
     "amenities": "",
     "description": "Carson-Pegasus Provincial Park at McLeod Lake includes a campground featuring 182 campsites, day use sites, and a group use site, and offers winter camping. Other recreational activities at the provincial park and lake include bird-watching, canoeing/kayaking, cross-country skiing, fishing, hiking, horseshoes, ice fishing, power boating, swimming.",
@@ -257,6 +281,12 @@
     "combined": " this scenic little foothills lake is suited to canoeing, fishing and boating with electric powered motors. there are about 20 sites, most of which are open to each other and face the lake. they are suited for both rvs and tents.",
     "fetchedAt": "2026-06-05T03:48:44.437Z"
   },
+  "5572": {
+    "amenities": "",
+    "description": "Electric motor or hand launch boats allowed on the lake.",
+    "combined": " electric motor or hand launch boats allowed on the lake.",
+    "fetchedAt": "2026-06-09T19:24:34.751Z"
+  },
   "5661": {
     "amenities": "",
     "description": "This is a large spring-fed lake in Cypress Hills Provincial Park.",
@@ -299,6 +329,12 @@
     "combined": " the lake is a day use area.",
     "fetchedAt": "2026-06-05T03:48:45.552Z"
   },
+  "5858": {
+    "amenities": "",
+    "description": "Sparrows Egg Lake was stocked in fall 2025 with 900 cutthroat trout. This remote lake, located west of Calgary in Kananaskis Country, is stocked by helicopter every two years. It’s a hike-in destination, offering anglers a pristine backcountry experience.",
+    "combined": " sparrows egg lake was stocked in fall 2025 with 900 cutthroat trout. this remote lake, located west of calgary in kananaskis country, is stocked by helicopter every two years. it’s a hike-in destination, offering anglers a pristine backcountry experience.",
+    "fetchedAt": "2026-06-09T19:24:34.421Z"
+  },
   "5874": {
     "amenities": "",
     "description": "Public access is available for fishing.",
@@ -329,17 +365,35 @@
     "combined": " most of the campsites are surrounded by pine and spruce trees that provide good privacy with a few choice sites located next to the lake for fishing.",
     "fetchedAt": "2026-06-05T03:48:46.135Z"
   },
+  "5968": {
+    "amenities": "",
+    "description": "The lake can only be accessed by foot or off road vehicle.",
+    "combined": " the lake can only be accessed by foot or off road vehicle.",
+    "fetchedAt": "2026-06-09T19:24:34.752Z"
+  },
   "6039": {
     "amenities": "",
     "description": "Twin Lakes Campground is a popular campground for fishing enthusiasts. The boat launch makes it easy to get into the lake for fishing trout and perch, and the wheelchair-accessible pier is great for those looking to cast from shore.",
     "combined": " twin lakes campground is a popular campground for fishing enthusiasts. the boat launch makes it easy to get into the lake for fishing trout and perch, and the wheelchair-accessible pier is great for those looking to cast from shore.",
     "fetchedAt": "2026-06-05T03:48:46.422Z"
   },
+  "6044": {
+    "amenities": "",
+    "description": "The lake is excellent for canoeing and non-motorized boats with lots of wildlife viewing opportunities. Fish for trout, hike the loop trail to the second lake or take a dip in the cool deep waters.",
+    "combined": " the lake is excellent for canoeing and non-motorized boats with lots of wildlife viewing opportunities. fish for trout, hike the loop trail to the second lake or take a dip in the cool deep waters.",
+    "fetchedAt": "2026-06-09T19:24:34.560Z"
+  },
   "6082": {
     "amenities": "",
     "description": "This pond is in Vermilion Provincial Park. Users are subject to Vermilion Provincial Park restrictions.",
     "combined": " this pond is in vermilion provincial park. users are subject to vermilion provincial park restrictions.",
     "fetchedAt": "2026-06-05T03:48:38.858Z"
+  },
+  "6086": {
+    "amenities": "",
+    "description": "No motorized boats are permitted on this waterbody.",
+    "combined": " no motorized boats are permitted on this waterbody.",
+    "fetchedAt": "2026-06-09T19:24:34.676Z"
   },
   "6160": {
     "amenities": "",
@@ -365,11 +419,41 @@
     "combined": " chain lakes campground is located in chain lakes provincial recreation area. this small lake is stocked annually, providing a great opportunity to fish from shore, canoe, or electric powered boat. check your local regulations before you go.",
     "fetchedAt": "2026-06-05T03:48:38.051Z"
   },
+  "6533": {
+    "amenities": "",
+    "description": "Electric motor or hand launch boats allowed on the lake.",
+    "combined": " electric motor or hand launch boats allowed on the lake.",
+    "fetchedAt": "2026-06-09T19:24:34.270Z"
+  },
+  "6534": {
+    "amenities": "",
+    "description": "Electric motor or hand launch boats allowed on the lake.",
+    "combined": " electric motor or hand launch boats allowed on the lake.",
+    "fetchedAt": "2026-06-09T19:24:34.245Z"
+  },
   "6537": {
     "amenities": "",
     "description": "Wildhorse Lake provides a hand launch.",
     "combined": " wildhorse lake provides a hand launch.",
     "fetchedAt": "2026-06-05T03:48:46.945Z"
+  },
+  "6601": {
+    "amenities": "",
+    "description": "There is a low risk of winter kill at this lake. Access roads are poor at all times of the year. An off-road vehicle is mandatory and you must walk the last 200m to the lake. Electric motors only. No overnight camping permitted.",
+    "combined": " there is a low risk of winter kill at this lake. access roads are poor at all times of the year. an off-road vehicle is mandatory and you must walk the last 200m to the lake. electric motors only. no overnight camping permitted.",
+    "fetchedAt": "2026-06-09T19:24:34.648Z"
+  },
+  "6607": {
+    "amenities": "",
+    "description": "Upper and Lower Champion Lake are Heli-stocked A short walk from McLean Creek Trail (range road 51A) will bring you to the lake The trail is closed from December to May.",
+    "combined": " upper and lower champion lake are heli-stocked a short walk from mclean creek trail (range road 51a) will bring you to the lake the trail is closed from december to may.",
+    "fetchedAt": "2026-06-09T19:24:34.186Z"
+  },
+  "6608": {
+    "amenities": "",
+    "description": "Upper and Lower Champion Lake are Heli-stocked each year. A short walk from McLean Creek Trail (range road 51A) will bring you to the lake. The trail is closed from December to May.",
+    "combined": " upper and lower champion lake are heli-stocked each year. a short walk from mclean creek trail (range road 51a) will bring you to the lake. the trail is closed from december to may.",
+    "fetchedAt": "2026-06-09T19:24:34.242Z"
   },
   "6609": {
     "amenities": "",
@@ -502,6 +586,12 @@
     "description": "ACA annually stocks this pond with trout, typically before the May long weekend.",
     "combined": " aca annually stocks this pond with trout, typically before the may long weekend.",
     "fetchedAt": "2026-06-05T03:48:46.214Z"
+  },
+  "6682": {
+    "amenities": "",
+    "description": "ACA annually stocks this pond with trout, typically before the May long weekend.",
+    "combined": " aca annually stocks this pond with trout, typically before the may long weekend.",
+    "fetchedAt": "2026-06-09T19:24:34.691Z"
   },
   "6684": {
     "amenities": "",
@@ -1114,6 +1204,18 @@
     "description": "This pond is in the south west corner of Fort Saskatchewan's West River's Edge Recreational Area and is maintained and managed by the city of Fort Saskatchewan. This pond is stocked with trout by ACA.",
     "combined": " this pond is in the south west corner of fort saskatchewan's west river's edge recreational area and is maintained and managed by the city of fort saskatchewan. this pond is stocked with trout by aca.",
     "fetchedAt": "2026-06-05T03:48:46.513Z"
+  },
+  "317719": {
+    "amenities": "",
+    "description": "This is a children's fishing pond, only youth 16 and under may fish the pond.",
+    "combined": " this is a children's fishing pond, only youth 16 and under may fish the pond.",
+    "fetchedAt": "2026-06-09T19:24:34.214Z"
+  },
+  "318138": {
+    "amenities": "",
+    "description": "Camp at the pond in one of the nine sites, and throw your line into the stocked pond.",
+    "combined": " camp at the pond in one of the nine sites, and throw your line into the stocked pond.",
+    "fetchedAt": "2026-06-09T19:24:34.691Z"
   },
   "328085": {
     "amenities": "",
