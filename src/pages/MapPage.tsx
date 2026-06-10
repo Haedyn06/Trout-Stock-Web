@@ -4,7 +4,7 @@ import { MapContainer, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import '../utils/leafletIcons'
 import { fishWaters, getFishWaterById } from '../data/loadFishWaters'
-import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '../types/fishWater'
+import type { AlbertaRegion, FishTypeKey, ReferenceCity, WaterBodyType } from '../types/fishWater'
 import { DEFAULT_DISTANCE_KM } from '../types/fishWater'
 import FocusedWaterMarker from '../components/FocusedWaterMarker'
 import MapFilters from '../components/MapFilters'
@@ -35,7 +35,7 @@ export default function MapPage() {
 
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
   const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
-  const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
+  const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])
   const [selectedDifficulties, setSelectedDifficulties] = useState<number[]>([])

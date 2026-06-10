@@ -22,6 +22,10 @@ export function hasTroutType(water: FishWater, troutKey: TroutTypeKey): boolean 
   return water.fishTypes[troutKey].population > 0
 }
 
+export function hasFishType(water: FishWater, fishKey: FishTypeKey): boolean {
+  return water.fishTypes[fishKey].population > 0
+}
+
 export function getFishTypeLabel(key: FishTypeKey): string {
   return ALL_FISH_TYPES.find((t) => t.key === key)?.label ?? key
 }
@@ -37,11 +41,11 @@ export function filterByDistance(
 
 export function filterByTroutTypes(
   waters: FishWater[],
-  selectedTrout: TroutTypeKey[],
+  selectedFishTypes: FishTypeKey[],
 ): FishWater[] {
-  if (selectedTrout.length === 0) return waters
+  if (selectedFishTypes.length === 0) return waters
   return waters.filter((w) =>
-    selectedTrout.every((key) => hasTroutType(w, key)),
+    selectedFishTypes.every((key) => hasFishType(w, key)),
   )
 }
 

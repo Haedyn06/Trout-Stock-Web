@@ -1,10 +1,10 @@
 import { useMemo, useRef, useState } from 'react'
 import { fishWaters } from '../data/loadFishWaters'
 import type {
+  FishTypeKey,
   ReferenceCity,
   SortDirection,
   SortField,
-  TroutTypeKey,
   WaterBodyType,
 } from '../types/fishWater'
 import { DEFAULT_DISTANCE_KM, DEFAULT_SORT_DIRECTION } from '../types/fishWater'
@@ -30,7 +30,7 @@ export default function HomePage() {
     DEFAULT_SORT_DIRECTION.name,
   )
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
-  const [selectedTrout, setSelectedTrout] = useState<TroutTypeKey[]>([])
+  const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [selectedDifficulties, setSelectedDifficulties] = useState<number[]>([])
   const [searchQuery, setSearchQuery] = useState('')
   const [page, setPage] = useState(1)

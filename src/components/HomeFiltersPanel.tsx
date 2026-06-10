@@ -1,8 +1,8 @@
 import type {
+  FishTypeKey,
   ReferenceCity,
   SortDirection,
   SortField,
-  TroutTypeKey,
   WaterBodyType,
 } from '../types/fishWater'
 import DifficultyFilter from './DifficultyFilter'
@@ -28,8 +28,8 @@ interface HomeFiltersPanelProps {
   onSortDirectionChange: (direction: SortDirection) => void
   selectedTypes: WaterBodyType[]
   onSelectedTypesChange: (types: WaterBodyType[]) => void
-  selectedTrout: TroutTypeKey[]
-  onSelectedTroutChange: (types: TroutTypeKey[]) => void
+  selectedTrout: FishTypeKey[]
+  onSelectedTroutChange: (types: FishTypeKey[]) => void
   selectedDifficulties: number[]
   onSelectedDifficultiesChange: (levels: number[]) => void
 }
@@ -104,7 +104,7 @@ export default function HomeFiltersPanel({
           />
         </FilterSection>
 
-        <FilterSection title="Trout species">
+        <FilterSection title="Fish species">
           <TroutTypeFilter
             selected={selectedTrout}
             onChange={onSelectedTroutChange}

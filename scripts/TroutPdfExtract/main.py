@@ -192,6 +192,7 @@ tables = camelot.read_pdf(
 )
 
 waterbodies = {}
+seen_rows = set()
 
 for table in tables:
 
@@ -227,6 +228,17 @@ for table in tables:
         fish_key = SPECIES_MAP[
             species_code
         ]
+
+        row_key = (
+            name,
+            ats,
+            species_code,
+            population,
+            stock_date,
+        )
+        if row_key in seen_rows:
+            continue
+        seen_rows.add(row_key)
 
         water_id = make_id(name)
 

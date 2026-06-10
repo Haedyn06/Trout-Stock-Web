@@ -1,4 +1,4 @@
-import type { AlbertaRegion, ReferenceCity, TroutTypeKey, WaterBodyType } from '../types/fishWater'
+import type { AlbertaRegion, FishTypeKey, ReferenceCity, WaterBodyType } from '../types/fishWater'
 import AlbertaRegionFilter from './AlbertaRegionFilter'
 import DifficultyFilter from './DifficultyFilter'
 import DistanceFilter from './DistanceFilter'
@@ -15,8 +15,8 @@ export interface MapFiltersProps {
   onSelectedTypesChange: (types: WaterBodyType[]) => void
   selectedRegions: AlbertaRegion[]
   onSelectedRegionsChange: (regions: AlbertaRegion[]) => void
-  selectedTrout: TroutTypeKey[]
-  onSelectedTroutChange: (types: TroutTypeKey[]) => void
+  selectedTrout: FishTypeKey[]
+  onSelectedTroutChange: (types: FishTypeKey[]) => void
   selectedDifficulties: number[]
   onSelectedDifficultiesChange: (levels: number[]) => void
 }
@@ -37,7 +37,7 @@ export default function MapFilters({
 }: MapFiltersProps) {
   return (
     <div className="filters-panel__grid filters-panel__grid--map">
-      <FilterSection title="Trout species">
+      <FilterSection title="Fish species">
         <TroutTypeFilter
           selected={selectedTrout}
           onChange={onSelectedTroutChange}

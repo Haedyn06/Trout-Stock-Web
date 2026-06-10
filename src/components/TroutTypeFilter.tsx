@@ -1,9 +1,9 @@
-import type { TroutTypeKey } from '../types/fishWater'
-import { TROUT_TYPES } from '../types/fishWater'
+import type { FishTypeKey } from '../types/fishWater'
+import { ALL_FISH_TYPES } from '../types/fishWater'
 
 interface TroutTypeFilterProps {
-  selected: TroutTypeKey[]
-  onChange: (types: TroutTypeKey[]) => void
+  selected: FishTypeKey[]
+  onChange: (types: FishTypeKey[]) => void
   hideLabel?: boolean
 }
 
@@ -12,7 +12,7 @@ export default function TroutTypeFilter({
   onChange,
   hideLabel = false,
 }: TroutTypeFilterProps) {
-  function toggle(key: TroutTypeKey) {
+  function toggle(key: FishTypeKey) {
     onChange(
       selected.includes(key)
         ? selected.filter((t) => t !== key)
@@ -22,9 +22,9 @@ export default function TroutTypeFilter({
 
   return (
     <div className="filter-group">
-      {!hideLabel && <span className="filter-label">Trout species present</span>}
+      {!hideLabel && <span className="filter-label">Fish species present</span>}
       <div className="trout-filter-chips">
-        {TROUT_TYPES.map(({ key, label }) => (
+        {ALL_FISH_TYPES.map(({ key, label }) => (
           <label key={key} className="chip">
             <input
               type="checkbox"

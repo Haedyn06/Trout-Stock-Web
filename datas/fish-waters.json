@@ -3544,7 +3544,7 @@
     "waterBodyName": "Frog Lake",
     "avgLength": 0.4,
     "latestStockDate": "2026-06-03",
-    "population": 2495754,
+    "population": 1247877,
     "difficulty": 3,
     "location": {
       "name": "NE14-57-3-W4",
@@ -3582,17 +3582,12 @@
         "lastPopulatedDate": ""
       },
       "walleye": {
-        "population": 2495754,
+        "population": 1247877,
         "avgLength": 0.4,
         "lastPopulatedDate": "2026-06-03"
       }
     },
     "logs": [
-      {
-        "stockDate": "2026-06-03",
-        "typeOfFish": "walleye",
-        "amountPopulated": 1247877
-      },
       {
         "stockDate": "2026-06-03",
         "typeOfFish": "walleye",
