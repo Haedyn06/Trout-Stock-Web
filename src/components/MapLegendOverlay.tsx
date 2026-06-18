@@ -2,10 +2,15 @@ import { useEffect, useState, type MouseEvent, type TouchEvent } from 'react'
 import type { MapFiltersProps } from './MapFilters'
 import MapFilters from './MapFilters'
 import useMediaQuery from '../hooks/useMediaQuery'
+import WaterSearchBar from './WaterSearchBar'
 
 interface MapLegendOverlayProps extends MapFiltersProps {
   markerCount: number
   onClose: () => void
+  searchQuery: string
+  onSearchQueryChange: (value: string) => void
+  searchResultCount: number
+  searchTotalCount: number
 }
 
 function stopSummaryToggle(event: MouseEvent | TouchEvent) {
@@ -16,6 +21,10 @@ function stopSummaryToggle(event: MouseEvent | TouchEvent) {
 export default function MapLegendOverlay({
   markerCount,
   onClose,
+  searchQuery,
+  onSearchQueryChange,
+  searchResultCount,
+  searchTotalCount,
   ...filterProps
 }: MapLegendOverlayProps) {
   const isMobile = useMediaQuery('(max-width: 640px)')
@@ -72,6 +81,14 @@ export default function MapLegendOverlay({
 
         <div className="map-legend__inner">
           <div className="map-legend__body">
+            <div className="filters-panel__search map-legend__search">
+              <WaterSearchBar
+                value={searchQuery}
+                onChange={onSearchQueryChange}
+                resultCount={searchResultCount}
+                totalCount={searchTotalCount}
+              />
+            </div>
             <MapFilters {...filterProps} />
           </div>
 

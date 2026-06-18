@@ -6,6 +6,8 @@ export interface SiteMeta {
   reportLastUpdated: string
   totalFishStocked: number
   watersStocked: number
+  recentStockingFrom: string
+  recentStockingTo: string
 }
 
 export const siteMeta: SiteMeta = siteMetaData as SiteMeta

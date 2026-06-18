@@ -92,7 +92,7 @@ const MANUAL_ALIASES = {
 }
 
 /** water ids that must not fuzzy-match to a different MWA listing (use ATS / manual coords) */
-const ATS_ONLY_IDS = new Set(['spring_lake'])
+const ATS_ONLY_IDS = new Set(['spring_lake', 'sibbald_lake'])
 
 /** water id -> MWA listing id when name matching is unreliable */
 const MANUAL_MWA_IDS = {

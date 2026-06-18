@@ -11,9 +11,11 @@ import MapFilters from '../components/MapFilters'
 import MapLegendOverlay from '../components/MapLegendOverlay'
 import MapResizeHandler from '../components/MapResizeHandler'
 import WaterMapMarkers from '../components/WaterMapMarkers'
+import WaterSearchBar from '../components/WaterSearchBar'
 import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
   filterByDistance,
+  filterBySearchQuery,
   filterByTroutTypes,
 } from '../utils/fishWater'
 
@@ -35,6 +37,7 @@ export default function MapPage() {
   const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])
+  const [searchQuery, setSearchQuery] = useState('')
   const [isFullscreen, setIsFullscreen] = useState(false)
 
   const filteredWaters = useMemo(() => {
@@ -42,12 +45,14 @@ export default function MapPage() {
       return [focusWater]
     }
 
-    let result = filterByDistance(fishWaters, referenceCity, maxDistance)
+    let result = filterBySearchQuery(fishWaters, searchQuery)
+    result = filterByDistance(result, referenceCity, maxDistance)
     result = filterByAlbertaRegions(result, selectedRegions)
     result = filterByTroutTypes(result, selectedTrout)
     return result
   }, [
     focusWater,
+    searchQuery,
     referenceCity,
     maxDistance,
     selectedRegions,
@@ -85,6 +90,13 @@ export default function MapPage() {
     onSelectedTroutChange: setSelectedTrout,
   }
 
+  const searchProps = {
+    searchQuery,
+    onSearchQueryChange: setSearchQuery,
+    searchResultCount: filteredWaters.length,
+    searchTotalCount: fishWaters.length,
+  }
+
   const mapShell = (
     <div className={`map-shell${isFullscreen ? ' map-shell--fullscreen' : ''}`}>
       {isFocused && focusWater && (
@@ -112,6 +124,7 @@ export default function MapPage() {
           markerCount={filteredWaters.length}
           onClose={() => setIsFullscreen(false)}
           {...filterProps}
+          {...searchProps}
         />
       )}
 
@@ -166,6 +179,14 @@ export default function MapPage() {
 
           {!isFocused && (
             <section className="filters-panel map-filters" aria-label="Map filters">
+              <div className="filters-panel__search">
+                <WaterSearchBar
+                  value={searchProps.searchQuery}
+                  onChange={searchProps.onSearchQueryChange}
+                  resultCount={searchProps.searchResultCount}
+                  totalCount={searchProps.searchTotalCount}
+                />
+              </div>
               <MapFilters {...filterProps} />
             </section>
           )}

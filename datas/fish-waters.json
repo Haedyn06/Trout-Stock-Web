@@ -10645,11 +10645,11 @@
     "population": 1130,
     "location": {
       "name": "NE14-24-7-W5",
-      "latitude": 51.05457,
-      "longitude": -114.944741,
+      "latitude": 51.043333,
+      "longitude": -114.849444,
       "cityRange": {
-        "calgaryKMRange": 61,
-        "edmontonKMRange": 294
+        "calgaryKMRange": 54,
+        "edmontonKMRange": 293
       }
     },
     "fishTypes": {

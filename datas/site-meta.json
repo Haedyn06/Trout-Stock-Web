@@ -3,5 +3,7 @@
   "reportSource": "Alberta Fish Stocking Report 2026",
   "reportLastUpdated": "2026-06-15",
   "totalFishStocked": 1363175,
-  "watersStocked": 238
+  "watersStocked": 238,
+  "recentStockingFrom": "2026-06-08",
+  "recentStockingTo": "2026-06-15"
 }

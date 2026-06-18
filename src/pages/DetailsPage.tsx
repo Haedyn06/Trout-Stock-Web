@@ -37,14 +37,23 @@ export default function DetailsPage() {
       </Link>
 
       <header className="details-header">
-        <div>
+        <div className="details-header__title-row">
           <h1>{water.waterBodyName}</h1>
-          <p className="water-location">{water.location.name}</p>
-          <p className="coordinates">
-            {water.location.latitude.toFixed(4)}°N,{' '}
-            {Math.abs(water.location.longitude).toFixed(4)}°W
-          </p>
+          <div className="details-header__actions">
+            <ExternalMapLinks water={water} />
+            <Link
+              to={`/map?water=${encodeURIComponent(water.id)}`}
+              className="btn btn-secondary"
+            >
+              View on Site Map
+            </Link>
+          </div>
         </div>
+        <p className="water-location">{water.location.name}</p>
+        <p className="coordinates">
+          {water.location.latitude.toFixed(4)}°N,{' '}
+          {Math.abs(water.location.longitude).toFixed(4)}°W
+        </p>
       </header>
 
       <section className="details-overview">
@@ -125,13 +134,6 @@ export default function DetailsPage() {
           </div>
         )}
       </section>
-
-      <div className="details-actions">
-        <ExternalMapLinks water={water} />
-        <Link to={`/map?water=${encodeURIComponent(water.id)}`} className="btn btn-secondary">
-          View on Site Map
-        </Link>
-      </div>
     </div>
   )
 }
