@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import type { FishWater, ReferenceCity } from '../types/fishWater'
 import ExternalMapLinks from './ExternalMapLinks'
 import FishTypeList from './FishTypeList'
-import WaterBodyTypeBadge from './WaterBodyTypeBadge'
 import { formatDate, formatNumber } from '../utils/fishWater'
 import {
   distanceFromCity,
@@ -22,10 +21,7 @@ export default function MapPopupContent({
 
   return (
     <div className="map-popup">
-      <div className="map-popup-title-row">
-        <h3>{water.waterBodyName}</h3>
-        <WaterBodyTypeBadge type={water.waterBodyType} />
-      </div>
+      <h3>{water.waterBodyName}</h3>
       <p className="map-popup-location">{water.location.name}</p>
       <p className="map-popup-distance">
         {formatDistanceFromCity(distance, referenceCity)}

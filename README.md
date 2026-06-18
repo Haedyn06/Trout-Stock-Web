@@ -15,7 +15,7 @@ An unofficial web app for quickly browsing Alberta stocked trout waters. Search 
 - **Home** — Browse all water bodies with filters, sorting, and pagination
 - **Map** — Interactive map with markers, popups, and regional filters
 - **Details** — Full fish statistics, stocking logs, and Google Maps navigation
-- **Filters** — Distance from Calgary/Edmonton, water body type, trout species, Alberta quadrant (NE/NW/SE/SW on map)
+- **Filters** — Distance from Calgary/Edmonton, fish species, Alberta quadrant (NE/NW/SE/SW on map)
 - **Sorting** — Name, population, latest stocked, distance (ascending or descending)
 
 ## Tech stack

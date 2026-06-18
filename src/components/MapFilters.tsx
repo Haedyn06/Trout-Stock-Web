@@ -1,17 +1,14 @@
-import type { AlbertaRegion, FishTypeKey, ReferenceCity, WaterBodyType } from '../types/fishWater'
+import type { AlbertaRegion, FishTypeKey, ReferenceCity } from '../types/fishWater'
 import AlbertaRegionFilter from './AlbertaRegionFilter'
 import DistanceFilter from './DistanceFilter'
 import FilterSection from './FilterSection'
 import TroutTypeFilter from './TroutTypeFilter'
-import WaterBodyTypeFilter from './WaterBodyTypeFilter'
 
 export interface MapFiltersProps {
   referenceCity: ReferenceCity
   onReferenceCityChange: (city: ReferenceCity) => void
   maxDistance: number
   onMaxDistanceChange: (distance: number) => void
-  selectedTypes: WaterBodyType[]
-  onSelectedTypesChange: (types: WaterBodyType[]) => void
   selectedRegions: AlbertaRegion[]
   onSelectedRegionsChange: (regions: AlbertaRegion[]) => void
   selectedTrout: FishTypeKey[]
@@ -23,8 +20,6 @@ export default function MapFilters({
   onReferenceCityChange,
   maxDistance,
   onMaxDistanceChange,
-  selectedTypes,
-  onSelectedTypesChange,
   selectedRegions,
   onSelectedRegionsChange,
   selectedTrout,
@@ -36,14 +31,6 @@ export default function MapFilters({
         <TroutTypeFilter
           selected={selectedTrout}
           onChange={onSelectedTroutChange}
-          hideLabel
-        />
-      </FilterSection>
-
-      <FilterSection title="Water body type">
-        <WaterBodyTypeFilter
-          selected={selectedTypes}
-          onChange={onSelectedTypesChange}
           hideLabel
         />
       </FilterSection>

@@ -4,7 +4,6 @@ import type {
   SortDirection,
   SortField,
   TroutTypeKey,
-  WaterBodyType,
 } from '../types/fishWater'
 import { ALL_FISH_TYPES, DEFAULT_DISTANCE_KM, TROUT_TYPES } from '../types/fishWater'
 import { distanceFromCity } from './distance'
@@ -47,14 +46,6 @@ export function filterByTroutTypes(
   return waters.filter((w) =>
     selectedFishTypes.every((key) => hasFishType(w, key)),
   )
-}
-
-export function filterByWaterBodyTypes(
-  waters: FishWater[],
-  selectedTypes: WaterBodyType[],
-): FishWater[] {
-  if (selectedTypes.length === 0) return waters
-  return waters.filter((w) => selectedTypes.includes(w.waterBodyType))
 }
 
 function normalizeSearchText(value: string): string {

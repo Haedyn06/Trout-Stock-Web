@@ -2,7 +2,6 @@ import { Link, useParams } from 'react-router-dom'
 import { getFishWaterById } from '../data/loadFishWaters'
 import { ALL_FISH_TYPES, type FishTypeKey } from '../types/fishWater'
 import ExternalMapLinks from '../components/ExternalMapLinks'
-import WaterBodyTypeBadge from '../components/WaterBodyTypeBadge'
 import {
   formatDate,
   formatNumber,
@@ -41,9 +40,6 @@ export default function DetailsPage() {
         <div>
           <h1>{water.waterBodyName}</h1>
           <p className="water-location">{water.location.name}</p>
-          <div className="details-meta">
-            <WaterBodyTypeBadge type={water.waterBodyType} />
-          </div>
           <p className="coordinates">
             {water.location.latitude.toFixed(4)}°N,{' '}
             {Math.abs(water.location.longitude).toFixed(4)}°W

@@ -3,13 +3,11 @@ import type {
   ReferenceCity,
   SortDirection,
   SortField,
-  WaterBodyType,
 } from '../types/fishWater'
 import DistanceFilter from './DistanceFilter'
 import FilterSection from './FilterSection'
 import SortControls from './SortControls'
 import TroutTypeFilter from './TroutTypeFilter'
-import WaterBodyTypeFilter from './WaterBodyTypeFilter'
 import WaterSearchBar from './WaterSearchBar'
 
 interface HomeFiltersPanelProps {
@@ -25,8 +23,6 @@ interface HomeFiltersPanelProps {
   sortDirection: SortDirection
   onSortFieldChange: (field: SortField) => void
   onSortDirectionChange: (direction: SortDirection) => void
-  selectedTypes: WaterBodyType[]
-  onSelectedTypesChange: (types: WaterBodyType[]) => void
   selectedTrout: FishTypeKey[]
   onSelectedTroutChange: (types: FishTypeKey[]) => void
 }
@@ -44,8 +40,6 @@ export default function HomeFiltersPanel({
   sortDirection,
   onSortFieldChange,
   onSortDirectionChange,
-  selectedTypes,
-  onSelectedTypesChange,
   selectedTrout,
   onSelectedTroutChange,
 }: HomeFiltersPanelProps) {
@@ -79,14 +73,6 @@ export default function HomeFiltersPanel({
             onCityChange={onReferenceCityChange}
             maxDistance={maxDistance}
             onMaxDistanceChange={onMaxDistanceChange}
-            hideLabel
-          />
-        </FilterSection>
-
-        <FilterSection title="Water body type">
-          <WaterBodyTypeFilter
-            selected={selectedTypes}
-            onChange={onSelectedTypesChange}
             hideLabel
           />
         </FilterSection>

@@ -566,67 +566,7 @@ select {
 
 .water-card-header h2 {
   font-size: 1.15rem;
-}
-
-.water-card-title-row {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.25rem;
-}
-
-.water-card-title-row h2 {
-  margin: 0;
-}
-
-.water-type-badge {
-  display: inline-block;
-  padding: 0.2rem 0.55rem;
-  border-radius: 999px;
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.water-type-badge--lake {
-  background: #bee3f8;
-  color: #2c5282;
-}
-
-.water-type-badge--river {
-  background: #c6f6d5;
-  color: #276749;
-}
-
-.water-type-badge--pond {
-  background: #fefcbf;
-  color: #975a16;
-}
-
-.water-type-badge--reservoir {
-  background: #e9d8fd;
-  color: #553c9a;
-}
-
-.details-meta {
-  margin: 0.5rem 0 0;
-}
-
-.map-popup-title-row {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 0.35rem;
-  margin-bottom: 0.25rem;
-}
-
-.map-popup-title-row h3 {
-  margin: 0;
-  flex: 1;
-  min-width: 0;
+  margin: 0 0 0.25rem;
 }
 
 .water-location {

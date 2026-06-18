@@ -5,7 +5,6 @@ import type {
   ReferenceCity,
   SortDirection,
   SortField,
-  WaterBodyType,
 } from '../types/fishWater'
 import { DEFAULT_DISTANCE_KM, DEFAULT_SORT_DIRECTION } from '../types/fishWater'
 import HomeFiltersPanel from '../components/HomeFiltersPanel'
@@ -15,7 +14,6 @@ import {
   filterByDistance,
   filterBySearchQuery,
   filterByTroutTypes,
-  filterByWaterBodyTypes,
   sortWaters,
 } from '../utils/fishWater'
 
@@ -28,7 +26,6 @@ export default function HomePage() {
   const [sortDirection, setSortDirection] = useState<SortDirection>(
     DEFAULT_SORT_DIRECTION.name,
   )
-  const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [searchQuery, setSearchQuery] = useState('')
   const [page, setPage] = useState(1)
@@ -37,14 +34,12 @@ export default function HomePage() {
   const filteredWaters = useMemo(() => {
     let filtered = filterBySearchQuery(fishWaters, searchQuery)
     filtered = filterByDistance(filtered, referenceCity, maxDistance)
-    filtered = filterByWaterBodyTypes(filtered, selectedTypes)
     filtered = filterByTroutTypes(filtered, selectedTrout)
     return sortWaters(filtered, sortField, sortDirection, referenceCity)
   }, [
     searchQuery,
     referenceCity,
     maxDistance,
-    selectedTypes,
     selectedTrout,
     sortField,
     sortDirection,
@@ -102,8 +97,6 @@ export default function HomePage() {
         sortDirection={sortDirection}
         onSortFieldChange={resetPageAnd(setSortField)}
         onSortDirectionChange={resetPageAnd(setSortDirection)}
-        selectedTypes={selectedTypes}
-        onSelectedTypesChange={resetPageAnd(setSelectedTypes)}
         selectedTrout={selectedTrout}
         onSelectedTroutChange={resetPageAnd(setSelectedTrout)}
       />

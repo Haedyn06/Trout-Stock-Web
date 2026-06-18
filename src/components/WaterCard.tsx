@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import type { FishWater, ReferenceCity } from '../types/fishWater'
 import ExternalMapLinks from './ExternalMapLinks'
 import FishTypeList from './FishTypeList'
-import WaterBodyTypeBadge from './WaterBodyTypeBadge'
 import {
   formatDate,
   formatNumber,
@@ -21,10 +20,7 @@ export default function WaterCard({ water, referenceCity }: WaterCardProps) {
     <article className="water-card">
       <div className="water-card-header">
         <div>
-          <div className="water-card-title-row">
-            <h2>{water.waterBodyName}</h2>
-            <WaterBodyTypeBadge type={water.waterBodyType} />
-          </div>
+          <h2>{water.waterBodyName}</h2>
           <p className="water-location">{water.location.name}</p>
         </div>
       </div>

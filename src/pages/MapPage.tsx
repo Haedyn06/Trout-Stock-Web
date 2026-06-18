@@ -4,7 +4,7 @@ import { MapContainer, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import '../utils/leafletIcons'
 import { fishWaters, getFishWaterById } from '../data/loadFishWaters'
-import type { AlbertaRegion, FishTypeKey, ReferenceCity, WaterBodyType } from '../types/fishWater'
+import type { AlbertaRegion, FishTypeKey, ReferenceCity } from '../types/fishWater'
 import { DEFAULT_DISTANCE_KM } from '../types/fishWater'
 import FocusedWaterMarker from '../components/FocusedWaterMarker'
 import MapFilters from '../components/MapFilters'
@@ -15,7 +15,6 @@ import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
   filterByDistance,
   filterByTroutTypes,
-  filterByWaterBodyTypes,
 } from '../utils/fishWater'
 
 const MAP_CENTER: [number, number] = [52.5, -114.5]
@@ -35,7 +34,6 @@ export default function MapPage() {
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
   const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
-  const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])
   const [isFullscreen, setIsFullscreen] = useState(false)
 
@@ -45,7 +43,6 @@ export default function MapPage() {
     }
 
     let result = filterByDistance(fishWaters, referenceCity, maxDistance)
-    result = filterByWaterBodyTypes(result, selectedTypes)
     result = filterByAlbertaRegions(result, selectedRegions)
     result = filterByTroutTypes(result, selectedTrout)
     return result
@@ -53,7 +50,6 @@ export default function MapPage() {
     focusWater,
     referenceCity,
     maxDistance,
-    selectedTypes,
     selectedRegions,
     selectedTrout,
   ])
@@ -83,8 +79,6 @@ export default function MapPage() {
     onReferenceCityChange: setReferenceCity,
     maxDistance,
     onMaxDistanceChange: setMaxDistance,
-    selectedTypes,
-    onSelectedTypesChange: setSelectedTypes,
     selectedRegions,
     onSelectedRegionsChange: setSelectedRegions,
     selectedTrout,
