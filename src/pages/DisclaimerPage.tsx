@@ -44,7 +44,7 @@ export default function DisclaimerPage() {
             regulations with official Alberta Environment and Protected Areas
             resources, the{' '}
             <a
-              href="https://www.alberta.ca/my-wild-alberta"
+              href="https://mywildalberta.ca/"
               target="_blank"
               rel="noopener noreferrer"
             >
