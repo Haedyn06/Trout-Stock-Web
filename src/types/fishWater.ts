@@ -130,8 +130,8 @@ export const ALL_FISH_TYPES: { key: FishTypeKey; label: string }[] = [
   { key: 'walleye', label: 'Walleye' },
 ]
 
-/** Shows all waters — same behaviour as the former "Any distance" option. */
-export const DEFAULT_DISTANCE_KM = 250
+/** Shows all waters when selected (500 km+). */
+export const DEFAULT_DISTANCE_KM = 500
 
 export const DISTANCE_OPTIONS = [
   { value: 25, label: 'Within 25 km' },
@@ -140,5 +140,8 @@ export const DISTANCE_OPTIONS = [
   { value: 100, label: 'Within 100 km' },
   { value: 150, label: 'Within 150 km' },
   { value: 200, label: 'Within 200 km' },
-  { value: DEFAULT_DISTANCE_KM, label: 'Within 250km+' },
+  { value: 250, label: 'Within 250 km' },
+  { value: 300, label: 'Within 300 km' },
+  { value: 400, label: 'Within 400 km' },
+  { value: DEFAULT_DISTANCE_KM, label: 'Within 500km+' },
 ] as const

@@ -22,9 +22,9 @@ const PAGE_SIZE = 9
 export default function HomePage() {
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
   const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
-  const [sortField, setSortField] = useState<SortField>('name')
+  const [sortField, setSortField] = useState<SortField>('latestStocked')
   const [sortDirection, setSortDirection] = useState<SortDirection>(
-    DEFAULT_SORT_DIRECTION.name,
+    DEFAULT_SORT_DIRECTION.latestStocked,
   )
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [searchQuery, setSearchQuery] = useState('')
