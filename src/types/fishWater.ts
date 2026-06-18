@@ -27,7 +27,6 @@ export interface FishWater {
   avgLength: number
   latestStockDate: string
   population: number
-  difficulty: number
   location: WaterLocation
   fishTypes: {
     brookTrout: FishTypeStats
@@ -94,7 +93,6 @@ export const ALBERTA_REGIONS: { key: AlbertaRegion; label: string }[] = [
 export type SortField =
   | 'name'
   | 'population'
-  | 'difficulty'
   | 'latestStocked'
   | 'distance'
 
@@ -103,7 +101,6 @@ export type SortDirection = 'asc' | 'desc'
 export const SORT_FIELDS: { value: SortField; label: string }[] = [
   { value: 'name', label: 'Water Body Name' },
   { value: 'population', label: 'Fish Population' },
-  { value: 'difficulty', label: 'Difficulty' },
   { value: 'latestStocked', label: 'Latest Stocked' },
   { value: 'distance', label: 'Distance from City' },
 ]
@@ -111,7 +108,6 @@ export const SORT_FIELDS: { value: SortField; label: string }[] = [
 export const DEFAULT_SORT_DIRECTION: Record<SortField, SortDirection> = {
   name: 'asc',
   population: 'desc',
-  difficulty: 'asc',
   latestStocked: 'desc',
   distance: 'asc',
 }
@@ -146,20 +142,3 @@ export const DISTANCE_OPTIONS = [
   { value: 200, label: 'Within 200 km' },
   { value: DEFAULT_DISTANCE_KM, label: 'Within 250km+' },
 ] as const
-
-export const DIFFICULTY_LABELS: Record<number, string> = {
-  1: 'Easy',
-  2: 'Fair',
-  3: 'Moderate',
-  4: 'Hard',
-  5: 'Difficult',
-}
-
-export const MAX_DIFFICULTY = 5
-
-export const DIFFICULTY_OPTIONS = (
-  Object.entries(DIFFICULTY_LABELS) as [string, string][]
-).map(([level, label]) => ({
-  value: Number(level),
-  label,
-}))

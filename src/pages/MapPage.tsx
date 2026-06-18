@@ -13,7 +13,6 @@ import MapResizeHandler from '../components/MapResizeHandler'
 import WaterMapMarkers from '../components/WaterMapMarkers'
 import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
-  filterByDifficulty,
   filterByDistance,
   filterByTroutTypes,
   filterByWaterBodyTypes,
@@ -38,7 +37,6 @@ export default function MapPage() {
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedRegions, setSelectedRegions] = useState<AlbertaRegion[]>([])
-  const [selectedDifficulties, setSelectedDifficulties] = useState<number[]>([])
   const [isFullscreen, setIsFullscreen] = useState(false)
 
   const filteredWaters = useMemo(() => {
@@ -50,7 +48,6 @@ export default function MapPage() {
     result = filterByWaterBodyTypes(result, selectedTypes)
     result = filterByAlbertaRegions(result, selectedRegions)
     result = filterByTroutTypes(result, selectedTrout)
-    result = filterByDifficulty(result, selectedDifficulties)
     return result
   }, [
     focusWater,
@@ -59,7 +56,6 @@ export default function MapPage() {
     selectedTypes,
     selectedRegions,
     selectedTrout,
-    selectedDifficulties,
   ])
 
   useEffect(() => {
@@ -93,8 +89,6 @@ export default function MapPage() {
     onSelectedRegionsChange: setSelectedRegions,
     selectedTrout,
     onSelectedTroutChange: setSelectedTrout,
-    selectedDifficulties,
-    onSelectedDifficultiesChange: setSelectedDifficulties,
   }
 
   const mapShell = (

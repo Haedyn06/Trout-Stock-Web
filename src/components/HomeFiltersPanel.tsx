@@ -5,7 +5,6 @@ import type {
   SortField,
   WaterBodyType,
 } from '../types/fishWater'
-import DifficultyFilter from './DifficultyFilter'
 import DistanceFilter from './DistanceFilter'
 import FilterSection from './FilterSection'
 import SortControls from './SortControls'
@@ -30,8 +29,6 @@ interface HomeFiltersPanelProps {
   onSelectedTypesChange: (types: WaterBodyType[]) => void
   selectedTrout: FishTypeKey[]
   onSelectedTroutChange: (types: FishTypeKey[]) => void
-  selectedDifficulties: number[]
-  onSelectedDifficultiesChange: (levels: number[]) => void
 }
 
 export default function HomeFiltersPanel({
@@ -51,8 +48,6 @@ export default function HomeFiltersPanel({
   onSelectedTypesChange,
   selectedTrout,
   onSelectedTroutChange,
-  selectedDifficulties,
-  onSelectedDifficultiesChange,
 }: HomeFiltersPanelProps) {
   return (
     <section className="filters-panel" aria-label="Search and filters">
@@ -92,14 +87,6 @@ export default function HomeFiltersPanel({
           <WaterBodyTypeFilter
             selected={selectedTypes}
             onChange={onSelectedTypesChange}
-            hideLabel
-          />
-        </FilterSection>
-
-        <FilterSection title="Difficulty">
-          <DifficultyFilter
-            selected={selectedDifficulties}
-            onChange={onSelectedDifficultiesChange}
             hideLabel
           />
         </FilterSection>

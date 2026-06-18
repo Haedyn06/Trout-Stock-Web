@@ -5,7 +5,6 @@
     "avgLength": 19.54,
     "latestStockDate": "2026-05-21",
     "population": 9000,
-    "difficulty": 2,
     "location": {
       "name": "SE18-35-6-W5",
       "latitude": 52.011667,
@@ -72,7 +71,6 @@
     "avgLength": 20.45,
     "latestStockDate": "2026-05-04",
     "population": 17500,
-    "difficulty": 1,
     "location": {
       "name": "NW11-49-18-W4",
       "latitude": 53.217685,
@@ -139,7 +137,6 @@
     "avgLength": 20.18,
     "latestStockDate": "2026-04-28",
     "population": 30500,
-    "difficulty": 3,
     "location": {
       "name": "SW28-26-9-W4",
       "latitude": 51.24853,
@@ -211,7 +208,6 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-14",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "NW7-61-5-W4",
       "latitude": 54.265723,
@@ -268,7 +264,6 @@
     "avgLength": 21.57,
     "latestStockDate": "2026-05-04",
     "population": 1400,
-    "difficulty": 3,
     "location": {
       "name": "NE18-39-27-W4",
       "latitude": 52.355924,
@@ -330,7 +325,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-01",
     "population": 2000,
-    "difficulty": 2,
     "location": {
       "name": "NE15-17-17-W4",
       "latitude": 50.434749,
@@ -387,7 +381,6 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-12",
     "population": 2200,
-    "difficulty": 2,
     "location": {
       "name": "NE16-64-19-W4",
       "latitude": 54.537414,
@@ -444,7 +437,6 @@
     "avgLength": 20.6,
     "latestStockDate": "2026-04-15",
     "population": 10000,
-    "difficulty": 1,
     "location": {
       "name": "NE15-18-14-W4",
       "latitude": 50.524756,
@@ -501,7 +493,6 @@
     "avgLength": 24.5,
     "latestStockDate": "2026-05-06",
     "population": 1500,
-    "difficulty": 1,
     "location": {
       "name": "NE26-49-1-W4",
       "latitude": 53.259224,
@@ -558,7 +549,6 @@
     "avgLength": 24.2,
     "latestStockDate": "2026-05-09",
     "population": 1000,
-    "difficulty": 3,
     "location": {
       "name": "NE29-8-4-W4",
       "latitude": 49.6779638,
@@ -615,7 +605,6 @@
     "avgLength": 13.2,
     "latestStockDate": "2026-04-29",
     "population": 1000,
-    "difficulty": 1,
     "location": {
       "name": "SE14-7-3-W5",
       "latitude": 49.5538731,
@@ -672,7 +661,6 @@
     "avgLength": 13.2,
     "latestStockDate": "2026-04-29",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "NE23-6-30-W4",
       "latitude": 49.492841,
@@ -729,7 +717,6 @@
     "avgLength": 18.6,
     "latestStockDate": "2026-04-29",
     "population": 3000,
-    "difficulty": 4,
     "location": {
       "name": "NW15-4-1-W5",
       "latitude": 49.303994,
@@ -786,7 +773,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-07",
     "population": 5000,
-    "difficulty": 3,
     "location": {
       "name": "SW22-46-24-W4",
       "latitude": 52.976846,
@@ -843,7 +829,6 @@
     "avgLength": 19.5,
     "latestStockDate": "2026-04-28",
     "population": 7000,
-    "difficulty": 3,
     "location": {
       "name": "NW30-38-5-W4",
       "latitude": 52.29945,
@@ -905,7 +890,6 @@
     "avgLength": 19.68,
     "latestStockDate": "2026-05-08",
     "population": 14550,
-    "difficulty": 2,
     "location": {
       "name": "SW24-55-25-W4",
       "latitude": 53.763266,
@@ -972,7 +956,6 @@
     "avgLength": 22.33,
     "latestStockDate": "2026-05-11",
     "population": 1100,
-    "difficulty": 2,
     "location": {
       "name": "NE35-47-13-W4",
       "latitude": 53.097592,
@@ -1034,7 +1017,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SE34-37-14-W4",
       "latitude": 52.218207,
@@ -1091,7 +1073,6 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "SW23-83-21-W5",
       "latitude": 56.209063,
@@ -1148,7 +1129,6 @@
     "avgLength": 20.29,
     "latestStockDate": "2026-05-13",
     "population": 9000,
-    "difficulty": 3,
     "location": {
       "name": "NW7-69-23-W4",
       "latitude": 54.964036,
@@ -1210,7 +1190,6 @@
     "avgLength": 15.98,
     "latestStockDate": "2026-06-11",
     "population": 55600,
-    "difficulty": 2,
     "location": {
       "name": "NE4-15-2-W5",
       "latitude": 50.236864,
@@ -1297,7 +1276,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-06-05",
     "population": 300,
-    "difficulty": 3,
     "location": {
       "name": "NW26-21-5-W5",
       "latitude": 50.813258,
@@ -1354,7 +1332,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-06-05",
     "population": 300,
-    "difficulty": 3,
     "location": {
       "name": "NW26-21-5-W5",
       "latitude": 50.815306,
@@ -1411,7 +1388,6 @@
     "avgLength": 20.6,
     "latestStockDate": "2026-05-28",
     "population": 10000,
-    "difficulty": 2,
     "location": {
       "name": "NE4-61-6-W4",
       "latitude": 54.24779,
@@ -1468,7 +1444,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-08",
     "population": 1250,
-    "difficulty": 2,
     "location": {
       "name": "NE36-50-7-W4",
       "latitude": 53.364531,
@@ -1525,7 +1500,6 @@
     "avgLength": 20.22,
     "latestStockDate": "2026-04-24",
     "population": 5050,
-    "difficulty": 3,
     "location": {
       "name": "NW4-6-20-W4",
       "latitude": 49.446821,
@@ -1587,7 +1561,6 @@
     "avgLength": 19.65,
     "latestStockDate": "2026-04-27",
     "population": 7300,
-    "difficulty": 1,
     "location": {
       "name": "SW24-36-11-W4",
       "latitude": 52.105809,
@@ -1654,7 +1627,6 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-08",
     "population": 2000,
-    "difficulty": 1,
     "location": {
       "name": "NW14-72-6-W6",
       "latitude": 55.237091,
@@ -1711,7 +1683,6 @@
     "avgLength": 16.9,
     "latestStockDate": "2026-05-15",
     "population": 24000,
-    "difficulty": 2,
     "location": {
       "name": "NE12-38-8-W5",
       "latitude": 52.260185,
@@ -1778,7 +1749,6 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-04-29",
     "population": 1400,
-    "difficulty": 2,
     "location": {
       "name": "SE27-28-1-W5",
       "latitude": 51.422275,
@@ -1835,7 +1805,6 @@
     "avgLength": 13.58,
     "latestStockDate": "2026-04-22",
     "population": 10000,
-    "difficulty": 1,
     "location": {
       "name": "NE8-8-5-W5",
       "latitude": 49.634111,
@@ -1897,7 +1866,6 @@
     "avgLength": 19.35,
     "latestStockDate": "2026-05-28",
     "population": 1600,
-    "difficulty": 3,
     "location": {
       "name": "SE10-82-3-W6",
       "latitude": 56.093732,
@@ -1959,7 +1927,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 3,
     "location": {
       "name": "NE9-53-19-W5",
       "latitude": 53.565803,
@@ -2016,7 +1983,6 @@
     "avgLength": 22.7,
     "latestStockDate": "2026-05-11",
     "population": 400,
-    "difficulty": 2,
     "location": {
       "name": "NE9-45-16-W4",
       "latitude": 52.86884,
@@ -2073,7 +2039,6 @@
     "avgLength": 19.48,
     "latestStockDate": "2026-04-30",
     "population": 3595,
-    "difficulty": 2,
     "location": {
       "name": "SE31-26-1-W5",
       "latitude": 51.262527,
@@ -2140,7 +2105,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-06-02",
     "population": 22222,
-    "difficulty": 2,
     "location": {
       "name": "NW13-35-3-W5",
       "latitude": 52.011001,
@@ -2217,7 +2181,6 @@
     "avgLength": 19.71,
     "latestStockDate": "2026-05-06",
     "population": 26500,
-    "difficulty": 2,
     "location": {
       "name": "NE36-41-1-W4",
       "latitude": 52.576348,
@@ -2294,7 +2257,6 @@
     "avgLength": 19.37,
     "latestStockDate": "2026-04-29",
     "population": 6500,
-    "difficulty": 2,
     "location": {
       "name": "NW1-41-16-W4",
       "latitude": 52.50583,
@@ -2356,7 +2318,6 @@
     "avgLength": 21.07,
     "latestStockDate": "2026-05-22",
     "population": 12000,
-    "difficulty": 3,
     "location": {
       "name": "SE1-60-8-W5",
       "latitude": 54.1579078,
@@ -2423,7 +2384,6 @@
     "avgLength": 19.6,
     "latestStockDate": "2026-05-27",
     "population": 3000,
-    "difficulty": 3,
     "location": {
       "name": "NW7-54-25-W5",
       "latitude": 53.654925,
@@ -2480,7 +2440,6 @@
     "avgLength": 20.63,
     "latestStockDate": "2026-05-19",
     "population": 3800,
-    "difficulty": 3,
     "location": {
       "name": "NW8-73-21-W5",
       "latitude": 55.314926,
@@ -2547,7 +2506,6 @@
     "avgLength": 20,
     "latestStockDate": "2026-05-11",
     "population": 11600,
-    "difficulty": 1,
     "location": {
       "name": "SE23-53-4-W5",
       "latitude": 53.584969,
@@ -2604,7 +2562,6 @@
     "avgLength": 21.83,
     "latestStockDate": "2026-05-22",
     "population": 1150,
-    "difficulty": 2,
     "location": {
       "name": "SE29-40-26-W4",
       "latitude": 52.469538,
@@ -2671,7 +2628,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-21",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "NW33-35-12-W5",
       "latitude": 52.056822,
@@ -2728,7 +2684,6 @@
     "avgLength": 22.1,
     "latestStockDate": "2026-05-12",
     "population": 1550,
-    "difficulty": 2,
     "location": {
       "name": "NW36-56-7-W4",
       "latitude": 53.888476,
@@ -2795,7 +2750,6 @@
     "avgLength": 22.89,
     "latestStockDate": "2026-04-22",
     "population": 1600,
-    "difficulty": 4,
     "location": {
       "name": "SW5-19-28-W4",
       "latitude": 53.727362,
@@ -2857,7 +2811,6 @@
     "avgLength": 16,
     "latestStockDate": "2026-05-20",
     "population": 2250,
-    "difficulty": 4,
     "location": {
       "name": "NW6-55-21-W5",
       "latitude": 53.727362,
@@ -2914,7 +2867,6 @@
     "avgLength": 19.82,
     "latestStockDate": "2026-05-01",
     "population": 2200,
-    "difficulty": 2,
     "location": {
       "name": "NW8-14-18-W4",
       "latitude": 50.161135,
@@ -2976,7 +2928,6 @@
     "avgLength": 21.44,
     "latestStockDate": "2026-05-29",
     "population": 23000,
-    "difficulty": 2,
     "location": {
       "name": "NW17-83-6-W4",
       "latitude": 56.188889,
@@ -3038,7 +2989,6 @@
     "avgLength": 22.1,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "SW34-81-3-W6",
       "latitude": 56.0588,
@@ -3095,7 +3045,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-21",
     "population": 550,
-    "difficulty": 3,
     "location": {
       "name": "NE12-35-6-W5",
       "latitude": 51.995874,
@@ -3152,7 +3101,6 @@
     "avgLength": 20.8,
     "latestStockDate": "2026-05-25",
     "population": 9000,
-    "difficulty": 4,
     "location": {
       "name": "NE20-84-25-W5",
       "latitude": 56.30153,
@@ -3209,7 +3157,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "SE5-111-19-W5",
       "latitude": 58.608147,
@@ -3266,7 +3213,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 1500,
-    "difficulty": 2,
     "location": {
       "name": "NW17-6-11-W4",
       "latitude": 49.477485,
@@ -3323,7 +3269,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "NW13-63-20-W5",
       "latitude": 54.45359,
@@ -3380,7 +3325,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-14",
     "population": 300,
-    "difficulty": 2,
     "location": {
       "name": "NE10-56-23-W4",
       "latitude": 53.830514,
@@ -3437,7 +3381,6 @@
     "avgLength": 15.7,
     "latestStockDate": "2026-05-19",
     "population": 10000,
-    "difficulty": 3,
     "location": {
       "name": "NE14-40-16-W5",
       "latitude": 52.449584,
@@ -3499,7 +3442,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 2363,
-    "difficulty": 4,
     "location": {
       "name": "NE6-2-15-W4",
       "latitude": 49.095497,
@@ -3556,7 +3498,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 2800,
-    "difficulty": 2,
     "location": {
       "name": "NE22-36-6-W4",
       "latitude": 52.110661,
@@ -3613,7 +3554,6 @@
     "avgLength": 20.52,
     "latestStockDate": "2026-06-03",
     "population": 25045,
-    "difficulty": 2,
     "location": {
       "name": "NE1-57-8-W6",
       "latitude": 53.9,
@@ -3675,7 +3615,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-15",
     "population": 600,
-    "difficulty": 2,
     "location": {
       "name": "NW31-10-26-W4",
       "latitude": 49.870282,
@@ -3732,7 +3671,6 @@
     "avgLength": 14.2,
     "latestStockDate": "2026-05-14",
     "population": 800,
-    "difficulty": 2,
     "location": {
       "name": "NW21-24-9-W5",
       "latitude": 51.065761,
@@ -3789,7 +3727,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-06",
     "population": 1000,
-    "difficulty": 1,
     "location": {
       "name": "NE29-38-3-W5",
       "latitude": 52.297145,
@@ -3846,7 +3783,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 4,
     "location": {
       "name": "SE5-41-14-W5",
       "latitude": 52.494632,
@@ -3903,7 +3839,6 @@
     "avgLength": 20.63,
     "latestStockDate": "2026-05-07",
     "population": 11500,
-    "difficulty": 3,
     "location": {
       "name": "SW13-52-2-W5",
       "latitude": 53.487212,
@@ -3965,7 +3900,6 @@
     "avgLength": 20,
     "latestStockDate": "2026-04-23",
     "population": 5000,
-    "difficulty": 1,
     "location": {
       "name": "SW18-31-14-W4",
       "latitude": 51.649233,
@@ -4022,7 +3956,6 @@
     "avgLength": 21.19,
     "latestStockDate": "2026-06-02",
     "population": 6650,
-    "difficulty": 3,
     "location": {
       "name": "NW33-55-25-W4",
       "latitude": 53.799728,
@@ -4094,7 +4027,6 @@
     "avgLength": 21.58,
     "latestStockDate": "2026-06-08",
     "population": 4995,
-    "difficulty": 2,
     "location": {
       "name": "NE18-53-23-W4",
       "latitude": 53.581702,
@@ -4166,7 +4098,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SE6-110-19-W5",
       "latitude": 58.517177,
@@ -4223,7 +4154,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 1,
     "location": {
       "name": "SW12-69-6-W6",
       "latitude": 54.958674,
@@ -4280,7 +4210,6 @@
     "avgLength": 21.4,
     "latestStockDate": "2026-05-22",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "NE35-87-9-W4",
       "latitude": 56.588109,
@@ -4337,7 +4266,6 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "NE17-85-19-W5",
       "latitude": 56.372419,
@@ -4394,7 +4322,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-04-30",
     "population": 7500,
-    "difficulty": 2,
     "location": {
       "name": "SE13-32-29-W4",
       "latitude": 51.739122,
@@ -4451,7 +4378,6 @@
     "avgLength": 23.4,
     "latestStockDate": "2026-05-27",
     "population": 300,
-    "difficulty": 1,
     "location": {
       "name": "SW28-50-25-W5",
       "latitude": 53.341065,
@@ -4508,7 +4434,6 @@
     "avgLength": 4.9,
     "latestStockDate": "2026-05-20",
     "population": 1500,
-    "difficulty": 4,
     "location": {
       "name": "SW31-63-25-W4",
       "latitude": 54.489439,
@@ -4565,7 +4490,6 @@
     "avgLength": 19.93,
     "latestStockDate": "2026-04-27",
     "population": 7250,
-    "difficulty": 1,
     "location": {
       "name": "SW36-37-13-W4",
       "latitude": 52.221611,
@@ -4627,7 +4551,6 @@
     "avgLength": 21.36,
     "latestStockDate": "2026-05-09",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "SE13-51-12-W4",
       "latitude": 53.39796,
@@ -4689,7 +4612,6 @@
     "avgLength": 22.16,
     "latestStockDate": "2026-05-01",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "SW34-45-9-W4",
       "latitude": 52.918593,
@@ -4751,7 +4673,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-15",
     "population": 500,
-    "difficulty": 4,
     "location": {
       "name": "SW7-38-7-W5",
       "latitude": 52.246795,
@@ -4808,7 +4729,6 @@
     "avgLength": 12.5,
     "latestStockDate": "2026-04-22",
     "population": 3500,
-    "difficulty": 3,
     "location": {
       "name": "NW12-8-6-W5",
       "latitude": 49.627778,
@@ -4865,7 +4785,6 @@
     "avgLength": 21.57,
     "latestStockDate": "2026-05-13",
     "population": 10000,
-    "difficulty": 3,
     "location": {
       "name": "NW20-53-9-W4",
       "latitude": 53.594311,
@@ -4937,7 +4856,6 @@
     "avgLength": 23.4,
     "latestStockDate": "2026-05-27",
     "population": 700,
-    "difficulty": 2,
     "location": {
       "name": "NE19-52-26-W5",
       "latitude": 53.508917,
@@ -4994,7 +4912,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-26",
     "population": 1500,
-    "difficulty": 3,
     "location": {
       "name": "SW34-76-4-W6",
       "latitude": 55.625,
@@ -5051,7 +4968,6 @@
     "avgLength": 19.87,
     "latestStockDate": "2026-04-27",
     "population": 2250,
-    "difficulty": 2,
     "location": {
       "name": "NE19-36-20-W4",
       "latitude": 52.112277,
@@ -5118,7 +5034,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-12",
     "population": 36,
-    "difficulty": 1,
     "location": {
       "name": "SW13-24-1-W5",
       "latitude": 51.0414312,
@@ -5180,7 +5095,6 @@
     "avgLength": 20.6,
     "latestStockDate": "2026-05-08",
     "population": 7000,
-    "difficulty": 3,
     "location": {
       "name": "SE6-50-26-W5",
       "latitude": 53.280836,
@@ -5237,7 +5151,6 @@
     "avgLength": 21.25,
     "latestStockDate": "2026-06-02",
     "population": 830,
-    "difficulty": 2,
     "location": {
       "name": "SE28-33-26-W4",
       "latitude": 51.859122,
@@ -5314,7 +5227,6 @@
     "avgLength": 20.59,
     "latestStockDate": "2026-05-14",
     "population": 3500,
-    "difficulty": 2,
     "location": {
       "name": "SW25-45-6-W5",
       "latitude": 52.906846,
@@ -5376,7 +5288,6 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 1500,
-    "difficulty": 2,
     "location": {
       "name": "SW15-106-12-W5",
       "latitude": 58.197347,
@@ -5433,7 +5344,6 @@
     "avgLength": 23.1,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 2,
     "location": {
       "name": "NW5-67-13-W4",
       "latitude": 54.775532,
@@ -5490,7 +5400,6 @@
     "avgLength": 21.98,
     "latestStockDate": "2026-05-06",
     "population": 1220,
-    "difficulty": 2,
     "location": {
       "name": "NW5-54-25-W4",
       "latitude": 53.637547,
@@ -5557,7 +5466,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-05-08",
     "population": 2000,
-    "difficulty": 1,
     "location": {
       "name": "NW8-53-17-W5",
       "latitude": 53.566383,
@@ -5614,7 +5522,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-07",
     "population": 2000,
-    "difficulty": 1,
     "location": {
       "name": "SW27-55-19-W4",
       "latitude": 53.7454172,
@@ -5671,7 +5578,6 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-11",
     "population": 400,
-    "difficulty": 2,
     "location": {
       "name": "NE25-61-5-W4",
       "latitude": 54.3089,
@@ -5728,7 +5634,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-06",
     "population": 5000,
-    "difficulty": 2,
     "location": {
       "name": "NE27-49-25-W4",
       "latitude": 53.259984,
@@ -5785,7 +5690,6 @@
     "avgLength": 19.61,
     "latestStockDate": "2026-04-13",
     "population": 21895,
-    "difficulty": 1,
     "location": {
       "name": "SW8-7-2-W5",
       "latitude": 49.541912,
@@ -5847,7 +5751,6 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-15",
     "population": 1150,
-    "difficulty": 2,
     "location": {
       "name": "NW24-57-25-W4",
       "latitude": 53.947431,
@@ -5904,7 +5807,6 @@
     "avgLength": 21.44,
     "latestStockDate": "2026-06-02",
     "population": 3035,
-    "difficulty": 2,
     "location": {
       "name": "NW29-40-26-W4",
       "latitude": 52.4767654,
@@ -5976,7 +5878,6 @@
     "avgLength": 21.62,
     "latestStockDate": "2026-05-22",
     "population": 10400,
-    "difficulty": 3,
     "location": {
       "name": "NW19-64-2-W4",
       "latitude": 54.551596,
@@ -6048,7 +5949,6 @@
     "avgLength": 18.3,
     "latestStockDate": "2026-05-19",
     "population": 1000,
-    "difficulty": 3,
     "location": {
       "name": "SE34-1-28-W4",
       "latitude": 49.0758978,
@@ -6105,7 +6005,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-27",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SE6-50-1-W4",
       "latitude": 54.551596,
@@ -6162,7 +6061,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-15",
     "population": 200,
-    "difficulty": 2,
     "location": {
       "name": "NE1-48-10-W5",
       "latitude": 53.119469,
@@ -6219,7 +6117,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 2,
     "location": {
       "name": "NE33-43-11-W4",
       "latitude": 52.750929,
@@ -6276,7 +6173,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 4,
     "location": {
       "name": "NW10-47-19-W5",
       "latitude": 53.041523,
@@ -6333,7 +6229,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-06-05",
     "population": 5000,
-    "difficulty": 3,
     "location": {
       "name": "NW26-19-9-W5",
       "latitude": 50.6560776,
@@ -6390,7 +6285,6 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 4000,
-    "difficulty": 2,
     "location": {
       "name": "NW27-107-16-W5",
       "latitude": 58.324911,
@@ -6447,7 +6341,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SW26-5-22-W4",
       "latitude": 49.4103,
@@ -6504,7 +6397,6 @@
     "avgLength": 14.3,
     "latestStockDate": "2026-06-05",
     "population": 3100,
-    "difficulty": 2,
     "location": {
       "name": "NW15-28-9-W5",
       "latitude": 51.401845,
@@ -6561,7 +6453,6 @@
     "avgLength": 17.7,
     "latestStockDate": "2026-06-03",
     "population": 82,
-    "difficulty": 3,
     "location": {
       "name": "NW4-48-24-W5",
       "latitude": 53.112602,
@@ -6618,7 +6509,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "SW32-77-19-W5",
       "latitude": 55.709784,
@@ -6675,7 +6565,6 @@
     "avgLength": 21.77,
     "latestStockDate": "2026-04-29",
     "population": 5600,
-    "difficulty": 1,
     "location": {
       "name": "SW23-33-18-W4",
       "latitude": 51.840076,
@@ -6737,7 +6626,6 @@
     "avgLength": 14.2,
     "latestStockDate": "2026-05-14",
     "population": 2300,
-    "difficulty": 4,
     "location": {
       "name": "NW20-22-5-W5",
       "latitude": 50.888074,
@@ -6794,7 +6682,6 @@
     "avgLength": 17.84,
     "latestStockDate": "2026-06-02",
     "population": 105928,
-    "difficulty": 4,
     "location": {
       "name": "SE25-61-12-W5",
       "latitude": 54.298603,
@@ -6891,7 +6778,6 @@
     "avgLength": 24.5,
     "latestStockDate": "2026-04-21",
     "population": 2000,
-    "difficulty": 2,
     "location": {
       "name": "SW13-8-19-W4",
       "latitude": 49.64707,
@@ -6948,7 +6834,6 @@
     "avgLength": 23.83,
     "latestStockDate": "2026-04-21",
     "population": 1555,
-    "difficulty": 2,
     "location": {
       "name": "SW33-12-21-W4",
       "latitude": 52.918593,
@@ -7010,7 +6895,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "SW27-83-23-W5",
       "latitude": 56.222511,
@@ -7067,7 +6951,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "SW27-83-23-W5",
       "latitude": 56.224205,
@@ -7124,7 +7007,6 @@
     "avgLength": 19.53,
     "latestStockDate": "2026-04-22",
     "population": 9000,
-    "difficulty": 2,
     "location": {
       "name": "NE5-7-3-W4",
       "latitude": 49.531283,
@@ -7186,7 +7068,6 @@
     "avgLength": 21.55,
     "latestStockDate": "2026-04-29",
     "population": 5600,
-    "difficulty": 1,
     "location": {
       "name": "SW19-30-18-W4",
       "latitude": 51.582647,
@@ -7248,7 +7129,6 @@
     "avgLength": 21.7,
     "latestStockDate": "2026-05-28",
     "population": 11000,
-    "difficulty": 3,
     "location": {
       "name": "NE35-69-14-W4",
       "latitude": 55.021444,
@@ -7305,7 +7185,6 @@
     "avgLength": 20.99,
     "latestStockDate": "2026-06-02",
     "population": 16864,
-    "difficulty": 2,
     "location": {
       "name": "SW8-53-19-W5",
       "latitude": 53.560075,
@@ -7377,7 +7256,6 @@
     "avgLength": 20.42,
     "latestStockDate": "2026-05-13",
     "population": 2500,
-    "difficulty": 3,
     "location": {
       "name": "NE25-37-8-W5",
       "latitude": 52.216312,
@@ -7439,7 +7317,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-06",
     "population": 2100,
-    "difficulty": 2,
     "location": {
       "name": "NW18-38-27-W4",
       "latitude": 52.269458,
@@ -7496,7 +7373,6 @@
     "avgLength": 22.29,
     "latestStockDate": "2026-04-30",
     "population": 411,
-    "difficulty": 2,
     "location": {
       "name": "SE4-26-4-W5",
       "latitude": 51.19005,
@@ -7558,7 +7434,6 @@
     "avgLength": 21.37,
     "latestStockDate": "2026-05-25",
     "population": 7975,
-    "difficulty": 3,
     "location": {
       "name": "NE31-86-3-W6",
       "latitude": 56.504886,
@@ -7620,7 +7495,6 @@
     "avgLength": 17.15,
     "latestStockDate": "2026-05-26",
     "population": 9800,
-    "difficulty": 2,
     "location": {
       "name": "SE31-79-8-W6",
       "latitude": 55.886111,
@@ -7682,7 +7556,6 @@
     "avgLength": 21.92,
     "latestStockDate": "2026-05-05",
     "population": 1525,
-    "difficulty": 2,
     "location": {
       "name": "NW4-56-25-W4",
       "latitude": 53.811699,
@@ -7744,7 +7617,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-07",
     "population": 3000,
-    "difficulty": 2,
     "location": {
       "name": "NW11-45-28-W4",
       "latitude": 52.867842,
@@ -7801,7 +7673,6 @@
     "avgLength": 17.61,
     "latestStockDate": "2026-06-05",
     "population": 2800,
-    "difficulty": 1,
     "location": {
       "name": "SW19-23-8-W5",
       "latitude": 50.969566,
@@ -7873,7 +7744,6 @@
     "avgLength": 22.68,
     "latestStockDate": "2026-05-06",
     "population": 2000,
-    "difficulty": 3,
     "location": {
       "name": "NW32-53-27-W4",
       "latitude": 53.624675,
@@ -7935,7 +7805,6 @@
     "avgLength": 15.4,
     "latestStockDate": "2026-05-27",
     "population": 1500,
-    "difficulty": 4,
     "location": {
       "name": "NW5-45-20-W5",
       "latitude": 52.851672,
@@ -7992,7 +7861,6 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-08",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SE26-71-6-W6",
       "latitude": 55.172657,
@@ -8049,7 +7917,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-26",
     "population": 500,
-    "difficulty": 3,
     "location": {
       "name": "NE17-78-5-W6",
       "latitude": 55.762438,
@@ -8106,7 +7973,6 @@
     "avgLength": 20.72,
     "latestStockDate": "2026-04-24",
     "population": 6180,
-    "difficulty": 2,
     "location": {
       "name": "SE26-8-22-W4",
       "latitude": 49.671905,
@@ -8183,7 +8049,6 @@
     "avgLength": 20.29,
     "latestStockDate": "2026-06-02",
     "population": 2650,
-    "difficulty": 2,
     "location": {
       "name": "SE1-39-3-W5",
       "latitude": 52.322935,
@@ -8250,7 +8115,6 @@
     "avgLength": 23.3,
     "latestStockDate": "2026-05-25",
     "population": 1500,
-    "difficulty": 2,
     "location": {
       "name": "SE32-53-12-W5",
       "latitude": 53.616078,
@@ -8307,7 +8171,6 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-19",
     "population": 300,
-    "difficulty": 2,
     "location": {
       "name": "SE32-40-15-W5",
       "latitude": 52.4803656,
@@ -8364,7 +8227,6 @@
     "avgLength": 22.9,
     "latestStockDate": "2026-05-19",
     "population": 400,
-    "difficulty": 2,
     "location": {
       "name": "SW32-40-15-W5",
       "latitude": 52.484878,
@@ -8421,7 +8283,6 @@
     "avgLength": 22.3,
     "latestStockDate": "2026-04-23",
     "population": 350,
-    "difficulty": 2,
     "location": {
       "name": "NE1-27-1-W5",
       "latitude": 51.2801148,
@@ -8478,7 +8339,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-06",
     "population": 600,
-    "difficulty": 2,
     "location": {
       "name": "SE14-44-3-W5",
       "latitude": 52.791495,
@@ -8535,7 +8395,6 @@
     "avgLength": 19.89,
     "latestStockDate": "2026-05-07",
     "population": 13500,
-    "difficulty": 3,
     "location": {
       "name": "SW11-53-22-W5",
       "latitude": 53.566667,
@@ -8597,7 +8456,6 @@
     "avgLength": 20.4,
     "latestStockDate": "2026-05-26",
     "population": 3000,
-    "difficulty": 3,
     "location": {
       "name": "NW30-84-12-W6",
       "latitude": 56.316771,
@@ -8654,7 +8512,6 @@
     "avgLength": 20.67,
     "latestStockDate": "2026-05-14",
     "population": 9000,
-    "difficulty": 2,
     "location": {
       "name": "NE25-42-6-W5",
       "latitude": 52.648629,
@@ -8716,7 +8573,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-20",
     "population": 2500,
-    "difficulty": 3,
     "location": {
       "name": "NE6-1-26-W4",
       "latitude": 49.011823,
@@ -8773,7 +8629,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-30",
     "population": 300,
-    "difficulty": 2,
     "location": {
       "name": "NW34-27-4-W4",
       "latitude": 51.351315,
@@ -8830,7 +8685,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-29",
     "population": 400,
-    "difficulty": 2,
     "location": {
       "name": "NE25-40-24-W4",
       "latitude": 52.471946,
@@ -8887,7 +8741,6 @@
     "avgLength": 14.64,
     "latestStockDate": "2026-05-26",
     "population": 124994,
-    "difficulty": 4,
     "location": {
       "name": "NE10-2-28-W4",
       "latitude": 49.1117,
@@ -8969,7 +8822,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-14",
     "population": 5000,
-    "difficulty": 4,
     "location": {
       "name": "NE15-58-3-W5",
       "latitude": 54.017399,
@@ -9026,7 +8878,6 @@
     "avgLength": 19.83,
     "latestStockDate": "2026-05-21",
     "population": 6800,
-    "difficulty": 3,
     "location": {
       "name": "NW30-35-12-W5",
       "latitude": 52.038779,
@@ -9088,7 +8939,6 @@
     "avgLength": 16,
     "latestStockDate": "2026-05-21",
     "population": 2000,
-    "difficulty": 3,
     "location": {
       "name": "NW12-54-26-W5",
       "latitude": 53.655681,
@@ -9145,7 +8995,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-12",
     "population": 10000,
-    "difficulty": 3,
     "location": {
       "name": "SE17-36-7-W5",
       "latitude": 52.1,
@@ -9207,7 +9056,6 @@
     "avgLength": 18.5,
     "latestStockDate": "2026-06-01",
     "population": 7000,
-    "difficulty": 3,
     "location": {
       "name": "SE12-57-5-W6",
       "latitude": 53.910427,
@@ -9264,7 +9112,6 @@
     "avgLength": 17.8,
     "latestStockDate": "2026-06-01",
     "population": 15000,
-    "difficulty": 3,
     "location": {
       "name": "NW6-57-4-W6",
       "latitude": 53.90135,
@@ -9321,7 +9168,6 @@
     "avgLength": 20.28,
     "latestStockDate": "2026-06-01",
     "population": 10000,
-    "difficulty": 3,
     "location": {
       "name": "SW7-57-4-W6",
       "latitude": 53.908548,
@@ -9383,7 +9229,6 @@
     "avgLength": 20,
     "latestStockDate": "2026-04-14",
     "population": 5000,
-    "difficulty": 2,
     "location": {
       "name": "NE15-14-28-W4",
       "latitude": 50.1757,
@@ -9440,7 +9285,6 @@
     "avgLength": 20.23,
     "latestStockDate": "2026-05-26",
     "population": 1000,
-    "difficulty": 2,
     "location": {
       "name": "NE4-47-19-W5",
       "latitude": 53.030531,
@@ -9502,7 +9346,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 390,
-    "difficulty": 2,
     "location": {
       "name": "SW26-46-19-W5",
       "latitude": 52.992044,
@@ -9559,7 +9402,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 1100,
-    "difficulty": 2,
     "location": {
       "name": "SW35-46-19-W5",
       "latitude": 53.004695,
@@ -9616,7 +9458,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-25",
     "population": 1100,
-    "difficulty": 2,
     "location": {
       "name": "SE26-46-19-W5",
       "latitude": 52.992815,
@@ -9673,7 +9514,6 @@
     "avgLength": 19.59,
     "latestStockDate": "2026-06-08",
     "population": 2810,
-    "difficulty": 2,
     "location": {
       "name": "SW20-46-19-W4",
       "latitude": 52.979766,
@@ -9750,7 +9590,6 @@
     "avgLength": 20.76,
     "latestStockDate": "2026-05-07",
     "population": 1100,
-    "difficulty": 1,
     "location": {
       "name": "NE5-43-25-W4",
       "latitude": 52.979766,
@@ -9812,7 +9651,6 @@
     "avgLength": 23.5,
     "latestStockDate": "2026-05-07",
     "population": 1040,
-    "difficulty": 2,
     "location": {
       "name": "SE31-58-20-W4",
       "latitude": 54.056876,
@@ -9869,7 +9707,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-20",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "NE25-109-9-W6",
       "latitude": 58.495385,
@@ -9926,7 +9763,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-14",
     "population": 1200,
-    "difficulty": 2,
     "location": {
       "name": "NE31-59-25-W4",
       "latitude": 54.145706,
@@ -9983,7 +9819,6 @@
     "avgLength": 4.9,
     "latestStockDate": "2026-05-21",
     "population": 2500,
-    "difficulty": 3,
     "location": {
       "name": "SW11-38-9-W5",
       "latitude": 52.247523,
@@ -10040,7 +9875,6 @@
     "avgLength": 20.56,
     "latestStockDate": "2026-05-05",
     "population": 19494,
-    "difficulty": 3,
     "location": {
       "name": "NW20-8-1-W4",
       "latitude": 49.66537,
@@ -10112,7 +9946,6 @@
     "avgLength": 23.9,
     "latestStockDate": "2026-04-15",
     "population": 1830,
-    "difficulty": 2,
     "location": {
       "name": "SW24-8-22-W4",
       "latitude": 49.659849,
@@ -10169,7 +10002,6 @@
     "avgLength": 23.9,
     "latestStockDate": "2026-06-04",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "SW33-39-7-W5",
       "latitude": 52.398682,
@@ -10226,7 +10058,6 @@
     "avgLength": 20.4,
     "latestStockDate": "2026-05-26",
     "population": 4350,
-    "difficulty": 3,
     "location": {
       "name": "SW34-88-7-W6",
       "latitude": 56.669178,
@@ -10283,7 +10114,6 @@
     "avgLength": 19.6,
     "latestStockDate": "2026-05-07",
     "population": 9500,
-    "difficulty": 2,
     "location": {
       "name": "SW26-54-2-W5",
       "latitude": 53.690156,
@@ -10350,7 +10180,6 @@
     "avgLength": 20.5,
     "latestStockDate": "2026-05-15",
     "population": 2500,
-    "difficulty": 3,
     "location": {
       "name": "SW5-49-4-W5",
       "latitude": 53.193482,
@@ -10407,7 +10236,6 @@
     "avgLength": 20,
     "latestStockDate": "2026-05-08",
     "population": 6000,
-    "difficulty": 3,
     "location": {
       "name": "NE28-53-1-W5",
       "latitude": 53.612875,
@@ -10464,7 +10292,6 @@
     "avgLength": 21.81,
     "latestStockDate": "2026-05-19",
     "population": 10000,
-    "difficulty": 3,
     "location": {
       "name": "SE35-61-8-W5",
       "latitude": 54.318086,
@@ -10526,7 +10353,6 @@
     "avgLength": 21.77,
     "latestStockDate": "2026-04-29",
     "population": 5600,
-    "difficulty": 2,
     "location": {
       "name": "NW12-26-22-W4",
       "latitude": 51.208304,
@@ -10588,7 +10414,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-08",
     "population": 640,
-    "difficulty": 2,
     "location": {
       "name": "SW10-79-8-W6",
       "latitude": 55.829544,
@@ -10650,7 +10475,6 @@
     "avgLength": 18.9,
     "latestStockDate": "2026-05-14",
     "population": 6000,
-    "difficulty": 3,
     "location": {
       "name": "SW25-60-17-W4",
       "latitude": 54.212986,
@@ -10707,7 +10531,6 @@
     "avgLength": 20.8,
     "latestStockDate": "2026-05-20",
     "population": 20000,
-    "difficulty": 4,
     "location": {
       "name": "SW19-40-15-W5",
       "latitude": 52.451617,
@@ -10764,7 +10587,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-12",
     "population": 7000,
-    "difficulty": 3,
     "location": {
       "name": "NE26-43-5-W4",
       "latitude": 52.740747,
@@ -10821,7 +10643,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-14",
     "population": 1130,
-    "difficulty": 3,
     "location": {
       "name": "NE14-24-7-W5",
       "latitude": 51.05457,
@@ -10878,7 +10699,6 @@
     "avgLength": 21.92,
     "latestStockDate": "2026-05-14",
     "population": 2000,
-    "difficulty": 2,
     "location": {
       "name": "SW20-24-7-W5",
       "latitude": 51.05457,
@@ -10940,7 +10760,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-26",
     "population": 1300,
-    "difficulty": 3,
     "location": {
       "name": "NE9-47-19-W5",
       "latitude": 53.0436,
@@ -10997,7 +10816,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-06-05",
     "population": 900,
-    "difficulty": 5,
     "location": {
       "name": "NW6-20-8-W5",
       "latitude": 50.673406,
@@ -11054,7 +10872,6 @@
     "avgLength": 20.2,
     "latestStockDate": "2026-04-20",
     "population": 2500,
-    "difficulty": 2,
     "location": {
       "name": "NE12-5-24-W4",
       "latitude": 49.372404,
@@ -11111,7 +10928,6 @@
     "avgLength": 21.51,
     "latestStockDate": "2026-06-08",
     "population": 10400,
-    "difficulty": 3,
     "location": {
       "name": "NE23-75-11-W6",
       "latitude": 55.4729949,
@@ -11173,7 +10989,6 @@
     "avgLength": 21.74,
     "latestStockDate": "2026-05-08",
     "population": 12135,
-    "difficulty": 3,
     "location": {
       "name": "SW30-52-1-W5",
       "latitude": 53.517861,
@@ -11245,7 +11060,6 @@
     "avgLength": 19.45,
     "latestStockDate": "2026-05-07",
     "population": 8148,
-    "difficulty": 4,
     "location": {
       "name": "SW26-8-2-W4",
       "latitude": 49.673739,
@@ -11312,7 +11126,6 @@
     "avgLength": 22.26,
     "latestStockDate": "2026-06-08",
     "population": 4200,
-    "difficulty": 2,
     "location": {
       "name": "SE9-58-9-W4",
       "latitude": 53.995566,
@@ -11384,7 +11197,6 @@
     "avgLength": 20.43,
     "latestStockDate": "2026-05-11",
     "population": 10174,
-    "difficulty": 3,
     "location": {
       "name": "NE19-52-2-W5",
       "latitude": 53.510057,
@@ -11456,7 +11268,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 1,
     "location": {
       "name": "SW29-6-19-W4",
       "latitude": 49.500793,
@@ -11513,7 +11324,6 @@
     "avgLength": 19.94,
     "latestStockDate": "2026-05-09",
     "population": 1650,
-    "difficulty": 1,
     "location": {
       "name": "SW14-24-25-W4",
       "latitude": 51.041855,
@@ -11575,7 +11385,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-13",
     "population": 12800,
-    "difficulty": 3,
     "location": {
       "name": "SW30-37-7-W5",
       "latitude": 52.203976,
@@ -11632,7 +11441,6 @@
     "avgLength": 17.9,
     "latestStockDate": "2026-05-25",
     "population": 7500,
-    "difficulty": 2,
     "location": {
       "name": "NW7-89-2-W6",
       "latitude": 56.706382,
@@ -11689,7 +11497,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-05-11",
     "population": 15000,
-    "difficulty": 3,
     "location": {
       "name": "SW18-70-25-W5",
       "latitude": 55.059122,
@@ -11746,7 +11553,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-20",
     "population": 2500,
-    "difficulty": 2,
     "location": {
       "name": "NW1-10-17-W4",
       "latitude": 49.794747,
@@ -11803,7 +11609,6 @@
     "avgLength": 14.3,
     "latestStockDate": "2026-06-04",
     "population": 5000,
-    "difficulty": 3,
     "location": {
       "name": "SW5-36-8-W5",
       "latitude": 52.06155,
@@ -11860,7 +11665,6 @@
     "avgLength": 19.86,
     "latestStockDate": "2026-06-08",
     "population": 3193,
-    "difficulty": 2,
     "location": {
       "name": "NW32-48-21-W4",
       "latitude": 53.1886,
@@ -11937,7 +11741,6 @@
     "avgLength": 21.4,
     "latestStockDate": "2026-05-22",
     "population": 2700,
-    "difficulty": 1,
     "location": {
       "name": "NW15-88-8-W4",
       "latitude": 56.637029,
@@ -11994,7 +11797,6 @@
     "avgLength": 21.1,
     "latestStockDate": "2026-05-22",
     "population": 1500,
-    "difficulty": 1,
     "location": {
       "name": "SW20-88-8-W4",
       "latitude": 56.639271,
@@ -12051,7 +11853,6 @@
     "avgLength": 14.2,
     "latestStockDate": "2026-05-14",
     "population": 600,
-    "difficulty": 1,
     "location": {
       "name": "NW14-24-8-W5",
       "latitude": 51.0347829,
@@ -12108,7 +11909,6 @@
     "avgLength": 20.3,
     "latestStockDate": "2026-05-19",
     "population": 7000,
-    "difficulty": 2,
     "location": {
       "name": "SW6-40-7-W5",
       "latitude": 57.45,
@@ -12165,7 +11965,6 @@
     "avgLength": 22.34,
     "latestStockDate": "2026-06-03",
     "population": 5200,
-    "difficulty": 4,
     "location": {
       "name": "NE29-97-22-W5",
       "latitude": 57.45,
@@ -12227,7 +12026,6 @@
     "avgLength": 21,
     "latestStockDate": "2026-05-08",
     "population": 700,
-    "difficulty": 2,
     "location": {
       "name": "SW32-54-12-W4",
       "latitude": 53.703308,
@@ -12284,7 +12082,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-06-05",
     "population": 5000,
-    "difficulty": 4,
     "location": {
       "name": "NW23-19-9-W5",
       "latitude": 50.617022,
@@ -12341,7 +12138,6 @@
     "avgLength": 23.7,
     "latestStockDate": "2026-05-19",
     "population": 500,
-    "difficulty": 1,
     "location": {
       "name": "NE21-70-22-W5",
       "latitude": 55.0392934,
@@ -12398,7 +12194,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 600,
-    "difficulty": 1,
     "location": {
       "name": "NW17-52-14-W4",
       "latitude": 53.492329,
@@ -12455,7 +12250,6 @@
     "avgLength": 20.2,
     "latestStockDate": "2026-05-12",
     "population": 10000,
-    "difficulty": 2,
     "location": {
       "name": "SW7-52-14-W4",
       "latitude": 53.474312,
@@ -12512,7 +12306,6 @@
     "avgLength": 17.3,
     "latestStockDate": "2026-06-04",
     "population": 15000,
-    "difficulty": 3,
     "location": {
       "name": "SW35-56-8-W6",
       "latitude": 53.882014,
@@ -12569,7 +12362,6 @@
     "avgLength": 20.7,
     "latestStockDate": "2026-05-13",
     "population": 500,
-    "difficulty": 2,
     "location": {
       "name": "NE31-44-6-W4",
       "latitude": 52.8425,
@@ -12626,7 +12418,6 @@
     "avgLength": 21.5,
     "latestStockDate": "2026-05-20",
     "population": 1000,
-    "difficulty": 4,
     "location": {
       "name": "NW7-85-21-W5",
       "latitude": 56.360995,
@@ -12683,7 +12474,6 @@
     "avgLength": 20.8,
     "latestStockDate": "2026-05-19",
     "population": 1500,
-    "difficulty": 3,
     "location": {
       "name": "SE18-73-21-W5",
       "latitude": 55.317308,
@@ -12745,7 +12535,6 @@
     "avgLength": 20.31,
     "latestStockDate": "2026-06-08",
     "population": 2500,
-    "difficulty": 2,
     "location": {
       "name": "NE23-54-23-W4",
       "latitude": 53.683219,
@@ -12822,7 +12611,6 @@
     "avgLength": 21.14,
     "latestStockDate": "2026-05-07",
     "population": 400,
-    "difficulty": 2,
     "location": {
       "name": "NE24-46-24-W4",
       "latitude": 52.987222,
@@ -12884,7 +12672,6 @@
     "avgLength": 24.9,
     "latestStockDate": "2026-05-11",
     "population": 1500,
-    "difficulty": 1,
     "location": {
       "name": "NE35-59-12-W5",
       "latitude": 54.149158,
@@ -12941,7 +12728,6 @@
     "avgLength": 22,
     "latestStockDate": "2026-05-11",
     "population": 2100,
-    "difficulty": 2,
     "location": {
       "name": "SW1-60-10-W5",
       "latitude": 54.15613,
@@ -12998,7 +12784,6 @@
     "avgLength": 15.8,
     "latestStockDate": "2026-05-08",
     "population": 7500,
-    "difficulty": 3,
     "location": {
       "name": "SW31-49-26-W5",
       "latitude": 53.269491,
@@ -13055,7 +12840,6 @@
     "avgLength": 5.2,
     "latestStockDate": "2026-05-28",
     "population": 2500,
-    "difficulty": 3,
     "location": {
       "name": "SW31-49-26-W5",
       "latitude": 53.271338,
@@ -13112,7 +12896,6 @@
     "avgLength": 23.4,
     "latestStockDate": "2026-05-26",
     "population": 1500,
-    "difficulty": 2,
     "location": {
       "name": "SW30-53-9-W5",
       "latitude": 53.601291,
@@ -13169,7 +12952,6 @@
     "avgLength": 21.3,
     "latestStockDate": "2026-05-21",
     "population": 4000,
-    "difficulty": 3,
     "location": {
       "name": "NW2-29-5-W5",
       "latitude": 51.454862,
@@ -13226,7 +13008,6 @@
     "avgLength": 20.1,
     "latestStockDate": "2026-04-29",
     "population": 2000,
-    "difficulty": 2,
     "location": {
       "name": "SW10-42-22-W4",
       "latitude": 52.595848,
@@ -13283,7 +13064,6 @@
     "avgLength": 23.3,
     "latestStockDate": "2026-05-25",
     "population": 750,
-    "difficulty": 1,
     "location": {
       "name": "SW13-53-16-W5",
       "latitude": 53.574507,
@@ -13340,7 +13120,6 @@
     "avgLength": 19.5,
     "latestStockDate": "2026-06-04",
     "population": 4000,
-    "difficulty": 3,
     "location": {
       "name": "SW33-34-6-W5",
       "latitude": 51.957774,

@@ -12,7 +12,6 @@ import HomeFiltersPanel from '../components/HomeFiltersPanel'
 import Pagination from '../components/Pagination'
 import WaterCard from '../components/WaterCard'
 import {
-  filterByDifficulty,
   filterByDistance,
   filterBySearchQuery,
   filterByTroutTypes,
@@ -31,7 +30,6 @@ export default function HomePage() {
   )
   const [selectedTypes, setSelectedTypes] = useState<WaterBodyType[]>([])
   const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
-  const [selectedDifficulties, setSelectedDifficulties] = useState<number[]>([])
   const [searchQuery, setSearchQuery] = useState('')
   const [page, setPage] = useState(1)
   const listRef = useRef<HTMLDivElement>(null)
@@ -41,7 +39,6 @@ export default function HomePage() {
     filtered = filterByDistance(filtered, referenceCity, maxDistance)
     filtered = filterByWaterBodyTypes(filtered, selectedTypes)
     filtered = filterByTroutTypes(filtered, selectedTrout)
-    filtered = filterByDifficulty(filtered, selectedDifficulties)
     return sortWaters(filtered, sortField, sortDirection, referenceCity)
   }, [
     searchQuery,
@@ -49,7 +46,6 @@ export default function HomePage() {
     maxDistance,
     selectedTypes,
     selectedTrout,
-    selectedDifficulties,
     sortField,
     sortDirection,
   ])
@@ -88,8 +84,8 @@ export default function HomePage() {
       <section className="page-hero">
         <h1>Alberta Fishing Waters 2026 Report</h1>
         <p>
-          Browse stocked lakes and rivers with population estimates, difficulty
-          ratings, and stocking history.
+          Browse stocked lakes and rivers with population estimates and stocking
+          history.
         </p>
       </section>
 
@@ -110,8 +106,6 @@ export default function HomePage() {
         onSelectedTypesChange={resetPageAnd(setSelectedTypes)}
         selectedTrout={selectedTrout}
         onSelectedTroutChange={resetPageAnd(setSelectedTrout)}
-        selectedDifficulties={selectedDifficulties}
-        onSelectedDifficultiesChange={resetPageAnd(setSelectedDifficulties)}
       />
 
       <p className="results-count">

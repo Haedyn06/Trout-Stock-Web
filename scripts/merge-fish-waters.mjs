@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Merge freshly extracted TroutData.json into datas/fish-waters.json.
- * Preserves difficulty, waterBodyType, and enriched location data for existing entries.
+ * Preserves waterBodyType and enriched location data for existing entries.
  *
  * Usage:
  *   node scripts/merge-fish-waters.mjs <extracted.json>
@@ -64,7 +64,6 @@ function mergeEntry(incoming, previous) {
 
   const merged = { ...incoming, id: previous.id }
 
-  merged.difficulty = previous.difficulty
   merged.waterBodyType = previous.waterBodyType
 
   if (hasEnrichedLocation(previous.location)) {

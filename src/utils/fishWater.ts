@@ -57,14 +57,6 @@ export function filterByWaterBodyTypes(
   return waters.filter((w) => selectedTypes.includes(w.waterBodyType))
 }
 
-export function filterByDifficulty(
-  waters: FishWater[],
-  selectedLevels: number[],
-): FishWater[] {
-  if (selectedLevels.length === 0) return waters
-  return waters.filter((w) => selectedLevels.includes(w.difficulty))
-}
-
 function normalizeSearchText(value: string): string {
   return value
     .toLowerCase()
@@ -107,8 +99,6 @@ export function sortWaters(
       )
     case 'population':
       return sorted.sort((a, b) => order * (a.population - b.population))
-    case 'difficulty':
-      return sorted.sort((a, b) => order * (a.difficulty - b.difficulty))
     case 'latestStocked':
       return sorted.sort(
         (a, b) =>

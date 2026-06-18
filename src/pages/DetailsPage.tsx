@@ -1,7 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
 import { getFishWaterById } from '../data/loadFishWaters'
 import { ALL_FISH_TYPES, type FishTypeKey } from '../types/fishWater'
-import DifficultyBadge from '../components/DifficultyBadge'
 import ExternalMapLinks from '../components/ExternalMapLinks'
 import WaterBodyTypeBadge from '../components/WaterBodyTypeBadge'
 import {
@@ -50,7 +49,6 @@ export default function DetailsPage() {
             {Math.abs(water.location.longitude).toFixed(4)}°W
           </p>
         </div>
-        <DifficultyBadge level={water.difficulty} />
       </header>
 
       <section className="details-overview">
@@ -71,10 +69,6 @@ export default function DetailsPage() {
             <span className="overview-value">
               {formatDate(water.latestStockDate)}
             </span>
-          </div>
-          <div className="overview-card overview-card--difficulty">
-            <span className="overview-label">Difficulty</span>
-            <DifficultyBadge level={water.difficulty} />
           </div>
         </div>
       </section>

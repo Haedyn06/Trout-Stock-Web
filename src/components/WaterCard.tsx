@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import type { FishWater, ReferenceCity } from '../types/fishWater'
-import DifficultyBadge from './DifficultyBadge'
 import ExternalMapLinks from './ExternalMapLinks'
 import FishTypeList from './FishTypeList'
 import WaterBodyTypeBadge from './WaterBodyTypeBadge'
@@ -28,7 +27,6 @@ export default function WaterCard({ water, referenceCity }: WaterCardProps) {
           </div>
           <p className="water-location">{water.location.name}</p>
         </div>
-        <DifficultyBadge level={water.difficulty} />
       </div>
 
       <div className="water-card-stats">

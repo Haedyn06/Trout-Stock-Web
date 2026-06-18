@@ -250,7 +250,6 @@ for table in tables:
                 "avgLength": 0,
                 "latestStockDate": "",
                 "population": 0,
-                "difficulty": 1,
                 "location": {
                     "name": ats,
                     "latitude": 0,

@@ -16,18 +16,7 @@ function stopSummaryToggle(event: MouseEvent | TouchEvent) {
 export default function MapLegendOverlay({
   markerCount,
   onClose,
-  referenceCity,
-  onReferenceCityChange,
-  maxDistance,
-  onMaxDistanceChange,
-  selectedTypes,
-  onSelectedTypesChange,
-  selectedRegions,
-  onSelectedRegionsChange,
-  selectedTrout,
-  onSelectedTroutChange,
-  selectedDifficulties,
-  onSelectedDifficultiesChange,
+  ...filterProps
 }: MapLegendOverlayProps) {
   const isMobile = useMediaQuery('(max-width: 640px)')
   const [isPanelOpen, setIsPanelOpen] = useState(() => !isMobile)
@@ -83,20 +72,7 @@ export default function MapLegendOverlay({
 
         <div className="map-legend__inner">
           <div className="map-legend__body">
-            <MapFilters
-              referenceCity={referenceCity}
-              onReferenceCityChange={onReferenceCityChange}
-              maxDistance={maxDistance}
-              onMaxDistanceChange={onMaxDistanceChange}
-              selectedTypes={selectedTypes}
-              onSelectedTypesChange={onSelectedTypesChange}
-              selectedRegions={selectedRegions}
-              onSelectedRegionsChange={onSelectedRegionsChange}
-              selectedTrout={selectedTrout}
-              onSelectedTroutChange={onSelectedTroutChange}
-              selectedDifficulties={selectedDifficulties}
-              onSelectedDifficultiesChange={onSelectedDifficultiesChange}
-            />
+            <MapFilters {...filterProps} />
           </div>
 
           <div className="map-legend__footer">

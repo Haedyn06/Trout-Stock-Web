@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import type { FishWater, ReferenceCity } from '../types/fishWater'
-import DifficultyBadge from './DifficultyBadge'
 import ExternalMapLinks from './ExternalMapLinks'
 import FishTypeList from './FishTypeList'
 import WaterBodyTypeBadge from './WaterBodyTypeBadge'
@@ -40,10 +39,6 @@ export default function MapPopupContent({
         <div>
           <span className="label">Latest Update</span>
           <strong>{formatDate(water.latestStockDate)}</strong>
-        </div>
-        <div>
-          <span className="label">Difficulty</span>
-          <DifficultyBadge level={water.difficulty} />
         </div>
       </div>
 

@@ -694,62 +694,6 @@ select {
   color: var(--accent);
 }
 
-.difficulty-rating {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.2rem;
-}
-
-.difficulty-stars {
-  display: inline-flex;
-  gap: 0.1rem;
-  line-height: 1;
-}
-
-.star {
-  font-size: 1rem;
-}
-
-.star--filled {
-  color: #d69e2e;
-}
-
-.star--empty {
-  color: var(--border);
-}
-
-.difficulty-label {
-  font-size: 0.75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-}
-
-.difficulty-1 .difficulty-label {
-  color: var(--success);
-}
-
-.difficulty-2 .difficulty-label {
-  color: #2c5282;
-}
-
-.difficulty-3 .difficulty-label {
-  color: var(--warning);
-}
-
-.difficulty-4 .difficulty-label {
-  color: #c05621;
-}
-
-.difficulty-5 .difficulty-label {
-  color: var(--danger);
-}
-
-.overview-card--difficulty {
-  justify-content: center;
-}
-
 .btn {
   display: inline-flex;
   align-items: center;

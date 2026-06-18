@@ -15,9 +15,8 @@ export default function DisclaimerPage() {
           <p>
             AB-STrout is an unofficial reference tool for quickly looking up
             stocked trout waters across Alberta. It is intended to help anglers
-            explore population estimates, stocking history, difficulty ratings,
-            and locations in one place — not to replace official government
-            resources.
+            explore population estimates, stocking history, and locations in one
+            place — not to replace official government resources.
           </p>
         </section>
 

@@ -14,9 +14,9 @@ An unofficial web app for quickly browsing Alberta stocked trout waters. Search 
 
 - **Home** — Browse all water bodies with filters, sorting, and pagination
 - **Map** — Interactive map with markers, popups, and regional filters
-- **Details** — Full fish statistics, difficulty rating, stocking logs, and Google Maps navigation
+- **Details** — Full fish statistics, stocking logs, and Google Maps navigation
 - **Filters** — Distance from Calgary/Edmonton, water body type, trout species, Alberta quadrant (NE/NW/SE/SW on map)
-- **Sorting** — Name, population, difficulty, latest stocked, distance (ascending or descending)
+- **Sorting** — Name, population, latest stocked, distance (ascending or descending)
 
 ## Tech stack
 
@@ -53,7 +53,7 @@ Water body records live in `datas/fish-waters.json`. Use `datas/fish-water-templ
 
 Each record includes:
 
-- Water body name, type, difficulty, population, and stocking dates
+- Water body name, type, population, and stocking dates
 - Fish species breakdown (brook, brown, tiger, rainbow, cutthroat trout, walleye)
 - Location (legal land description, coordinates, distance from Calgary/Edmonton)
 - Stocking logs
