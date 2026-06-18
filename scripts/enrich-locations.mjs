@@ -18,6 +18,9 @@ const DATA_PATH = path.join(__dirname, '../datas/fish-waters.json')
 const BACKUP_PATH = path.join(__dirname, '../datas/fish-waters.backup.json')
 const CACHE_PATH = path.join(__dirname, '.geocode-cache.json')
 
+/** Prefer ATS over web geocoding when the water name is ambiguous */
+const ATS_FIRST_IDS = new Set(['spring_lake'])
+
 const CALGARY = { lat: 51.0447, lng: -114.0719 }
 const EDMONTON = { lat: 53.5461, lng: -113.4938 }
 
@@ -200,11 +203,28 @@ async function geocodeWithNominatim(query) {
 
 async function resolveCoordinates(water, cache) {
   const cacheKey = water.id
-  if (cache[cacheKey]) {
+  if (cache[cacheKey] && !ATS_FIRST_IDS.has(water.id)) {
     return cache[cacheKey]
   }
 
   const { name: legalName } = water.location
+
+  if (ATS_FIRST_IDS.has(water.id)) {
+    const parsed = parseLegalLandDescription(legalName)
+    if (parsed) {
+      const coords = atsToLatLng(parsed)
+      if (coords) {
+        const result = {
+          lat: coords.lat,
+          lng: coords.lng,
+          source: `ats:${legalName}`,
+        }
+        cache[cacheKey] = result
+        return result
+      }
+    }
+  }
+
   const nominatimQueries = useGeocode
     ? [
         `${water.waterBodyName}, Alberta, Canada`,

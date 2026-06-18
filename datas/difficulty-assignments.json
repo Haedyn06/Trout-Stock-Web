@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-09T19:24:34.764Z",
+  "generatedAt": "2026-06-18T16:46:06.931Z",
   "assignments": [
     {
       "id": "birch_lake",
       "waterBodyName": "Birch Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -29,7 +29,7 @@
     },
     {
       "id": "blood_indian_creek",
-      "waterBodyName": "Blood Indian Creek",
+      "waterBodyName": "Blood Indian Creek Reservoir",
       "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
@@ -185,7 +185,7 @@
     },
     {
       "id": "captain_eyre_lake_capt",
-      "waterBodyName": "Captain Eyre Lake (Capt)",
+      "waterBodyName": "Captain Eyre Lake (Capt Ayre)",
       "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
@@ -277,7 +277,7 @@
     {
       "id": "champion_lakes_lower",
       "waterBodyName": "Champion Lakes (Lower)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -290,7 +290,7 @@
     {
       "id": "champion_lakes_upper",
       "waterBodyName": "Champion Lakes (Upper)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -315,7 +315,7 @@
     },
     {
       "id": "claude_n_brennan",
-      "waterBodyName": "Claude N. Brennan",
+      "waterBodyName": "Claude N. Brennan Memorial",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -717,19 +717,6 @@
       "excerpt": " the local pond offers everyone the opportunity to enjoy the scenery, swim and fish. the fishing dock was recently upgraded and the site restored to its natural beauty."
     },
     {
-      "id": "frog_lake",
-      "waterBodyName": "Frog Lake",
-      "previousDifficulty": 1,
-      "difficulty": 3,
-      "source": "fallback",
-      "reasons": [
-        "fallback:lake"
-      ],
-      "mwaId": null,
-      "mwaUrl": null,
-      "excerpt": null
-    },
-    {
       "id": "gibbons_pond",
       "waterBodyName": "Gibbons Pond",
       "previousDifficulty": 2,
@@ -901,7 +888,7 @@
     },
     {
       "id": "high_level_community",
-      "waterBodyName": "High Level Community",
+      "waterBodyName": "High Level Community Park",
       "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
@@ -1018,7 +1005,7 @@
     },
     {
       "id": "irma_fish_and_game_pond",
-      "waterBodyName": "Irma Fish And Game Pond",
+      "waterBodyName": "Irma Fish and Game Pond",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -1160,6 +1147,19 @@
       "excerpt": " this small pond gets quite snowy in the winter. ice fish in the early winter, as this pond has a tendency to winterkill."
     },
     {
+      "id": "la_crete_pond",
+      "waterBodyName": "La Crete Pond",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "MWA site description"
+      ],
+      "mwaId": "20267",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=20267",
+      "excerpt": " this pond may be subject to winterkill."
+    },
+    {
       "id": "lac_la_biche_trout_pond",
       "waterBodyName": "Lac La Biche Trout Pond",
       "previousDifficulty": 2,
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "little_bear_lake_hasse",
-      "waterBodyName": "Little Bear Lake (Hasse)",
+      "waterBodyName": "Little Bear Lake (Hasse Lake)",
       "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
@@ -1355,6 +1355,32 @@
       "excerpt": " lake is only accessible by hiking or biking only."
     },
     {
+      "id": "lower_kananaskis_lake",
+      "waterBodyName": "Lower Kananaskis Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "fallback",
+      "reasons": [
+        "fallback:lake"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
+    },
+    {
+      "id": "machesis_lake",
+      "waterBodyName": "Machesis Lake",
+      "previousDifficulty": 2,
+      "difficulty": 2,
+      "source": "mywildalberta",
+      "reasons": [
+        "developed/day-use access"
+      ],
+      "mwaId": "6750",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6750",
+      "excerpt": " campsite basics include fire pits, firewood, picnic tables and pit/vault toilets; also a picnic shelter, fish cleaning stand and sewage disposal station. there is a boat launch and a dock for fishing."
+    },
+    {
       "id": "magrath_childrens_pond",
       "waterBodyName": "Magrath Childrens Pond",
       "previousDifficulty": 1,
@@ -1370,7 +1396,7 @@
     {
       "id": "margaret_lake",
       "waterBodyName": "Margaret Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -1383,7 +1409,7 @@
     {
       "id": "mary_gregg_lake",
       "waterBodyName": "Mary Gregg Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1434,7 +1460,7 @@
     },
     {
       "id": "mcleod_lake_carson",
-      "waterBodyName": "McLeod Lake (Carson)",
+      "waterBodyName": "McLeod Lake (Carson Lake)",
       "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
@@ -1590,7 +1616,7 @@
     },
     {
       "id": "montaganeusse_lake",
-      "waterBodyName": "Montaganeusse Lake",
+      "waterBodyName": "Montaganeusse Lake (Stoney)",
       "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
@@ -1616,7 +1642,7 @@
     },
     {
       "id": "morinville_fish_and_game",
-      "waterBodyName": "Morinville Fish And Game",
+      "waterBodyName": "Morinville Fish and Game",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -1850,7 +1876,7 @@
     },
     {
       "id": "oyen_concrete_plant",
-      "waterBodyName": "Oyen (Concrete Plant)",
+      "waterBodyName": "Oyen (Concrete Plant) Pond)",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -1863,7 +1889,7 @@
     },
     {
       "id": "parlby_reservoir_tees",
-      "waterBodyName": "Parlby Reservoir (Tees)",
+      "waterBodyName": "Parlby Reservoir (Tees Fish)",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -1942,7 +1968,7 @@
     {
       "id": "pierre_greys_lakes_lower",
       "waterBodyName": "Pierre Greys Lakes (Lower)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1955,7 +1981,7 @@
     {
       "id": "pierre_greys_lakes_middle",
       "waterBodyName": "Pierre Greys Lakes (Middle)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -1968,7 +1994,7 @@
     {
       "id": "pierre_greys_lakes_upper",
       "waterBodyName": "Pierre Greys Lakes (Upper)",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2058,7 +2084,7 @@
     },
     {
       "id": "ponoka_centennial_park",
-      "waterBodyName": "Ponoka Centennial Park",
+      "waterBodyName": "Ponoka Centennial Park Pond",
       "previousDifficulty": 1,
       "difficulty": 1,
       "source": "mywildalberta",
@@ -2097,7 +2123,7 @@
     },
     {
       "id": "rainbow_park_pond",
-      "waterBodyName": "Rainbow Park Pond",
+      "waterBodyName": "Rainbow Park Pond (Westlock)",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -2332,7 +2358,7 @@
     {
       "id": "sparrows_egg_lake",
       "waterBodyName": "Sparrow's Egg Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 5,
       "difficulty": 5,
       "source": "mywildalberta",
       "reasons": [
@@ -2355,6 +2381,19 @@
       "mwaId": "6692",
       "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6692",
       "excerpt": " this park has camping on site with the basic camping amenities. the site is well taken care of."
+    },
+    {
+      "id": "spring_lake",
+      "waterBodyName": "Spring Lake",
+      "previousDifficulty": 3,
+      "difficulty": 3,
+      "source": "manual",
+      "reasons": [
+        "manual override (not on MWA or known local access)"
+      ],
+      "mwaId": null,
+      "mwaUrl": null,
+      "excerpt": null
     },
     {
       "id": "spring_lake_cottage",
@@ -2476,7 +2515,7 @@
     {
       "id": "taber_trout_pond",
       "waterBodyName": "Taber Trout Pond",
-      "previousDifficulty": 1,
+      "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
       "reasons": [
@@ -2489,7 +2528,7 @@
     {
       "id": "tay_lake",
       "waterBodyName": "Tay Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2567,8 +2606,8 @@
     },
     {
       "id": "twin_lakes_east_twin",
-      "waterBodyName": "Twin Lakes (East Twin)",
-      "previousDifficulty": 1,
+      "waterBodyName": "Twin Lakes (East Twin Lake)",
+      "previousDifficulty": 4,
       "difficulty": 4,
       "source": "mywildalberta",
       "reasons": [
@@ -2590,6 +2629,19 @@
       "mwaId": "6670",
       "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6670",
       "excerpt": " aca annually stocks this pond with trout, typically before the may long weekend."
+    },
+    {
+      "id": "upper_kananaskis_lake",
+      "waterBodyName": "Upper Kananaskis Lake",
+      "previousDifficulty": 4,
+      "difficulty": 4,
+      "source": "mywildalberta",
+      "reasons": [
+        "trail/hike access"
+      ],
+      "mwaId": "6061",
+      "mwaUrl": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx?id=6061",
+      "excerpt": " upper kananaskis lake is located within peter lougheed provincial park and offers stunning mountain scenery and recreational opportunities. visitors can access the lake by parking at the upper kananaskis lake day use area; please note that"
     },
     {
       "id": "valleyview_childrens_pond",
@@ -2634,7 +2686,7 @@
     {
       "id": "victor_lake",
       "waterBodyName": "Victor Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [
@@ -2685,7 +2737,7 @@
     },
     {
       "id": "west_rivers_edge_pond",
-      "waterBodyName": "West Rivers Edge Pond",
+      "waterBodyName": "West Rivers Edge Pond (Fort)",
       "previousDifficulty": 2,
       "difficulty": 2,
       "source": "mywildalberta",
@@ -2816,7 +2868,7 @@
     {
       "id": "yellowhead_lake",
       "waterBodyName": "Yellowhead Lake",
-      "previousDifficulty": 1,
+      "previousDifficulty": 3,
       "difficulty": 3,
       "source": "mywildalberta",
       "reasons": [

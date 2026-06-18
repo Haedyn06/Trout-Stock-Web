@@ -1,18 +1,18 @@
 {
   "dataFile": "fish-waters.json",
   "reportSource": "Alberta Fish Stocking Report 2026",
-  "reportLastUpdated": "2026-06-08",
+  "reportLastUpdated": "2026-06-15",
   "difficulty": {
     "scale": {
-      "1": "Easy — urban/community ponds, full facilities, roadside access, guarantee catching fish",
-      "2": "Fair — road-accessible lakes with basic amenities, fair amount of time to catch fish",
-      "3": "Moderate — gravel roads, remote drives, mine pits, limited facilities, 50/50 of catching fish",
-      "4": "Hard — hike or bike access, backcountry trails, able to catch fish with the right techniques and accuracy",
-      "5": "Difficult — helicopter/fly-in, very remote wilderness, need speciial techniques to catch fish"
+      "1": "Easy — urban/community ponds, full facilities, roadside access",
+      "2": "Fair — road-accessible lakes with basic amenities",
+      "3": "Moderate — gravel roads, remote drives, mine pits, limited facilities",
+      "4": "Hard — hike or bike access, backcountry trails",
+      "5": "Difficult — helicopter/fly-in, very remote wilderness"
     },
     "source": "https://mywildalberta.ca/fishing/fish-stocking/stocking-maps.aspx",
     "methodology": "Ratings derived from My Wild Alberta stocking map site amenities and descriptions (access, remoteness, facilities), with name/type heuristics and manual overrides where MWA has no listing.",
-    "lastAssigned": "2026-06-08",
+    "lastAssigned": "2026-06-15",
     "assignmentsFile": "difficulty-assignments.json"
   }
 }

@@ -85,7 +85,14 @@ const MANUAL_ALIASES = {
   "Sparrow's Egg Lake": 'Sparrows Egg Lake',
   "Stirling Children's Pond": "Stirling Children's Pond",
   'Twin Lakes (East Twin)': 'East Twin Lake',
+  'Twin Lakes (East Twin Lake)': 'East Twin Lake',
+  'Montaganeusse Lake (Stoney)': 'Montagneuse Lake (Stony Lake)',
+  'Captain Eyre Lake (Capt Ayre)': 'Captain Ayre Lake',
+  'Claude N. Brennan Memorial': 'Claude N Bernnan Memorial Pond (Vermillion Park',
 }
+
+/** water ids that must not fuzzy-match to a different MWA listing (use ATS / manual coords) */
+const ATS_ONLY_IDS = new Set(['spring_lake'])
 
 /** water id -> MWA listing id when name matching is unreliable */
 const MANUAL_MWA_IDS = {
@@ -347,6 +354,11 @@ async function main() {
   const unmatched = []
 
   for (const water of waters) {
+    if (ATS_ONLY_IDS.has(water.id)) {
+      unmatched.push(water.waterBodyName)
+      continue
+    }
+
     const manualId = MANUAL_MWA_IDS[water.id]
     if (manualId) {
       const entry = lookup.mwaEntries.find((item) => item.id === manualId)

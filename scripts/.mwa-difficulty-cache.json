@@ -383,6 +383,12 @@
     "combined": " the lake is excellent for canoeing and non-motorized boats with lots of wildlife viewing opportunities. fish for trout, hike the loop trail to the second lake or take a dip in the cool deep waters.",
     "fetchedAt": "2026-06-09T19:24:34.560Z"
   },
+  "6061": {
+    "amenities": "",
+    "description": "Upper Kananaskis Lake is located within Peter Lougheed Provincial Park and offers stunning mountain scenery and recreational opportunities. Visitors can access the lake by parking at the Upper Kananaskis Lake Day Use Area; please note that a Kananaskis Conservation Pass is required for parking. The main hiking loop around the lake is approximately 15.8 kilometers in length, with an elevation gain of 296 meters. This route typically takes 4 to 6 hours to complete and is considered an easy to moderate hike, providing panoramic views of the lake and surrounding peaks.",
+    "combined": " upper kananaskis lake is located within peter lougheed provincial park and offers stunning mountain scenery and recreational opportunities. visitors can access the lake by parking at the upper kananaskis lake day use area; please note that a kananaskis conservation pass is required for parking. the main hiking loop around the lake is approximately 15.8 kilometers in length, with an elevation gain of 296 meters. this route typically takes 4 to 6 hours to complete and is considered an easy to moderate hike, providing panoramic views of the lake and surrounding peaks.",
+    "fetchedAt": "2026-06-18T16:45:40.192Z"
+  },
   "6082": {
     "amenities": "",
     "description": "This pond is in Vermilion Provincial Park. Users are subject to Vermilion Provincial Park restrictions.",
@@ -712,6 +718,12 @@
     "description": "ACA stocks this pond annually with trout, typically before the May long weekend.",
     "combined": " aca stocks this pond annually with trout, typically before the may long weekend.",
     "fetchedAt": "2026-06-05T03:48:43.341Z"
+  },
+  "6750": {
+    "amenities": "",
+    "description": "Campsite basics include fire pits, firewood, picnic tables and pit/vault toilets; also a picnic shelter, fish cleaning stand and sewage disposal station. There is a boat launch and a dock for fishing.",
+    "combined": " campsite basics include fire pits, firewood, picnic tables and pit/vault toilets; also a picnic shelter, fish cleaning stand and sewage disposal station. there is a boat launch and a dock for fishing.",
+    "fetchedAt": "2026-06-18T16:45:40.164Z"
   },
   "6753": {
     "amenities": "",
@@ -1090,6 +1102,12 @@
     "description": "Castaway Trout Pond, located near Viking southeast of Edmonton, is an excellent destination for both beginners and experienced anglers to enjoy fishing. The Alberta Conservation Association (ACA) typically stocks this water body before the May long weekend, ensuring great opportunities for anglers throughout the season.",
     "combined": " castaway trout pond, located near viking southeast of edmonton, is an excellent destination for both beginners and experienced anglers to enjoy fishing. the alberta conservation association (aca) typically stocks this water body before the may long weekend, ensuring great opportunities for anglers throughout the season.",
     "fetchedAt": "2026-06-05T03:48:37.949Z"
+  },
+  "20267": {
+    "amenities": "",
+    "description": "This pond may be subject to winterkill.",
+    "combined": " this pond may be subject to winterkill.",
+    "fetchedAt": "2026-06-18T16:45:39.902Z"
   },
   "21137": {
     "amenities": "",

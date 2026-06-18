@@ -86,6 +86,10 @@ const MANUAL_ALIASES = {
   "Sparrow's Egg Lake": 'Sparrows Egg Lake',
   "Stirling Children's Pond": "Stirling Children's Pond",
   'Twin Lakes (East Twin)': 'East Twin Lake',
+  'Twin Lakes (East Twin Lake)': 'East Twin Lake',
+  'Montaganeusse Lake (Stoney)': 'Montagneuse Lake (Stony Lake)',
+  'Captain Eyre Lake (Capt Ayre)': 'Captain Ayre Lake',
+  'Claude N. Brennan Memorial': 'Claude N Bernnan Memorial Pond (Vermillion Park',
 }
 
 /** id -> difficulty when MWA/heuristics need a human override */
@@ -93,6 +97,7 @@ const MANUAL_DIFFICULTY = {
   bullshead_reservoir: 3,
   lamont_pond: 1,
   little_beaverdam_lake: 3,
+  spring_lake: 3,
   tim_horton_children_s_pond: 1,
   valleyview_children_s_pond: 1,
   dolberg_lake: 3,
@@ -507,7 +512,7 @@ async function main() {
     source: MWA_SOURCE,
     methodology:
       'Ratings derived from My Wild Alberta stocking map site amenities and descriptions (access, remoteness, facilities), with name/type heuristics and manual overrides where MWA has no listing.',
-    lastAssigned: '2026-06-01',
+    lastAssigned: '2026-06-15',
     assignmentsFile: 'difficulty-assignments.json',
   }
 

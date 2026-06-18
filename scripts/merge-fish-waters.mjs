@@ -30,6 +30,14 @@ const existing = JSON.parse(fs.readFileSync(DATA_PATH, 'utf8'))
 
 const existingById = new Map(existing.map((water) => [water.id, water]))
 
+function normalizeAts(ats) {
+  return ats.replace(/\s+/g, '').toUpperCase()
+}
+
+const existingByAts = new Map(
+  existing.map((water) => [normalizeAts(water.location.name), water]),
+)
+
 function hasEnrichedLocation(location) {
   return (
     location.latitude !== 0 &&
@@ -39,12 +47,22 @@ function hasEnrichedLocation(location) {
   )
 }
 
+function findPreviousEntry(incoming) {
+  const byId = existingById.get(incoming.id)
+  if (byId) return byId
+
+  const byAts = existingByAts.get(normalizeAts(incoming.location.name))
+  if (byAts) return byAts
+
+  return undefined
+}
+
 function mergeEntry(incoming, previous) {
   if (!previous) {
     return incoming
   }
 
-  const merged = { ...incoming }
+  const merged = { ...incoming, id: previous.id }
 
   merged.difficulty = previous.difficulty
   merged.waterBodyType = previous.waterBodyType
@@ -61,7 +79,9 @@ function mergeEntry(incoming, previous) {
   return merged
 }
 
-const merged = extracted.map((incoming) => mergeEntry(incoming, existingById.get(incoming.id)))
+const merged = extracted.map((incoming) =>
+  mergeEntry(incoming, findPreviousEntry(incoming)),
+)
 const mergedIds = new Set(merged.map((water) => water.id))
 
 const added = merged.filter((water) => !existingById.has(water.id))
