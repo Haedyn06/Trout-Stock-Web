@@ -38,6 +38,24 @@ export default function DisclaimerPage() {
             where data has been processed, geocoded, or summarized for this site.
           </p>
           <p>
+            Water body locations in particular may be wrong: map coordinates,
+            legal land descriptions, distance estimates, and pins on the site map
+            do not always match the actual water body on the ground. Similar or
+            duplicate names (for example, lakes and ponds in the same area) can
+            also lead to mismatched entries. Other data shown on this site may
+            be inaccurate for the same reasons.
+          </p>
+          <p>
+            <strong>
+              The developer of AB-STrout is not liable for any inaccurate
+              locations, stocking figures, or other information published on this
+              site
+            </strong>
+            , nor for any loss, inconvenience, wasted trip, or other outcome that
+            results from relying on this data. Use of this site is entirely at
+            the user&apos;s own risk.
+          </p>
+          <p>
             <strong>Do not rely on this site as your only source of truth.</strong>{' '}
             Always verify stocking status, access rules, seasons, limits, and
             regulations with official Alberta Environment and Protected Areas
@@ -100,9 +118,9 @@ export default function DisclaimerPage() {
           <h2>External Links &amp; Third-Party Services</h2>
           <p>
             Links to external map services (such as Google Maps) and other
-            third-party sites are provided for convenience only. We do not control
-            and are not responsible for the content, accuracy, or policies of
-            those services.
+            third-party sites are provided for convenience only. The developer
+            does not control and is not responsible for the content, accuracy, or
+            policies of those services.
           </p>
         </section>
 

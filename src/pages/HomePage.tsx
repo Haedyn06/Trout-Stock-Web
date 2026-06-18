@@ -1,15 +1,9 @@
-import { useMemo, useRef, useState } from 'react'
+import { useMemo, useRef } from 'react'
 import { fishWaters } from '../data/loadFishWaters'
-import type {
-  FishTypeKey,
-  ReferenceCity,
-  SortDirection,
-  SortField,
-} from '../types/fishWater'
-import { DEFAULT_DISTANCE_KM, DEFAULT_SORT_DIRECTION } from '../types/fishWater'
 import HomeFiltersPanel from '../components/HomeFiltersPanel'
 import Pagination from '../components/Pagination'
 import WaterCard from '../components/WaterCard'
+import { useHomeListState } from '../context/HomeListStateContext'
 import {
   filterByDistance,
   filterBySearchQuery,
@@ -20,15 +14,16 @@ import {
 const PAGE_SIZE = 9
 
 export default function HomePage() {
-  const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
-  const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
-  const [sortField, setSortField] = useState<SortField>('latestStocked')
-  const [sortDirection, setSortDirection] = useState<SortDirection>(
-    DEFAULT_SORT_DIRECTION.latestStocked,
-  )
-  const [selectedTrout, setSelectedTrout] = useState<FishTypeKey[]>([])
-  const [searchQuery, setSearchQuery] = useState('')
-  const [page, setPage] = useState(1)
+  const { state, setState } = useHomeListState()
+  const {
+    referenceCity,
+    maxDistance,
+    sortField,
+    sortDirection,
+    selectedTrout,
+    searchQuery,
+    page,
+  } = state
   const listRef = useRef<HTMLDivElement>(null)
 
   const filteredWaters = useMemo(() => {
@@ -53,16 +48,15 @@ export default function HomePage() {
     return filteredWaters.slice(start, start + PAGE_SIZE)
   }, [filteredWaters, currentPage])
 
-  function resetPageAnd<T>(setter: (value: T) => void) {
-    return (value: T) => {
-      setter(value)
-      setPage(1)
+  function resetPageAnd<K extends keyof typeof state>(key: K) {
+    return (value: (typeof state)[K]) => {
+      setState((prev) => ({ ...prev, [key]: value, page: 1 }))
     }
   }
 
   function handlePageChange(nextPage: number) {
     const clampedPage = Math.max(1, Math.min(nextPage, totalPages))
-    setPage(clampedPage)
+    setState((prev) => ({ ...prev, page: clampedPage }))
     listRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }
 
@@ -86,19 +80,19 @@ export default function HomePage() {
 
       <HomeFiltersPanel
         searchQuery={searchQuery}
-        onSearchQueryChange={resetPageAnd(setSearchQuery)}
+        onSearchQueryChange={resetPageAnd('searchQuery')}
         searchResultCount={filteredWaters.length}
         searchTotalCount={fishWaters.length}
         referenceCity={referenceCity}
-        onReferenceCityChange={resetPageAnd(setReferenceCity)}
+        onReferenceCityChange={resetPageAnd('referenceCity')}
         maxDistance={maxDistance}
-        onMaxDistanceChange={resetPageAnd(setMaxDistance)}
+        onMaxDistanceChange={resetPageAnd('maxDistance')}
         sortField={sortField}
         sortDirection={sortDirection}
-        onSortFieldChange={resetPageAnd(setSortField)}
-        onSortDirectionChange={resetPageAnd(setSortDirection)}
+        onSortFieldChange={resetPageAnd('sortField')}
+        onSortDirectionChange={resetPageAnd('sortDirection')}
         selectedTrout={selectedTrout}
-        onSelectedTroutChange={resetPageAnd(setSelectedTrout)}
+        onSelectedTroutChange={resetPageAnd('selectedTrout')}
       />
 
       <p className="results-count">

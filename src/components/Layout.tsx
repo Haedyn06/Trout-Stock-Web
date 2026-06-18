@@ -1,5 +1,6 @@
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import brandLogo from '../assets/logo2.png'
+import { useHomeListState } from '../context/HomeListStateContext'
 import DataUpdateLabel from './DataUpdateLabel'
 import StockingMarquee from './StockingMarquee'
 
@@ -14,6 +15,7 @@ function goHomeWithRefresh(event: React.MouseEvent<HTMLAnchorElement>) {
 
 export default function Layout() {
   const { pathname } = useLocation()
+  const { resetHomeListState } = useHomeListState()
   const showStockingMarquee = pathname === '/'
 
   return (
@@ -29,10 +31,12 @@ export default function Layout() {
               />
             </a>
             <nav className="site-nav">
-              <NavLink to="/" end>
+              <NavLink to="/" end onClick={resetHomeListState}>
                 Home
               </NavLink>
-              <NavLink to="/map">Map</NavLink>
+              <NavLink to="/map" onClick={resetHomeListState}>
+                Map
+              </NavLink>
             </nav>
           </div>
         </header>

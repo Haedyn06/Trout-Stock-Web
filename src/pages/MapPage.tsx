@@ -12,6 +12,7 @@ import MapLegendOverlay from '../components/MapLegendOverlay'
 import MapResizeHandler from '../components/MapResizeHandler'
 import WaterMapMarkers from '../components/WaterMapMarkers'
 import WaterSearchBar from '../components/WaterSearchBar'
+import { useHomeListState } from '../context/HomeListStateContext'
 import { filterByAlbertaRegions } from '../utils/albertaRegion'
 import {
   filterByDistance,
@@ -29,9 +30,14 @@ const NORTH_AMERICA_BOUNDS: [[number, number], [number, number]] = [
 
 export default function MapPage() {
   const [searchParams, setSearchParams] = useSearchParams()
+  const { resetHomeListState } = useHomeListState()
   const focusWaterId = searchParams.get('water')
   const focusWater = focusWaterId ? getFishWaterById(focusWaterId) : undefined
   const isFocused = Boolean(focusWater)
+
+  useEffect(() => {
+    resetHomeListState()
+  }, [resetHomeListState])
 
   const [referenceCity, setReferenceCity] = useState<ReferenceCity>('calgary')
   const [maxDistance, setMaxDistance] = useState(DEFAULT_DISTANCE_KM)
