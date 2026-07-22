@@ -18,9 +18,13 @@ const BACKUP_PATH = path.join(__dirname, '../datas/fish-waters.backup.json')
 
 const extractedPath = process.argv[2]
 const shouldWrite = process.argv.includes('--write')
+/** Keep existing waters that camelot missed but are still in the PDF report. */
+const retainMissing = process.argv.includes('--retain-missing')
 
 if (!extractedPath) {
-  console.error('Usage: node scripts/merge-fish-waters.mjs <extracted.json> [--write]')
+  console.error(
+    'Usage: node scripts/merge-fish-waters.mjs <extracted.json> [--write] [--retain-missing]',
+  )
   process.exit(1)
 }
 
@@ -87,13 +91,20 @@ const added = merged.filter((water) => !existingById.has(water.id))
 const updated = merged.filter((water) => existingById.has(water.id))
 const removed = existing.filter((water) => !mergedIds.has(water.id))
 
+if (retainMissing && removed.length > 0) {
+  for (const water of removed) {
+    merged.push(water)
+    mergedIds.add(water.id)
+  }
+}
+
 console.log('=== Fish Waters Merge ===\n')
 console.log(`Extracted entries: ${extracted.length}`)
 console.log(`Existing entries:  ${existing.length}`)
 console.log(`Merged entries:    ${merged.length}`)
 console.log(`New waters:        ${added.length}`)
 console.log(`Updated waters:    ${updated.length}`)
-console.log(`Removed from PDF:  ${removed.length}`)
+console.log(`Missing from extract: ${removed.length}`)
 
 if (added.length > 0) {
   console.log('\nNew waters:')
@@ -103,7 +114,11 @@ if (added.length > 0) {
 }
 
 if (removed.length > 0) {
-  console.log('\nNo longer in PDF (kept out of merged output):')
+  console.log(
+    retainMissing
+      ? '\nMissing from extract (retained from existing data):'
+      : '\nNo longer in PDF (kept out of merged output):',
+  )
   for (const water of removed.slice(0, 20)) {
     console.log(`  - ${water.waterBodyName} (${water.id})`)
   }

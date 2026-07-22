@@ -5433,9 +5433,9 @@
   {
     "id": "kids_can_catch_pond",
     "waterBodyName": "Kids Can Catch Pond",
-    "avgLength": 23.7,
-    "latestStockDate": "2026-05-12",
-    "population": 36,
+    "avgLength": 24.86,
+    "latestStockDate": "2026-06-25",
+    "population": 86,
     "location": {
       "name": "SW13-24-1-W5",
       "latitude": 51.0414312,
@@ -5462,9 +5462,9 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 36,
-        "avgLength": 23.7,
-        "lastPopulatedDate": "2026-05-12"
+        "population": 86,
+        "avgLength": 24.86,
+        "lastPopulatedDate": "2026-06-25"
       },
       "cutthroatTrout": {
         "population": 0,
@@ -5487,6 +5487,11 @@
         "stockDate": "2026-05-12",
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 21
+      },
+      {
+        "stockDate": "2026-06-25",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 50
       }
     ],
     "waterBodyType": "pond"
@@ -7903,7 +7908,7 @@
   },
   {
     "id": "morinville_fish_and_game",
-    "waterBodyName": "Morinville Fish And Game",
+    "waterBodyName": "Morinville Fish and Game",
     "avgLength": 21.92,
     "latestStockDate": "2026-05-05",
     "population": 1525,
@@ -8021,9 +8026,9 @@
   {
     "id": "mount_lorette_ponds",
     "waterBodyName": "Mount Lorette Ponds",
-    "avgLength": 17.61,
-    "latestStockDate": "2026-06-05",
-    "population": 2800,
+    "avgLength": 17.84,
+    "latestStockDate": "2026-06-25",
+    "population": 4000,
     "location": {
       "name": "SW19-23-8-W5",
       "latitude": 50.969566,
@@ -8050,14 +8055,14 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 1200,
-        "avgLength": 21.1,
-        "lastPopulatedDate": "2026-06-05"
+        "population": 1600,
+        "avgLength": 21.25,
+        "lastPopulatedDate": "2026-06-25"
       },
       "cutthroatTrout": {
-        "population": 1600,
-        "avgLength": 15,
-        "lastPopulatedDate": "2026-06-05"
+        "population": 2400,
+        "avgLength": 15.57,
+        "lastPopulatedDate": "2026-06-25"
       },
       "walleye": {
         "population": 0,
@@ -8084,6 +8089,16 @@
       {
         "stockDate": "2026-06-05",
         "typeOfFish": "rainbowTrout",
+        "amountPopulated": 800
+      },
+      {
+        "stockDate": "2026-06-25",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 400
+      },
+      {
+        "stockDate": "2026-06-25",
+        "typeOfFish": "cutthroatTrout",
         "amountPopulated": 800
       }
     ],
