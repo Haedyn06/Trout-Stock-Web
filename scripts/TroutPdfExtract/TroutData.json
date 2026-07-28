@@ -1,5 +1,115 @@
 [
   {
+    "id": "bellis_beach_lake",
+    "waterBodyName": "Bellis Beach Lake",
+    "avgLength": 20.6,
+    "latestStockDate": "2026-05-14",
+    "population": 9835,
+    "location": {
+      "name": "SE15-59-15-W4",
+      "latitude": 0,
+      "longitude": 0,
+      "cityRange": {
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
+      }
+    },
+    "fishTypes": {
+      "brookTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "brownTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "tigerTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "rainbowTrout": {
+        "population": 9835,
+        "avgLength": 20.6,
+        "lastPopulatedDate": "2026-05-14"
+      },
+      "cutthroatTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "walleye": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      }
+    },
+    "logs": [
+      {
+        "stockDate": "2026-05-14",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 9835
+      }
+    ]
+  },
+  {
+    "id": "big_iron_lake",
+    "waterBodyName": "Big Iron Lake",
+    "avgLength": 19.5,
+    "latestStockDate": "2026-06-05",
+    "population": 750,
+    "location": {
+      "name": "NW1-15-4-W5",
+      "latitude": 0,
+      "longitude": 0,
+      "cityRange": {
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
+      }
+    },
+    "fishTypes": {
+      "brookTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "brownTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "tigerTrout": {
+        "population": 750,
+        "avgLength": 19.5,
+        "lastPopulatedDate": "2026-06-05"
+      },
+      "rainbowTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "cutthroatTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "walleye": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      }
+    },
+    "logs": [
+      {
+        "stockDate": "2026-06-05",
+        "typeOfFish": "tigerTrout",
+        "amountPopulated": 750
+      }
+    ]
+  },
+  {
     "id": "birch_lake",
     "waterBodyName": "Birch Lake",
     "avgLength": 19.54,
@@ -3892,9 +4002,9 @@
   {
     "id": "grotto_mountain_pond",
     "waterBodyName": "Grotto Mountain Pond",
-    "avgLength": 14.2,
-    "latestStockDate": "2026-05-14",
-    "population": 800,
+    "avgLength": 15.14,
+    "latestStockDate": "2026-07-22",
+    "population": 1600,
     "location": {
       "name": "NW21-24-9-W5",
       "latitude": 0,
@@ -3926,9 +4036,9 @@
         "lastPopulatedDate": ""
       },
       "cutthroatTrout": {
-        "population": 800,
-        "avgLength": 14.2,
-        "lastPopulatedDate": "2026-05-14"
+        "population": 1600,
+        "avgLength": 15.14,
+        "lastPopulatedDate": "2026-07-22"
       },
       "walleye": {
         "population": 0,
@@ -3941,6 +4051,16 @@
         "stockDate": "2026-05-14",
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 800
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "cutthroatTrout",
+        "amountPopulated": 395
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "cutthroatTrout",
+        "amountPopulated": 405
       }
     ]
   },
@@ -4787,7 +4907,7 @@
       },
       "rainbowTrout": {
         "population": 400,
-        "avgLength": 23.1,
+        "avgLength": 23.11,
         "lastPopulatedDate": "2026-05-09"
       },
       "cutthroatTrout": {
@@ -5232,9 +5352,9 @@
   {
     "id": "kids_can_catch_pond",
     "waterBodyName": "Kids Can Catch Pond",
-    "avgLength": 24.86,
+    "avgLength": 25.5,
     "latestStockDate": "2026-06-25",
-    "population": 86,
+    "population": 136,
     "location": {
       "name": "SW13-24-1-W5",
       "latitude": 0,
@@ -5261,8 +5381,8 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 86,
-        "avgLength": 24.86,
+        "population": 136,
+        "avgLength": 25.5,
         "lastPopulatedDate": "2026-06-25"
       },
       "cutthroatTrout": {
@@ -5289,6 +5409,11 @@
       },
       {
         "stockDate": "2026-06-25",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 50
+      },
+      {
+        "stockDate": "2026-06-15",
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 50
       }
@@ -5717,7 +5842,7 @@
   {
     "id": "lara_fish_pond",
     "waterBodyName": "Lara Fish Pond",
-    "avgLength": 23.5,
+    "avgLength": 23.54,
     "latestStockDate": "2026-05-11",
     "population": 400,
     "location": {
@@ -5747,7 +5872,7 @@
       },
       "rainbowTrout": {
         "population": 400,
-        "avgLength": 23.5,
+        "avgLength": 23.54,
         "lastPopulatedDate": "2026-05-11"
       },
       "cutthroatTrout": {
@@ -6630,61 +6755,6 @@
     ]
   },
   {
-    "id": "mcclennan_reservoir",
-    "waterBodyName": "McClennan Reservoir",
-    "avgLength": 23.7,
-    "latestStockDate": "2026-05-19",
-    "population": 500,
-    "location": {
-      "name": "SW32-77-19-W5",
-      "latitude": 0,
-      "longitude": 0,
-      "cityRange": {
-        "calgaryKMRange": 0,
-        "edmontonKMRange": 0
-      }
-    },
-    "fishTypes": {
-      "brookTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "brownTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "tigerTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "rainbowTrout": {
-        "population": 500,
-        "avgLength": 23.7,
-        "lastPopulatedDate": "2026-05-19"
-      },
-      "cutthroatTrout": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      },
-      "walleye": {
-        "population": 0,
-        "avgLength": 0,
-        "lastPopulatedDate": ""
-      }
-    },
-    "logs": [
-      {
-        "stockDate": "2026-05-19",
-        "typeOfFish": "rainbowTrout",
-        "amountPopulated": 500
-      }
-    ]
-  },
-  {
     "id": "mcleod_lake_carson",
     "waterBodyName": "McLeod Lake (Carson)",
     "avgLength": 17.84,
@@ -6895,6 +6965,61 @@
     ]
   },
   {
+    "id": "mcclennan_reservoir",
+    "waterBodyName": "Mcclennan Reservoir",
+    "avgLength": 23.7,
+    "latestStockDate": "2026-05-19",
+    "population": 500,
+    "location": {
+      "name": "SW32-77-19-W5",
+      "latitude": 0,
+      "longitude": 0,
+      "cityRange": {
+        "calgaryKMRange": 0,
+        "edmontonKMRange": 0
+      }
+    },
+    "fishTypes": {
+      "brookTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "brownTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "tigerTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "rainbowTrout": {
+        "population": 500,
+        "avgLength": 23.7,
+        "lastPopulatedDate": "2026-05-19"
+      },
+      "cutthroatTrout": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      },
+      "walleye": {
+        "population": 0,
+        "avgLength": 0,
+        "lastPopulatedDate": ""
+      }
+    },
+    "logs": [
+      {
+        "stockDate": "2026-05-19",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 500
+      }
+    ]
+  },
+  {
     "id": "mclarens_reservoir",
     "waterBodyName": "Mclaren's Reservoir",
     "avgLength": 21.77,
@@ -6957,9 +7082,9 @@
   {
     "id": "mclean_pond",
     "waterBodyName": "Mclean Pond",
-    "avgLength": 14.2,
-    "latestStockDate": "2026-05-14",
-    "population": 2300,
+    "avgLength": 14.25,
+    "latestStockDate": "2026-07-22",
+    "population": 4600,
     "location": {
       "name": "NW20-22-5-W5",
       "latitude": 0,
@@ -6991,9 +7116,9 @@
         "lastPopulatedDate": ""
       },
       "cutthroatTrout": {
-        "population": 2300,
-        "avgLength": 14.2,
-        "lastPopulatedDate": "2026-05-14"
+        "population": 4600,
+        "avgLength": 14.25,
+        "lastPopulatedDate": "2026-07-22"
       },
       "walleye": {
         "population": 0,
@@ -7004,6 +7129,11 @@
     "logs": [
       {
         "stockDate": "2026-05-14",
+        "typeOfFish": "cutthroatTrout",
+        "amountPopulated": 2300
+      },
+      {
+        "stockDate": "2026-07-22",
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 2300
       }
@@ -7782,9 +7912,9 @@
   {
     "id": "mount_lorette_ponds",
     "waterBodyName": "Mount Lorette Ponds",
-    "avgLength": 17.84,
-    "latestStockDate": "2026-06-25",
-    "population": 4000,
+    "avgLength": 18.34,
+    "latestStockDate": "2026-07-22",
+    "population": 5095,
     "location": {
       "name": "SW19-23-8-W5",
       "latitude": 0,
@@ -7811,14 +7941,14 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 1600,
-        "avgLength": 21.25,
-        "lastPopulatedDate": "2026-06-25"
+        "population": 2095,
+        "avgLength": 21.64,
+        "lastPopulatedDate": "2026-07-22"
       },
       "cutthroatTrout": {
-        "population": 2400,
-        "avgLength": 15.57,
-        "lastPopulatedDate": "2026-06-25"
+        "population": 3000,
+        "avgLength": 16.04,
+        "lastPopulatedDate": "2026-07-22"
       },
       "walleye": {
         "population": 0,
@@ -7856,6 +7986,16 @@
         "stockDate": "2026-06-25",
         "typeOfFish": "cutthroatTrout",
         "amountPopulated": 800
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 495
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "cutthroatTrout",
+        "amountPopulated": 600
       }
     ]
   },
@@ -10717,9 +10857,9 @@
   {
     "id": "sibbald_lake",
     "waterBodyName": "Sibbald Lake",
-    "avgLength": 20.3,
-    "latestStockDate": "2026-05-14",
-    "population": 1130,
+    "avgLength": 21.52,
+    "latestStockDate": "2026-07-22",
+    "population": 2130,
     "location": {
       "name": "NE14-24-7-W5",
       "latitude": 0,
@@ -10746,9 +10886,9 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 1130,
-        "avgLength": 20.3,
-        "lastPopulatedDate": "2026-05-14"
+        "population": 2130,
+        "avgLength": 21.52,
+        "lastPopulatedDate": "2026-07-22"
       },
       "cutthroatTrout": {
         "population": 0,
@@ -10766,15 +10906,20 @@
         "stockDate": "2026-05-14",
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1130
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 1000
       }
     ]
   },
   {
     "id": "sibbald_meadows_pond",
     "waterBodyName": "Sibbald Meadows Pond",
-    "avgLength": 21.92,
-    "latestStockDate": "2026-05-14",
-    "population": 2000,
+    "avgLength": 22.41,
+    "latestStockDate": "2026-07-22",
+    "population": 4000,
     "location": {
       "name": "SW20-24-7-W5",
       "latitude": 0,
@@ -10801,9 +10946,9 @@
         "lastPopulatedDate": ""
       },
       "rainbowTrout": {
-        "population": 2000,
-        "avgLength": 21.92,
-        "lastPopulatedDate": "2026-05-14"
+        "population": 4000,
+        "avgLength": 22.41,
+        "lastPopulatedDate": "2026-07-22"
       },
       "cutthroatTrout": {
         "population": 0,
@@ -10826,6 +10971,11 @@
         "stockDate": "2026-05-14",
         "typeOfFish": "rainbowTrout",
         "amountPopulated": 1350
+      },
+      {
+        "stockDate": "2026-07-22",
+        "typeOfFish": "rainbowTrout",
+        "amountPopulated": 2000
       }
     ]
   },
